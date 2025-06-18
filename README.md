@@ -1,8 +1,12 @@
 # GitHub 仓库更新监控工具
 # v0.2
 
+<<<<<<< HEAD
 
 
+=======
+![image](https://github.com/user-attachments/assets/62aca522-042c-474a-9555-1468f44a402d)
+>>>>>>> 8c45dafbfc62b94f62cc53c7c041c34e2d2d0173
 
 
 这是一个用于监控 GitHub 仓库更新的工具，支持邮件和 Slack 通知。

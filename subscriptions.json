@@ -1,5 +1,6 @@
 {
     "repositories": [
+<<<<<<< HEAD
         "openai/openai-python",
         "langchain-ai/langchain",
         "huggingface/transformers",
@@ -22,3 +23,9 @@
         "microsoft/DeepSpeed-Chat-Examples"
     ]
 }
+=======
+        "owner/repo1",
+        "owner/repo2"
+    ]
+} 
+>>>>>>> 8c45dafbfc62b94f62cc53c7c041c34e2d2d0173

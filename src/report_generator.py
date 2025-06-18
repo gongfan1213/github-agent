@@ -7,6 +7,7 @@
 - 支持多种报告格式
 """
 
+<<<<<<< HEAD
 from datetime import datetime
 
 class ReportGenerator:
@@ -81,3 +82,14 @@ class ReportGenerator:
             report.append("")  # 添加空行分隔不同仓库
         
         return "\n".join(report)
+=======
+class ReportGenerator:
+    def generate(self, updates):
+        # Implement report generation logic
+        report = ""
+        for repo, events in updates.items():
+            report += f"Repository: {repo}\n"
+            for event in events:
+                report += f"- {event['type']} at {event['created_at']}\n"
+        return report
+>>>>>>> 8c45dafbfc62b94f62cc53c7c041c34e2d2d0173

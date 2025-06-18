@@ -1,8 +1,15 @@
 {
+<<<<<<< HEAD
     "github_token": "YOUR_GITHUB_TOKEN",
     "notification_settings": {
         "email": "YOUR_EMAIL",
         "slack_webhook_url": "YOUR_SLACK_WEBHOOK_URL"
+=======
+    "github_token": "你的_github_令牌",
+    "notification_settings": {
+        "email": "你的邮箱@example.com",
+        "slack_webhook_url": "你的_slack_webhook_地址"
+>>>>>>> 8c45dafbfc62b94f62cc53c7c041c34e2d2d0173
     },
     "subscriptions_file": "subscriptions.json",
     "update_interval": 86400
