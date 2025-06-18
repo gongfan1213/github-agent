@@ -1,0 +1,4945 @@
+==================================================
+GitHub 仓库更新报告
+生成时间：2025-06-18 13:37:08
+==================================================
+
+openai/openai-python
+--------------------------------------------------
+更新时间：2025-06-17 16:35:34
+事件类型：WatchEvent
+未知事件类型
+
+更新时间：2025-06-17 15:57:02
+事件类型：IssueCommentEvent
+未知事件类型
+
+更新时间：2025-06-17 14:52:22
+事件类型：PullRequestEvent
+PR标题：release: 1.88.1
+提交者：stainless-app[bot]
+
+更新时间：2025-06-17 14:52:16
+事件类型：PushEvent
+提交信息：
+    - release: 1.88.1 (stainless-app[bot])
+
+更新时间：2025-06-17 14:51:59
+事件类型：CreateEvent
+未知事件类型
+
+更新时间：2025-06-17 14:51:30
+事件类型：PushEvent
+提交信息：
+    - chore(readme): update badges (stainless-app[bot])
+
+更新时间：2025-06-17 14:51:28
+事件类型：PushEvent
+提交信息：
+    - chore(readme): update badges (stainless-app[bot])
+
+更新时间：2025-06-17 13:51:50
+事件类型：IssuesEvent
+Issue标题：Parse method in the Responses API does not have service_tier parameter
+提交者：kmkolasinski
+
+更新时间：2025-06-17 13:48:59
+事件类型：ForkEvent
+未知事件类型
+
+更新时间：2025-06-17 13:35:24
+事件类型：ForkEvent
+未知事件类型
+
+更新时间：2025-06-17 12:44:38
+事件类型：PullRequestEvent
+PR标题：feat(examples): add robust error handling script
+提交者：Abdul565656
+
+更新时间：2025-06-17 12:38:50
+事件类型：ForkEvent
+未知事件类型
+
+更新时间：2025-06-17 12:33:02
+事件类型：WatchEvent
+未知事件类型
+
+更新时间：2025-06-17 12:09:59
+事件类型：WatchEvent
+未知事件类型
+
+更新时间：2025-06-17 10:50:56
+事件类型：ForkEvent
+未知事件类型
+
+更新时间：2025-06-17 09:51:47
+事件类型：WatchEvent
+未知事件类型
+
+更新时间：2025-06-17 09:40:30
+事件类型：ForkEvent
+未知事件类型
+
+更新时间：2025-06-17 09:00:08
+事件类型：WatchEvent
+未知事件类型
+
+更新时间：2025-06-17 08:44:38
+事件类型：WatchEvent
+未知事件类型
+
+更新时间：2025-06-17 08:20:32
+事件类型：WatchEvent
+未知事件类型
+
+更新时间：2025-06-17 07:27:50
+事件类型：IssuesEvent
+Issue标题：EchoBridge Containment Log – Staff-Level Confirmation Request
+提交者：Steff2424
+
+更新时间：2025-06-17 07:15:47
+事件类型：WatchEvent
+未知事件类型
+
+更新时间：2025-06-17 06:23:10
+事件类型：IssueCommentEvent
+未知事件类型
+
+更新时间：2025-06-17 06:08:43
+事件类型：ForkEvent
+未知事件类型
+
+更新时间：2025-06-17 05:04:32
+事件类型：PushEvent
+提交信息：
+    - chore(internal): version bump (stainless-app[bot])
+
+更新时间：2025-06-17 05:04:18
+事件类型：IssueCommentEvent
+未知事件类型
+
+更新时间：2025-06-17 05:04:14
+事件类型：CreateEvent
+未知事件类型
+
+更新时间：2025-06-17 05:04:14
+事件类型：ReleaseEvent
+未知事件类型
+
+更新时间：2025-06-17 05:04:10
+事件类型：PushEvent
+提交信息：
+    - feat(api): manual updates (stainless-app[bot])
+    - chore(internal): minor formatting (stainless-app[bot])
+    - chore(ci): enable for pull requests (stainless-app[bot])
+    - release: 1.88.0 (stainless-app[bot])
+
+更新时间：2025-06-17 05:03:55
+事件类型：PushEvent
+提交信息：
+    - feat(api): manual updates (stainless-app[bot])
+    - chore(internal): minor formatting (stainless-app[bot])
+    - chore(ci): enable for pull requests (stainless-app[bot])
+    - release: 1.88.0 (stainless-app[bot])
+
+
+langchain-ai/langchain
+--------------------------------------------------
+更新时间：2025-06-17 17:29:24
+事件类型：IssueCommentEvent
+未知事件类型
+
+更新时间：2025-06-17 17:28:01
+事件类型：IssueCommentEvent
+未知事件类型
+
+更新时间：2025-06-17 17:27:57
+事件类型：PullRequestEvent
+PR标题：fix: correct typo in docstring for three_values fixture
+提交者：mdrxy
+
+更新时间：2025-06-17 17:27:16
+事件类型：ForkEvent
+未知事件类型
+
+更新时间：2025-06-17 17:26:18
+事件类型：CreateEvent
+未知事件类型
+
+更新时间：2025-06-17 17:10:11
+事件类型：WatchEvent
+未知事件类型
+
+更新时间：2025-06-17 17:01:28
+事件类型：WatchEvent
+未知事件类型
+
+更新时间：2025-06-17 16:53:25
+事件类型：ForkEvent
+未知事件类型
+
+更新时间：2025-06-17 16:49:34
+事件类型：WatchEvent
+未知事件类型
+
+更新时间：2025-06-17 16:08:31
+事件类型：IssueCommentEvent
+未知事件类型
+
+更新时间：2025-06-17 16:08:31
+事件类型：IssuesEvent
+Issue标题：ChatOllama with_structured_output not honoured by langchain. Works fine using direct ollama chat() call.
+提交者：jonmach
+
+更新时间：2025-06-17 16:06:56
+事件类型：ForkEvent
+未知事件类型
+
+更新时间：2025-06-17 16:06:24
+事件类型：WatchEvent
+未知事件类型
+
+更新时间：2025-06-17 16:05:59
+事件类型：IssueCommentEvent
+未知事件类型
+
+更新时间：2025-06-17 16:03:08
+事件类型：IssueCommentEvent
+未知事件类型
+
+更新时间：2025-06-17 16:03:08
+事件类型：IssueCommentEvent
+未知事件类型
+
+更新时间：2025-06-17 16:03:07
+事件类型：IssueCommentEvent
+未知事件类型
+
+更新时间：2025-06-17 16:03:06
+事件类型：IssueCommentEvent
+未知事件类型
+
+更新时间：2025-06-17 16:03:05
+事件类型：IssueCommentEvent
+未知事件类型
+
+更新时间：2025-06-17 16:03:04
+事件类型：IssueCommentEvent
+未知事件类型
+
+更新时间：2025-06-17 16:01:26
+事件类型：IssuesEvent
+Issue标题：[Bug]RunnableConfig cannot be passed between chained operations on some systems
+提交者：FT-Fetters
+
+更新时间：2025-06-17 16:01:26
+事件类型：IssuesEvent
+Issue标题：DOCS (meta): Notebooks should be considered "first-class" entities
+提交者：hesreallyhim
+
+更新时间：2025-06-17 16:01:25
+事件类型：IssuesEvent
+Issue标题：ChatPromptTemplate with template_format='mustache' threat placeholder still a f-string
+提交者：skabbit
+
+更新时间：2025-06-17 16:01:25
+事件类型：IssuesEvent
+Issue标题：Calling Chroma.from_documents() returns sqlite3.OperationalError: attempt to write a readonly database, but only sometimes
+提交者：gracewzhang
+
+更新时间：2025-06-17 15:47:13
+事件类型：WatchEvent
+未知事件类型
+
+更新时间：2025-06-17 15:42:50
+事件类型：WatchEvent
+未知事件类型
+
+更新时间：2025-06-17 15:31:24
+事件类型：PushEvent
+提交信息：
+    - update test in langchain (Chester Curme)
+
+更新时间：2025-06-17 15:25:13
+事件类型：PullRequestEvent
+PR标题：docs: update agents tutorial to use langchain-tavily
+提交者：ccurme
+
+更新时间：2025-06-17 15:25:06
+事件类型：DeleteEvent
+未知事件类型
+
+更新时间：2025-06-17 15:25:06
+事件类型：PushEvent
+提交信息：
+    - docs: update agents tutorial to use langchain-tavily (#31637) (ccurme)
+
+
+huggingface/transformers
+--------------------------------------------------
+更新时间：2025-06-17 17:32:22
+事件类型：IssueCommentEvent
+未知事件类型
+
+更新时间：2025-06-17 17:30:05
+事件类型：PushEvent
+提交信息：
+    - Update CvT documentation with improved usage examples and additional … (#38731)
+
+* Update CvT documentation with improved usage examples and additional notes
+
+* initial update
+
+* cvt
+
+* Update docs/source/en/model_doc/cvt.md
+
+Co-authored-by: Steven Liu <59462357+stevhliu@users.noreply.github.com>
+
+* Update cvt.md
+
+---------
+
+Co-authored-by: Steven Liu <59462357+stevhliu@users.noreply.github.com> (Md. Muhaimin Rahman)
+
+更新时间：2025-06-17 17:30:04
+事件类型：PullRequestEvent
+PR标题：Update CvT documentation with improved usage examples and additional …
+提交者：sezan92
+
+更新时间：2025-06-17 17:29:19
+事件类型：IssueCommentEvent
+未知事件类型
+
+更新时间：2025-06-17 17:25:49
+事件类型：PullRequestReviewEvent
+未知事件类型
+
+更新时间：2025-06-17 17:25:09
+事件类型：IssueCommentEvent
+未知事件类型
+
+更新时间：2025-06-17 17:24:31
+事件类型：ForkEvent
+未知事件类型
+
+更新时间：2025-06-17 17:14:06
+事件类型：WatchEvent
+未知事件类型
+
+更新时间：2025-06-17 17:11:01
+事件类型：WatchEvent
+未知事件类型
+
+更新时间：2025-06-17 17:08:24
+事件类型：PullRequestReviewCommentEvent
+未知事件类型
+
+更新时间：2025-06-17 17:04:00
+事件类型：PullRequestReviewCommentEvent
+未知事件类型
+
+更新时间：2025-06-17 17:10:35
+事件类型：PullRequestReviewCommentEvent
+未知事件类型
+
+更新时间：2025-06-17 17:04:16
+事件类型：PullRequestReviewCommentEvent
+未知事件类型
+
+更新时间：2025-06-17 17:10:12
+事件类型：PullRequestReviewCommentEvent
+未知事件类型
+
+更新时间：2025-06-17 17:04:38
+事件类型：PullRequestReviewCommentEvent
+未知事件类型
+
+更新时间：2025-06-17 17:04:28
+事件类型：PullRequestReviewCommentEvent
+未知事件类型
+
+更新时间：2025-06-17 17:08:58
+事件类型：PullRequestReviewCommentEvent
+未知事件类型
+
+更新时间：2025-06-17 17:01:58
+事件类型：PullRequestReviewCommentEvent
+未知事件类型
+
+更新时间：2025-06-17 17:03:04
+事件类型：PullRequestReviewCommentEvent
+未知事件类型
+
+更新时间：2025-06-17 17:01:19
+事件类型：PullRequestReviewCommentEvent
+未知事件类型
+
+更新时间：2025-06-17 16:59:13
+事件类型：PullRequestReviewCommentEvent
+未知事件类型
+
+更新时间：2025-06-17 16:57:59
+事件类型：PullRequestReviewCommentEvent
+未知事件类型
+
+更新时间：2025-06-17 16:59:49
+事件类型：PullRequestReviewCommentEvent
+未知事件类型
+
+更新时间：2025-06-17 16:57:12
+事件类型：PullRequestReviewCommentEvent
+未知事件类型
+
+更新时间：2025-06-17 17:10:55
+事件类型：PullRequestReviewEvent
+未知事件类型
+
+更新时间：2025-06-17 17:10:55
+事件类型：PullRequestReviewEvent
+未知事件类型
+
+更新时间：2025-06-17 17:04:25
+事件类型：IssueCommentEvent
+未知事件类型
+
+更新时间：2025-06-17 17:04:03
+事件类型：IssueCommentEvent
+未知事件类型
+
+更新时间：2025-06-17 17:00:30
+事件类型：IssueCommentEvent
+未知事件类型
+
+更新时间：2025-06-17 16:56:19
+事件类型：IssueCommentEvent
+未知事件类型
+
+
+microsoft/semantic-kernel
+--------------------------------------------------
+更新时间：2025-06-17 17:49:06
+事件类型：WatchEvent
+未知事件类型
+
+更新时间：2025-06-17 17:30:02
+事件类型：IssueCommentEvent
+未知事件类型
+
+更新时间：2025-06-17 17:16:25
+事件类型：PullRequestReviewCommentEvent
+未知事件类型
+
+更新时间：2025-06-17 17:10:18
+事件类型：PullRequestReviewCommentEvent
+未知事件类型
+
+更新时间：2025-06-17 17:07:16
+事件类型：PullRequestReviewCommentEvent
+未知事件类型
+
+更新时间：2025-06-17 17:28:21
+事件类型：PullRequestReviewEvent
+未知事件类型
+
+更新时间：2025-06-17 17:14:37
+事件类型：PullRequestReviewCommentEvent
+未知事件类型
+
+更新时间：2025-06-17 17:25:15
+事件类型：PullRequestReviewCommentEvent
+未知事件类型
+
+更新时间：2025-06-17 17:06:08
+事件类型：PullRequestReviewCommentEvent
+未知事件类型
+
+更新时间：2025-06-17 17:12:37
+事件类型：PullRequestReviewCommentEvent
+未知事件类型
+
+更新时间：2025-06-17 16:25:56
+事件类型：DeleteEvent
+未知事件类型
+
+更新时间：2025-06-17 16:25:55
+事件类型：DeleteEvent
+未知事件类型
+
+更新时间：2025-06-17 16:25:55
+事件类型：PullRequestEvent
+PR标题：Python: Agent response callbacks to provide full context
+提交者：TaoChenOSU
+
+更新时间：2025-06-17 16:25:55
+事件类型：PushEvent
+提交信息：
+    - Python: Agent response callbacks to provide full context (#12501)
+
+### Motivation and Context
+
+<!-- Thank you for your contribution to the semantic-kernel repo!
+Please help reviewers and future users, providing the following
+information:
+  1. Why is this change required?
+  2. What problem does it solve?
+  3. What scenario does it contribute to?
+  4. If it fixes an open issue, please link to the issue here.
+-->
+Currently, the agent response callbacks in the `Orchestrations` are
+triggered only when the final responses from the agents become
+available. This limits developers to create solutions that can expose
+the internal processing of the agents in multi agent orchestrations.
+
+### Description
+
+<!-- Describe your changes, the overall approach, the underlying design.
+These notes will help understanding how your code works. Thanks! -->
+The callbacks will now be triggered by the intermediate messages of the
+agents:
+1. A new sample
+2. Tests
+
+P.s. Fix a bug where the name of the intermediate messages is not
+assigned.
+
+### Contribution Checklist
+
+<!-- Before submitting this PR, please make sure: -->
+
+- [x] The code builds clean without any errors or warnings
+- [x] The PR follows the [SK Contribution
+Guidelines](https://github.com/microsoft/semantic-kernel/blob/main/CONTRIBUTING.md)
+and the [pre-submission formatting
+script](https://github.com/microsoft/semantic-kernel/blob/main/CONTRIBUTING.md#development-scripts)
+raises no violations
+- [x] All unit tests pass, and I have added new tests where possible
+- [x] I didn't break anyone :smile: (Tao Chen)
+
+更新时间：2025-06-17 16:17:27
+事件类型：CreateEvent
+未知事件类型
+
+更新时间：2025-06-17 16:05:19
+事件类型：ForkEvent
+未知事件类型
+
+更新时间：2025-06-17 16:02:33
+事件类型：PullRequestReviewEvent
+未知事件类型
+
+更新时间：2025-06-17 15:37:26
+事件类型：IssueCommentEvent
+未知事件类型
+
+更新时间：2025-06-17 15:34:07
+事件类型：PushEvent
+提交信息：
+    - fix tests (Tao Chen)
+
+更新时间：2025-06-17 15:24:23
+事件类型：DeleteEvent
+未知事件类型
+
+更新时间：2025-06-17 15:06:44
+事件类型：CreateEvent
+未知事件类型
+
+更新时间：2025-06-17 14:55:30
+事件类型：IssueCommentEvent
+未知事件类型
+
+更新时间：2025-06-17 14:28:45
+事件类型：IssueCommentEvent
+未知事件类型
+
+更新时间：2025-06-17 13:38:35
+事件类型：IssuesEvent
+Issue标题：Bug: ChatHistorySummarizationReducer.restore_chat_history() doesn't restore the correct service type
+提交者：danielescaramuzzi
+
+更新时间：2025-06-17 13:34:43
+事件类型：IssuesEvent
+Issue标题：Bug: Missing event data OnInputEvent with external
+提交者：hookenful
+
+更新时间：2025-06-17 13:30:36
+事件类型：WatchEvent
+未知事件类型
+
+更新时间：2025-06-17 13:28:44
+事件类型：ForkEvent
+未知事件类型
+
+更新时间：2025-06-17 13:01:32
+事件类型：ForkEvent
+未知事件类型
+
+更新时间：2025-06-17 12:44:01
+事件类型：PushEvent
+提交信息：
+    - Python: Naming and updates (#12462)
+
+### Motivation and Context
+
+<!-- Thank you for your contribution to the semantic-kernel repo!
+Please help reviewers and future users, providing the following
+information:
+  1. Why is this change required?
+  2. What problem does it solve?
+  3. What scenario does it contribute to?
+  4. If it fixes an open issue, please link to the issue here.
+-->
+Naming updates to align with dotnet
+Validation of create and delete logic for all connectors
+
+### Description
+
+<!-- Describe your changes, the overall approach, the underlying design.
+These notes will help understanding how your code works. Thanks! -->
+
+### Contribution Checklist
+
+<!-- Before submitting this PR, please make sure: -->
+
+- [ ] The code builds clean without any errors or warnings
+- [ ] The PR follows the [SK Contribution
+Guidelines](https://github.com/microsoft/semantic-kernel/blob/main/CONTRIBUTING.md)
+and the [pre-submission formatting
+script](https://github.com/microsoft/semantic-kernel/blob/main/CONTRIBUTING.md#development-scripts)
+raises no violations
+- [ ] All unit tests pass, and I have added new tests where possible
+- [ ] I didn't break anyone :smile: (Eduard van Valkenburg)
+
+更新时间：2025-06-17 12:44:01
+事件类型：PullRequestEvent
+PR标题：Python: Naming and updates
+提交者：eavanvalkenburg
+
+
+tensorflow/tensorflow
+--------------------------------------------------
+更新时间：2025-06-17 16:34:15
+事件类型：PullRequestEvent
+PR标题：advertise plugin_attributes and consume it
+提交者：copybara-service[bot]
+
+更新时间：2025-06-17 16:34:13
+事件类型：CreateEvent
+未知事件类型
+
+更新时间：2025-06-17 16:33:25
+事件类型：WatchEvent
+未知事件类型
+
+更新时间：2025-06-17 16:31:43
+事件类型：PullRequestEvent
+PR标题：Add an API to overwrite the current execution_stream_id and respect it in XLA CPU dispatch.
+提交者：copybara-service[bot]
+
+更新时间：2025-06-17 16:31:42
+事件类型：DeleteEvent
+未知事件类型
+
+更新时间：2025-06-17 16:31:41
+事件类型：PushEvent
+提交信息：
+    - Add an API to overwrite the current execution_stream_id and respect it in XLA CPU dispatch.
+
+PiperOrigin-RevId: 772500636 (Kuangyuan Chen)
+
+更新时间：2025-06-17 16:31:40
+事件类型：PushEvent
+提交信息：
+    - upgrading onednn 3.7 (Ashiq Imran)
+    - Upgrading to oneDNN 3.7.3 (Ashiq Imran)
+    - Merge branch 'master' into aimran/onednn3.7 (Ashiq Imran)
+    - included src/common/spdlog (Ashiq Imran)
+    - changes buildifier issue (Ashiq Imran)
+    - #sdy #mixed_serialization make changes in pjrt to allow JAX export with Shardy dialect.
+
+StableHLO now supports mixed serialization. So in the follow-up PR I will update JAX export to not stringify shardy ops and attrs.
+
+PiperOrigin-RevId: 772490125 (Bart Chrzaszcz)
+    - Merge pull request #90388 from Intel-tensorflow:aimran/onednn3.7
+
+PiperOrigin-RevId: 772499129 (TensorFlower Gardener)
+    - Add an API to overwrite the current execution_stream_id and respect it in XLA CPU dispatch.
+
+PiperOrigin-RevId: 772500636 (Kuangyuan Chen)
+
+更新时间：2025-06-17 16:21:45
+事件类型：PullRequestEvent
+PR标题：[ONEDNN] upgrading onednn 3.7
+提交者：ashiqimranintel
+
+更新时间：2025-06-17 16:21:44
+事件类型：PullRequestEvent
+PR标题：PR #90388: [ONEDNN] upgrading onednn 3.7
+提交者：copybara-service[bot]
+
+更新时间：2025-06-17 16:21:44
+事件类型：DeleteEvent
+未知事件类型
+
+更新时间：2025-06-17 16:21:43
+事件类型：PushEvent
+提交信息：
+    - upgrading onednn 3.7 (Ashiq Imran)
+    - Upgrading to oneDNN 3.7.3 (Ashiq Imran)
+    - Merge branch 'master' into aimran/onednn3.7 (Ashiq Imran)
+    - included src/common/spdlog (Ashiq Imran)
+    - changes buildifier issue (Ashiq Imran)
+    - Merge pull request #90388 from Intel-tensorflow:aimran/onednn3.7
+
+PiperOrigin-RevId: 772499129 (TensorFlower Gardener)
+
+更新时间：2025-06-17 16:21:42
+事件类型：PushEvent
+提交信息：
+    - upgrading onednn 3.7 (Ashiq Imran)
+    - Upgrading to oneDNN 3.7.3 (Ashiq Imran)
+    - Merge branch 'master' into aimran/onednn3.7 (Ashiq Imran)
+    - included src/common/spdlog (Ashiq Imran)
+    - changes buildifier issue (Ashiq Imran)
+    - Merge pull request #90388 from Intel-tensorflow:aimran/onednn3.7
+
+PiperOrigin-RevId: 772499129 (TensorFlower Gardener)
+
+更新时间：2025-06-17 16:11:15
+事件类型：WatchEvent
+未知事件类型
+
+更新时间：2025-06-17 16:11:10
+事件类型：PullRequestEvent
+PR标题：This is an automatic update to a device compatibility allowlist.
+提交者：copybara-service[bot]
+
+更新时间：2025-06-17 16:11:07
+事件类型：CreateEvent
+未知事件类型
+
+更新时间：2025-06-17 16:10:46
+事件类型：PushEvent
+提交信息：
+    - Disable a DCHECK in the cupti_tracer. This DCHECK is failing for certain cases in which a graph node is executed multiple times within a kernel, and we don't handle this case correctly.
+
+PiperOrigin-RevId: 772470712 (Rahul Nayar)
+    - [XLA:GPU] Delete no-op `TryCast` functions.
+
+> `down_cast` only returns null when the input is null. In debug mode, we use dynamic_cast to double-check whether the downcast is legal (we die if it's not). In normal mode, we do the efficient static_cast instead.
+
+PiperOrigin-RevId: 772479421 (Allan Renucci)
+    - #sdy #mixed_serialization make changes in pjrt to allow JAX export with Shardy dialect.
+
+StableHLO now supports mixed serialization. So in the follow-up PR I will update JAX export to not stringify shardy ops and attrs.
+
+PiperOrigin-RevId: 772490125 (Bart Chrzaszcz)
+    - PR #90388: [ONEDNN] upgrading onednn 3.7
+
+Imported from GitHub PR https://github.com/tensorflow/tensorflow/pull/90388
+
+This PR upgrades oneDNN version from v3.5 to v3.7, this PR has been tested on several models across different platforms including cascade-lake, sapphire-rapids, and granite-rapids
+
+Several bug fixes have been resolved in this version. Details can be found here
+https://github.com/oneapi-src/oneDNN/releases
+
+Note:
+
+The oneDNN 3.6.2 release contains server which causes TensorFlow test failures
+(REF to this public PR for 3.6.2 upgrade: https://github.com/tensorflow/tensorflow/pull/77927).
+So oneDNN 3.6.2 is skipped.
+Copybara import of the project:
+
+--
+a05fa47b8f115d6d6746999fa8b85cbebfa0317d by Ashiq Imran <ashiq.imran@intel.com>:
+
+upgrading onednn 3.7
+
+--
+1217a6997e1396dd6fcdd5332b50b8c520c7a249 by Ashiq Imran <ashiq.imran@intel.com>:
+
+Upgrading to oneDNN 3.7.3
+
+--
+550bc0c808f9dcfd76dc3eaed25754aec81b92ef by Ashiq Imran <ashiq.imran@intel.com>:
+
+included src/common/spdlog
+--
+f8956dcf251a1d337734e400f5083278c31614c9 by Ashiq Imran <ashiq.imran@intel.com>:
+
+changes buildifier issue
+
+Merging this change closes #90388
+
+FUTURE_COPYBARA_INTEGRATE_REVIEW=https://github.com/tensorflow/tensorflow/pull/90388 from Intel-tensorflow:aimran/onednn3.7 f8956dcf251a1d337734e400f5083278c31614c9
+PiperOrigin-RevId: 772061759 (Ashiq Imran)
+
+更新时间：2025-06-17 16:08:36
+事件类型：PushEvent
+提交信息：
+    - This change introduces a new mechanism for tracking CUDA graph events within the profiling system.
+
+PiperOrigin-RevId: 772251947 (Rahul Nayar)
+    - Test fusion model for an operand not belonging to fusion op.
+
+PiperOrigin-RevId: 772254269 (A. Unique TensorFlower)
+    - Add ComputePeakMemory method to buffer_assignment API.
+
+PiperOrigin-RevId: 772281941 (Matthias Kramm)
+    - Add AcquireScopedRawBuffer(...) to CommonPjRtBuffer which
+gives access to the buffer + definition events in order to perform
+read-only operations operations on this returned buffer.
+
+PiperOrigin-RevId: 772290875 (Parker Schuh)
+    - Automated Code Change
+
+PiperOrigin-RevId: 772298385 (A. Unique TensorFlower)
+    - Automated Code Change
+
+PiperOrigin-RevId: 772300010 (A. Unique TensorFlower)
+    - This change updates XLA and sets the default CUDA and cuDNN versions to 12.8.0 and 9.8.0, respectively, in all configurations.
+
+Context:
+
+JAX was updated to use CUDA 12.8.0 and cuDNN 9.8.0 three months ago (March 24, 2025) in [jax-ml/jax#27299](https://github.com/jax-ml/jax/pull/27299). This PR aligns XLA with these versions to ensure compatibility and consistency.
+
+In this change we’ve also stopped using `/dt9` as the sysroot during XLA compilation/tests and instead rely on the system libraries provided by Ubuntu 22.04, including glibc.
+
+The `/dt9` environment is based on glibc 2.17, which was standard back in 2014. However, CUDA 12.8.0 is not compatible with such an outdated version - it requires glibc 2.27 or newer.
+
+As a practical solution, we're now using the ml-build Docker image to pin specific versions of both the sysroot and the Clang toolchain. ml-build is based on Ubuntu 22.04 (glibc 2.35, clang-18), which is currently the most widely used platform among deep learning practitioners.
+
+PiperOrigin-RevId: 772301051 (Alex Pivovarov)
+    - Reverts ea1edc8a3da18911079b86b648328feca483170e
+
+PiperOrigin-RevId: 772327219 (A. Unique TensorFlower)
+    - Automated Code Change
+
+PiperOrigin-RevId: 772346492 (A. Unique TensorFlower)
+    - Add AliasInfo class that will replace the separate alias hint hooks.
+
+This will replace the CanShareBuffer hook and add another hook for
+GetInPlaceInputOutputPairs.
+
+PiperOrigin-RevId: 772346923 (Adrian Kuegel)
+    - [XLA:GPU] NFC optional separator when printing tiled HLO instruction and tiling
+
+consmetics for printf
+
+PiperOrigin-RevId: 772358839 (Mikhail Goncharov)
+    - [XLA:CPU] Disable loop unrolling for certain reduce operations.
+
+PiperOrigin-RevId: 772371530 (Karlo Basioli)
+    - Update GraphDef version to 2261.
+
+PiperOrigin-RevId: 772373439 (A. Unique TensorFlower)
+    - compat: Update forward compatibility horizon to 2025-06-17
+
+PiperOrigin-RevId: 772373480 (A. Unique TensorFlower)
+    - Add stream_executor in GPU codegen backend.
+
+- TargetConfig is constructed from stream_executor now.
+
+PiperOrigin-RevId: 772382526 (A. Unique TensorFlower)
+    - Automated Code Change
+
+PiperOrigin-RevId: 772383239 (A. Unique TensorFlower)
+    - Rename MultiKernelLoaderSpec to KernelLoaderSpec
+
+The `Multi` prefix doesn't make sense anymore since the spec can't carry multiple specifications anymore. It has always been confusing anyway because people read it as "multiple kernels" but it actually meant "multiple specs" of the same kernel.
+
+PiperOrigin-RevId: 772383706 (Henning Becker)
+    - [XLA:GPU] Add more statistics to triton dot algorithms tests.
+
+- Print standard deviation of the relative errors
+- Print the Coefficient of Variation
+- Better visual representation of the histograms
+
+PiperOrigin-RevId: 772400850 (Ilya Tikhonovskiy)
+    - Remove stream_executor from Autotuner and CodegenBackend interface.
+
+PiperOrigin-RevId: 772412322 (A. Unique TensorFlower)
+    - Reverts 5bbbad81b50017b7640c51a7bd1ef0be664452ad
+
+PiperOrigin-RevId: 772416510 (Tom Natan)
+
+更新时间：2025-06-17 15:57:01
+事件类型：PullRequestReviewEvent
+未知事件类型
+
+更新时间：2025-06-17 15:56:32
+事件类型：PullRequestReviewCommentEvent
+未知事件类型
+
+更新时间：2025-06-17 15:56:36
+事件类型：PullRequestReviewEvent
+未知事件类型
+
+更新时间：2025-06-17 15:55:51
+事件类型：PullRequestReviewCommentEvent
+未知事件类型
+
+更新时间：2025-06-17 15:55:55
+事件类型：PullRequestReviewEvent
+未知事件类型
+
+更新时间：2025-06-17 15:54:02
+事件类型：PullRequestEvent
+PR标题：#sdy #mixed_serialization make changes in pjrt to allow JAX export with Shardy dialect.
+提交者：copybara-service[bot]
+
+更新时间：2025-06-17 15:54:01
+事件类型：DeleteEvent
+未知事件类型
+
+更新时间：2025-06-17 15:54:00
+事件类型：PushEvent
+提交信息：
+    - #sdy #mixed_serialization make changes in pjrt to allow JAX export with Shardy dialect.
+
+StableHLO now supports mixed serialization. So in the follow-up PR I will update JAX export to not stringify shardy ops and attrs.
+
+PiperOrigin-RevId: 772490125 (Bart Chrzaszcz)
+
+更新时间：2025-06-17 15:53:59
+事件类型：PushEvent
+提交信息：
+    - [XLA:GPU] Delete no-op `TryCast` functions.
+
+> `down_cast` only returns null when the input is null. In debug mode, we use dynamic_cast to double-check whether the downcast is legal (we die if it's not). In normal mode, we do the efficient static_cast instead.
+
+PiperOrigin-RevId: 772479421 (Allan Renucci)
+    - #sdy #mixed_serialization make changes in pjrt to allow JAX export with Shardy dialect.
+
+StableHLO now supports mixed serialization. So in the follow-up PR I will update JAX export to not stringify shardy ops and attrs.
+
+PiperOrigin-RevId: 772490125 (Bart Chrzaszcz)
+
+更新时间：2025-06-17 15:52:16
+事件类型：PushEvent
+提交信息：
+    - Remove the tfl dialect dependency from tf-tfrt-opt.
+
+PiperOrigin-RevId: 772092144 (Daniel Sosa)
+    - Reverts 403b17d3963d470ad2179f7fa80db1162cfc4d44
+
+PiperOrigin-RevId: 772093108 (A. Unique TensorFlower)
+    - Implement HLO to Shardy transformation.
+
+PiperOrigin-RevId: 772095018 (A. Unique TensorFlower)
+    - [XLA] Refactor if-else chain into a switch.
+
+PiperOrigin-RevId: 772115082 (Michael Kuperstein)
+    - Temporarily remove scatter from the list of supported ops in conditional code motion due to internal breakage.
+
+PiperOrigin-RevId: 772123183 (Farzin Houshmand)
+    - Delete `test_macros.h` and final remaining uses
+
+PiperOrigin-RevId: 772130352 (David Dunleavy)
+    - unicode_ops: Stack allocate WrappedConverters
+
+WrappedConverter is 32 bytes and there's no reason to heap-allocate.
+
+PiperOrigin-RevId: 772138227 (Jesse Rosenstock)
+    - Ensure all Android SDK supports 16KB page size
+
+https://developer.android.com/guide/practices/page-sizes
+https://github.com/google-ai-edge/mediapipe/issues/5728
+
+Tested with the following commands:
+$ bazel build -c opt --fat_apk_cpu=x86,x86_64,arm64-v8a,armeabi-v7a \
+    --define=android_dexmerger_tool=d8_dexmerger \
+    --define=android_incremental_dexing_tool=d8_dexbuilder \
+    --define=xnn_enable_avxvnniint8=false \
+    tensorflow/lite/java:tensorflow-lite
+$ unzip bazel-bin/tensorflow/lite/java/tensorflow-lite.aar -d /tmp/tflite-aar/
+$ check_elf_alignment.sh /tmp/tflite-aar/jni/arm64-v8a/libtensorflowlite_jni.so
+
+PiperOrigin-RevId: 772153597 (Terry Heo)
+    - Close delegates before deleting modelHandle
+
+Delegates may reference the model when closing, so we should close the delegate first to avoid UAF.
+
+PiperOrigin-RevId: 772199210 (Tommy Chiang)
+    - Remove redundant default select conditions.
+
+PiperOrigin-RevId: 772204254 (A. Unique TensorFlower)
+    - Integrate StableHLO at openxla/stablehlo@20a9bc16
+
+PiperOrigin-RevId: 772211069 (Sandeep Dasgupta)
+    - [Phase Compilation] Part-1: PJRT extensions to implement phase compilation.
+
+* The definition of PJRT_PhaseCompiler/xla::PjRtPhaseCompiler will be introduced in the next CL.
+
+PiperOrigin-RevId: 772221863 (Sandeep Dasgupta)
+    - This change introduces a new mechanism for tracking CUDA graph events within the profiling system.
+
+PiperOrigin-RevId: 772251947 (Rahul Nayar)
+    - Test fusion model for an operand not belonging to fusion op.
+
+PiperOrigin-RevId: 772254269 (A. Unique TensorFlower)
+    - Add ComputePeakMemory method to buffer_assignment API.
+
+PiperOrigin-RevId: 772281941 (Matthias Kramm)
+    - Add AcquireScopedRawBuffer(...) to CommonPjRtBuffer which
+gives access to the buffer + definition events in order to perform
+read-only operations operations on this returned buffer.
+
+PiperOrigin-RevId: 772290875 (Parker Schuh)
+    - Automated Code Change
+
+PiperOrigin-RevId: 772298385 (A. Unique TensorFlower)
+    - Automated Code Change
+
+PiperOrigin-RevId: 772300010 (A. Unique TensorFlower)
+    - This change updates XLA and sets the default CUDA and cuDNN versions to 12.8.0 and 9.8.0, respectively, in all configurations.
+
+Context:
+
+JAX was updated to use CUDA 12.8.0 and cuDNN 9.8.0 three months ago (March 24, 2025) in [jax-ml/jax#27299](https://github.com/jax-ml/jax/pull/27299). This PR aligns XLA with these versions to ensure compatibility and consistency.
+
+In this change we’ve also stopped using `/dt9` as the sysroot during XLA compilation/tests and instead rely on the system libraries provided by Ubuntu 22.04, including glibc.
+
+The `/dt9` environment is based on glibc 2.17, which was standard back in 2014. However, CUDA 12.8.0 is not compatible with such an outdated version - it requires glibc 2.27 or newer.
+
+As a practical solution, we're now using the ml-build Docker image to pin specific versions of both the sysroot and the Clang toolchain. ml-build is based on Ubuntu 22.04 (glibc 2.35, clang-18), which is currently the most widely used platform among deep learning practitioners.
+
+PiperOrigin-RevId: 772301051 (Alex Pivovarov)
+    - Reverts ea1edc8a3da18911079b86b648328feca483170e
+
+PiperOrigin-RevId: 772327219 (A. Unique TensorFlower)
+
+更新时间：2025-06-17 15:48:34
+事件类型：WatchEvent
+未知事件类型
+
+更新时间：2025-06-17 15:42:53
+事件类型：PushEvent
+提交信息：
+    - This change introduces a new mechanism for tracking CUDA graph events within the profiling system.
+
+PiperOrigin-RevId: 772251947 (Rahul Nayar)
+    - Test fusion model for an operand not belonging to fusion op.
+
+PiperOrigin-RevId: 772254269 (A. Unique TensorFlower)
+    - Add ComputePeakMemory method to buffer_assignment API.
+
+PiperOrigin-RevId: 772281941 (Matthias Kramm)
+    - Add AcquireScopedRawBuffer(...) to CommonPjRtBuffer which
+gives access to the buffer + definition events in order to perform
+read-only operations operations on this returned buffer.
+
+PiperOrigin-RevId: 772290875 (Parker Schuh)
+    - Automated Code Change
+
+PiperOrigin-RevId: 772298385 (A. Unique TensorFlower)
+    - Automated Code Change
+
+PiperOrigin-RevId: 772300010 (A. Unique TensorFlower)
+    - This change updates XLA and sets the default CUDA and cuDNN versions to 12.8.0 and 9.8.0, respectively, in all configurations.
+
+Context:
+
+JAX was updated to use CUDA 12.8.0 and cuDNN 9.8.0 three months ago (March 24, 2025) in [jax-ml/jax#27299](https://github.com/jax-ml/jax/pull/27299). This PR aligns XLA with these versions to ensure compatibility and consistency.
+
+In this change we’ve also stopped using `/dt9` as the sysroot during XLA compilation/tests and instead rely on the system libraries provided by Ubuntu 22.04, including glibc.
+
+The `/dt9` environment is based on glibc 2.17, which was standard back in 2014. However, CUDA 12.8.0 is not compatible with such an outdated version - it requires glibc 2.27 or newer.
+
+As a practical solution, we're now using the ml-build Docker image to pin specific versions of both the sysroot and the Clang toolchain. ml-build is based on Ubuntu 22.04 (glibc 2.35, clang-18), which is currently the most widely used platform among deep learning practitioners.
+
+PiperOrigin-RevId: 772301051 (Alex Pivovarov)
+    - Reverts ea1edc8a3da18911079b86b648328feca483170e
+
+PiperOrigin-RevId: 772327219 (A. Unique TensorFlower)
+    - Automated Code Change
+
+PiperOrigin-RevId: 772346492 (A. Unique TensorFlower)
+    - Add AliasInfo class that will replace the separate alias hint hooks.
+
+This will replace the CanShareBuffer hook and add another hook for
+GetInPlaceInputOutputPairs.
+
+PiperOrigin-RevId: 772346923 (Adrian Kuegel)
+    - [XLA:GPU] NFC optional separator when printing tiled HLO instruction and tiling
+
+consmetics for printf
+
+PiperOrigin-RevId: 772358839 (Mikhail Goncharov)
+    - [XLA:CPU] Disable loop unrolling for certain reduce operations.
+
+PiperOrigin-RevId: 772371530 (Karlo Basioli)
+    - Update GraphDef version to 2261.
+
+PiperOrigin-RevId: 772373439 (A. Unique TensorFlower)
+    - compat: Update forward compatibility horizon to 2025-06-17
+
+PiperOrigin-RevId: 772373480 (A. Unique TensorFlower)
+    - Add stream_executor in GPU codegen backend.
+
+- TargetConfig is constructed from stream_executor now.
+
+PiperOrigin-RevId: 772382526 (A. Unique TensorFlower)
+    - Automated Code Change
+
+PiperOrigin-RevId: 772383239 (A. Unique TensorFlower)
+    - Rename MultiKernelLoaderSpec to KernelLoaderSpec
+
+The `Multi` prefix doesn't make sense anymore since the spec can't carry multiple specifications anymore. It has always been confusing anyway because people read it as "multiple kernels" but it actually meant "multiple specs" of the same kernel.
+
+PiperOrigin-RevId: 772383706 (Henning Becker)
+    - [XLA:GPU] Add more statistics to triton dot algorithms tests.
+
+- Print standard deviation of the relative errors
+- Print the Coefficient of Variation
+- Better visual representation of the histograms
+
+PiperOrigin-RevId: 772400850 (Ilya Tikhonovskiy)
+    - Remove stream_executor from Autotuner and CodegenBackend interface.
+
+PiperOrigin-RevId: 772412322 (A. Unique TensorFlower)
+    - Reverts 5bbbad81b50017b7640c51a7bd1ef0be664452ad
+
+PiperOrigin-RevId: 772416510 (Tom Natan)
+
+更新时间：2025-06-17 15:35:54
+事件类型：PullRequestEvent
+PR标题：Reverts 524fd86a0e77128828c8c026f5a4d021d25b9f7c
+提交者：copybara-service[bot]
+
+
+pytorch/pytorch
+--------------------------------------------------
+更新时间：2025-06-17 18:24:26
+事件类型：CreateEvent
+未知事件类型
+
+更新时间：2025-06-17 18:24:25
+事件类型：DeleteEvent
+未知事件类型
+
+更新时间：2025-06-17 18:24:24
+事件类型：CreateEvent
+未知事件类型
+
+更新时间：2025-06-17 18:24:24
+事件类型：CreateEvent
+未知事件类型
+
+更新时间：2025-06-17 18:24:24
+事件类型：CreateEvent
+未知事件类型
+
+更新时间：2025-06-17 18:24:23
+事件类型：DeleteEvent
+未知事件类型
+
+更新时间：2025-06-17 18:24:23
+事件类型：DeleteEvent
+未知事件类型
+
+更新时间：2025-06-17 18:24:23
+事件类型：DeleteEvent
+未知事件类型
+
+更新时间：2025-06-17 18:24:19
+事件类型：PushEvent
+提交信息：
+    - [PT2][partitioners] Add aten.split to view_ops list [relanding #155424] (#155943)
+
+Pull Request resolved: https://github.com/pytorch/pytorch/pull/155943
+Approved by: https://github.com/ShatianWang (Xuan Zhang)
+    - Fix #155018 (convert distributed rst to markdown) (#155528)
+
+Used [rst2myst tool](https://rst-to-myst.readthedocs.io/en/latest/)
+
+Fixes #155018
+
+Docs comparison (check out the 'new' whenever docs build)
+
+1. distributed.checkpoint ([old](https://docs.pytorch.org/docs/main/distributed.checkpoint.html) vs. [new](https://docs-preview.pytorch.org/pytorch/pytorch/155528/distributed.checkpoint.html))
+2. distributed.elastic ([old](https://docs.pytorch.org/docs/main/distributed.elastic.html) vs. [new](https://docs-preview.pytorch.org/pytorch/pytorch/155528/distributed.elastic.html))
+3. distributed.fsdp.fully_shard ([old](https://docs.pytorch.org/docs/main/distributed.fsdp.fully_shard.html) vs. [new](https://docs-preview.pytorch.org/pytorch/pytorch/155528/distributed.fsdp.fully_shard.html))
+4. distributed.optim ([old](https://docs.pytorch.org/docs/main/distributed.optim.html) vs. [new](https://docs-preview.pytorch.org/pytorch/pytorch/155528/distributed.optim.html))
+5. distributed.pipelining ([old](https://docs.pytorch.org/docs/main/distributed.pipelining.html) vs. [new](https://docs-preview.pytorch.org/pytorch/pytorch/155528/distributed.pipelining.html))
+
+Pull Request resolved: https://github.com/pytorch/pytorch/pull/155528
+Approved by: https://github.com/wz337, https://github.com/svekars (Justin Silver)
+    - Add size_hint_or_throw (#155615)
+
+## Summary
+`TypeError("Cannot convert symbols to int")` is coming up more recently since more unbacked symints are making its way into Inductor. See https://github.com/pytorch/pytorch/issues/155484
+- One way to deal with this is to add `size_hint_or_throw` to throw if we try to pull a hint from an unbacked expr.
+- Then, repurpose `size_hint` to accommodate unbacked symints by setting a default fallback or adding an appropriate fallback for each callsite.
+
+This PR adds `size_hint_or_throw` which will throw if unbacked symints exist
+- use `size_hint_or_throw` -- usually when the callee can try/catch the exception or guards against unbacked symints
+
+------
+with Codex
+https://chatgpt.com/codex/tasks/task_e_684869dfc740832882c88d05534cc8f9
+
+Pull Request resolved: https://github.com/pytorch/pytorch/pull/155615
+Approved by: https://github.com/ezyang, https://github.com/laithsakka, https://github.com/jingsh
+
+Co-authored-by: Aaron Gokaslan <aaronGokaslan@gmail.com> (Colin Peppler)
+    - [ez] fix grammar error in comment (#156053)
+
+Pull Request resolved: https://github.com/pytorch/pytorch/pull/156053
+Approved by: https://github.com/jingsh
+ghstack dependencies: #155982, #155996 (bobrenjc93)
+    - Remove non-header-only dep from c10_headers target (#155858)
+
+It depends on /c10/util:base which is not header-only.
+
+Differential Revision: [D76552750](https://our.internmc.facebook.com/intern/diff/D76552750/)
+
+**NOTE FOR REVIEWERS**: This PR has internal Meta-specific changes or comments, please review them on [Phabricator](https://our.internmc.facebook.com/intern/diff/D76552750/)!
+Pull Request resolved: https://github.com/pytorch/pytorch/pull/155858
+Approved by: https://github.com/ezyang (Scott Wolchok)
+    - Fix if condition for CUDA 12.9 Win build (#156108)
+
+follow-up for https://github.com/pytorch/pytorch/pull/155799/files
+Currently the last if condition will be executed for CUDA 12.9, overriding previous CUDA_ARCH_LIST. We should exclude 12.9 from the last if condition to fix this.
+
+Pull Request resolved: https://github.com/pytorch/pytorch/pull/156108
+Approved by: https://github.com/atalman (Ting Lu)
+    - Revert "Implement guard collectives (#155558)"
+
+This reverts commit 5a5a05a6a3be376130848e235df73b752eef0230.
+
+Reverted https://github.com/pytorch/pytorch/pull/155558 on behalf of https://github.com/malfet due to Hmm, may be I'm looking at the wrong metric, but https://hud.pytorch.org/hud/pytorch/pytorch/c92f1075aaf3649f6368af2a3df9b5167f941b3f/1?per_page=50&name_filter=inductor_torchbench_cpu_smoke&mergeEphemeralLF=true shows that test started to pass after PR were reverted ([comment](https://github.com/pytorch/pytorch/pull/155558#issuecomment-2978337152)) (PyTorch MergeBot)
+    - Revert "[Cutlass] Fix buffer missing issues (#155897)"
+
+This reverts commit 9bd42c15707a4b410ee005d5916e882a7db432bb.
+
+Reverted https://github.com/pytorch/pytorch/pull/155897 on behalf of https://github.com/atalman due to failing internal tests ([comment](https://github.com/pytorch/pytorch/pull/155897#issuecomment-2978391416)) (PyTorch MergeBot)
+    - [nativert] Move OpKernel to PyTorch core (#156011)
+
+Summary:
+Moves OpKernel base class to PyTorch core. It is an abstract interface representing a kernel, which is responsible for executing a single Node in the graph.
+
+Torch Native Runtime RFC: pytorch/rfcs#72
+
+Test Plan:
+buck2 run mode/dev-nosan caffe2/test/cpp/nativert:op_kernel_test
+
+Rollback Plan:
+
+Differential Revision: D76525939
+
+Pull Request resolved: https://github.com/pytorch/pytorch/pull/156011
+Approved by: https://github.com/zhxchen17 (Yiming Zhou)
+    - [BE][4/X] Phase out usage of `use_max_autotune()` (#155850)
+
+See #155847 for context
+
+Pull Request resolved: https://github.com/pytorch/pytorch/pull/155850
+Approved by: https://github.com/masnesral (Nicolas Macchioni)
+    - [MPSInductor] Improve `_default` dtype inference (#156121)
+
+By just adding 'mps' as one of the backend options and fixing reduction op to actually return tuple of CSEVariable's rather than tuple of strings
+
+Test plan: CI
+
+Pull Request resolved: https://github.com/pytorch/pytorch/pull/156121
+Approved by: https://github.com/dcci (Nikita Shulga)
+    - [SymmMem] Add NVSHMEM GET support to Triton (#155890)
+
+Adds NVSHMEM GET operation support for Triton kernels:
+
+- Add `getmem_block` core.extern wrapper for nvshmemx_getmem_block
+- Add basic `test_triton_get` for 2-rank GET operation
+- Add `test_triton_get_ring` for ring topology GET across arbitrary ranks
+
+**Tests:**
+`$ TORCH_SYMMMEM=NVSHMEM python test/distributed/test_nvshmem.py`
+
+`TORCH_SYMMMEM=NVSHMEM python test/distributed/test_nvshmem.py -k test_triton_get`
+
+```python
+@skipIfRocm
+@requires_triton()
+def test_triton_get(self) -> None:
+   @triton.jit
+   def get_kernel(dst_ptr, src_ptr, numel: tl.constexpr, peer: tl.constexpr):
+       nvshmem.getmem_block(dst_ptr, src_ptr, numel, peer)
+
+   # ... setup code ...
+
+   val = 7
+   inp = symm_mem.empty(numel, dtype=dtype, device=self.device).fill_(
+       val if rank == 0 else -1
+   )
+   out = symm_mem.empty(numel, dtype=dtype, device=self.device).fill_(-1)
+
+   peer = 1 - rank
+   if rank == 1:
+       # Rank 1 gets data from rank 0
+       get_kernel[(1, 1, 1)](dst_ptr, src_ptr, numel=numel, peer=peer, extern_libs=nvshmem_lib)
+
+   dist.barrier()
+   print(f"[Rank {rank}] inp buffer: {inp}")
+   print(f"[Rank {rank}] out buffer: {out}")
+   print(f"[Rank {rank}] got data from peer {peer}")
+```
+
+```
+
+[Rank 0] inp buffer: tensor([7, 7, 7, 7, 7, 7, 7, 7], device='cuda:0', dtype=torch.int8)
+[Rank 1] inp buffer: tensor([-1, -1, -1, -1, -1, -1, -1, -1], device='cuda:1', dtype=torch.int8)
+...
+[Rank 1] out buffer: tensor([7, 7, 7, 7, 7, 7, 7, 7], device='cuda:1', dtype=torch.int8)
+...
+[Rank 1] got data from peer 0
+
+----------------------------------------------------------------------
+Ran 2 tests in 17.046s
+
+OK
+```
+
+```python
+@skipIfRocm
+@requires_triton()
+def test_triton_get_ring(self) -> None:
+   @triton.jit
+   def get_kernel(dst_ptr, src_ptr, numel: tl.constexpr, peer: tl.constexpr):
+       nvshmem.getmem_block(dst_ptr, src_ptr, numel, peer)
+
+   # ... setup code ...
+
+   # Ring topology: each rank gets data from the rank to its left
+   peer = (rank - 1) % world_size
+
+   # All ranks execute the get operation
+   get_kernel[(1, 1, 1)](dst_ptr, src_ptr, numel=numel, peer=peer, extern_libs=nvshmem_lib)
+
+   dist.barrier()
+   print(f"[Rank {rank}] inp buffer: {inp}")
+   print(f"[Rank {rank}] out buffer: {out}")
+   print(f"[Rank {rank}] got data from peer {peer}")
+
+```
+
+```
+Output (8 GPUs):
+
+[Rank 0] inp buffer: tensor([0, 0, 0, 0, 0, 0, 0, 0], device='cuda:0', dtype=torch.int8)
+[Rank 2] inp buffer: tensor([2, 2, 2, 2, 2, 2, 2, 2], device='cuda:2', dtype=torch.int8)
+[Rank 5] inp buffer: tensor([5, 5, 5, 5, 5, 5, 5, 5], device='cuda:5', dtype=torch.int8)
+[Rank 6] inp buffer: tensor([6, 6, 6, 6, 6, 6, 6, 6], device='cuda:6', dtype=torch.int8)
+[Rank 3] inp buffer: tensor([3, 3, 3, 3, 3, 3, 3, 3], device='cuda:3', dtype=torch.int8)
+[Rank 1] inp buffer: tensor([1, 1, 1, 1, 1, 1, 1, 1], device='cuda:1', dtype=torch.int8)
+[Rank 2] out buffer: tensor([1, 1, 1, 1, 1, 1, 1, 1], device='cuda:2', dtype=torch.int8)
+[Rank 5] out buffer: tensor([4, 4, 4, 4, 4, 4, 4, 4], device='cuda:5', dtype=torch.int8)
+[Rank 0] out buffer: tensor([7, 7, 7, 7, 7, 7, 7, 7], device='cuda:0', dtype=torch.int8)
+[Rank 2] got data from peer 1
+[Rank 5] got data from peer 4
+[Rank 0] got data from peer 7
+[Rank 7] inp buffer: tensor([7, 7, 7, 7, 7, 7, 7, 7], device='cuda:7', dtype=torch.int8)
+[Rank 6] out buffer: tensor([5, 5, 5, 5, 5, 5, 5, 5], device='cuda:6', dtype=torch.int8)
+[Rank 3] out buffer: tensor([2, 2, 2, 2, 2, 2, 2, 2], device='cuda:3', dtype=torch.int8)
+[Rank 6] got data from peer 5
+[Rank 3] got data from peer 2
+[Rank 1] out buffer: tensor([0, 0, 0, 0, 0, 0, 0, 0], device='cuda:1', dtype=torch.int8)
+[Rank 1] got data from peer 0
+[Rank 4] inp buffer: tensor([4, 4, 4, 4, 4, 4, 4, 4], device='cuda:4', dtype=torch.int8)
+[Rank 7] out buffer: tensor([6, 6, 6, 6, 6, 6, 6, 6], device='cuda:7', dtype=torch.int8)
+[Rank 7] got data from peer 6
+[Rank 4] out buffer: tensor([3, 3, 3, 3, 3, 3, 3, 3], device='cuda:4', dtype=torch.int8)
+[Rank 4] got data from peer 3
+
+----------------------------------------------------------------------
+Ran 1 test in 41.045s
+
+OK
+```
+
+Pull Request resolved: https://github.com/pytorch/pytorch/pull/155890
+Approved by: https://github.com/kwen2501, https://github.com/mandroid6 (codingwithsurya)
+    - Remove unused Azure pipeline trigger script (#156134)
+
+## Summary
+- delete `.circleci/scripts/trigger_azure_pipeline.py`
+
+## Testing
+- `python3 -m pip install flake8`
+- `python3 -m flake8 .circleci/scripts`
+
+------
+https://chatgpt.com/codex/tasks/task_e_6850a55f530c83279036800308fb6871
+Pull Request resolved: https://github.com/pytorch/pytorch/pull/156134
+Approved by: https://github.com/izaitsevfb (Nikita Shulga)
+    - Add FSDP2 logging (#155826)
+
+Fixes #ISSUE_NUMBER
+
+Pull Request resolved: https://github.com/pytorch/pytorch/pull/155826
+Approved by: https://github.com/weifengpy (mori360)
+    - Add warning for incorrected grad results at world size 1 (#154928)
+
+Add warning for the issue discussed at https://github.com/pytorch/pytorch/issues/144045
+
+Pull Request resolved: https://github.com/pytorch/pytorch/pull/154928
+Approved by: https://github.com/weifengpy (yifanmao)
+    - [AOTInductor] Add class declarations to torch._C._aoti interface file (#155128)
+
+Pull Request resolved: https://github.com/pytorch/pytorch/pull/155128
+Approved by: https://github.com/desertfire
+ghstack dependencies: #155149 (Benjamin Glass)
+    - [PGO] include ints/floats in suggested whitelist  (#155980)
+
+Made the mistake of dropping these
+
+Pull Request resolved: https://github.com/pytorch/pytorch/pull/155980
+Approved by: https://github.com/bobrenjc93 (Pian Pawakapan)
+    - [ONNX] Implements converter for higher order ops scan (#154513)
+
+Fixes #151327
+
+Pull Request resolved: https://github.com/pytorch/pytorch/pull/154513
+Approved by: https://github.com/justinchuby
+
+Co-authored-by: Justin Chu <justinchuby@users.noreply.github.com> (xadupre)
+    - [dynamo] support tracing weakref callback (#155761)
+
+Pull Request resolved: https://github.com/pytorch/pytorch/pull/155761
+Approved by: https://github.com/StrongerXi, https://github.com/jansel (William Wen)
+    - [dynamo] fix KeyError in LOAD_FAST_CHECK (#155763)
+
+Pull Request resolved: https://github.com/pytorch/pytorch/pull/155763
+Approved by: https://github.com/StrongerXi, https://github.com/jansel
+ghstack dependencies: #155761 (William Wen)
+
+更新时间：2025-06-17 18:24:19
+事件类型：PushEvent
+提交信息：
+    - [PT2][partitioners] Add aten.split to view_ops list [relanding #155424] (#155943)
+
+Pull Request resolved: https://github.com/pytorch/pytorch/pull/155943
+Approved by: https://github.com/ShatianWang (Xuan Zhang)
+    - Fix #155018 (convert distributed rst to markdown) (#155528)
+
+Used [rst2myst tool](https://rst-to-myst.readthedocs.io/en/latest/)
+
+Fixes #155018
+
+Docs comparison (check out the 'new' whenever docs build)
+
+1. distributed.checkpoint ([old](https://docs.pytorch.org/docs/main/distributed.checkpoint.html) vs. [new](https://docs-preview.pytorch.org/pytorch/pytorch/155528/distributed.checkpoint.html))
+2. distributed.elastic ([old](https://docs.pytorch.org/docs/main/distributed.elastic.html) vs. [new](https://docs-preview.pytorch.org/pytorch/pytorch/155528/distributed.elastic.html))
+3. distributed.fsdp.fully_shard ([old](https://docs.pytorch.org/docs/main/distributed.fsdp.fully_shard.html) vs. [new](https://docs-preview.pytorch.org/pytorch/pytorch/155528/distributed.fsdp.fully_shard.html))
+4. distributed.optim ([old](https://docs.pytorch.org/docs/main/distributed.optim.html) vs. [new](https://docs-preview.pytorch.org/pytorch/pytorch/155528/distributed.optim.html))
+5. distributed.pipelining ([old](https://docs.pytorch.org/docs/main/distributed.pipelining.html) vs. [new](https://docs-preview.pytorch.org/pytorch/pytorch/155528/distributed.pipelining.html))
+
+Pull Request resolved: https://github.com/pytorch/pytorch/pull/155528
+Approved by: https://github.com/wz337, https://github.com/svekars (Justin Silver)
+    - Add size_hint_or_throw (#155615)
+
+## Summary
+`TypeError("Cannot convert symbols to int")` is coming up more recently since more unbacked symints are making its way into Inductor. See https://github.com/pytorch/pytorch/issues/155484
+- One way to deal with this is to add `size_hint_or_throw` to throw if we try to pull a hint from an unbacked expr.
+- Then, repurpose `size_hint` to accommodate unbacked symints by setting a default fallback or adding an appropriate fallback for each callsite.
+
+This PR adds `size_hint_or_throw` which will throw if unbacked symints exist
+- use `size_hint_or_throw` -- usually when the callee can try/catch the exception or guards against unbacked symints
+
+------
+with Codex
+https://chatgpt.com/codex/tasks/task_e_684869dfc740832882c88d05534cc8f9
+
+Pull Request resolved: https://github.com/pytorch/pytorch/pull/155615
+Approved by: https://github.com/ezyang, https://github.com/laithsakka, https://github.com/jingsh
+
+Co-authored-by: Aaron Gokaslan <aaronGokaslan@gmail.com> (Colin Peppler)
+    - [ez] fix grammar error in comment (#156053)
+
+Pull Request resolved: https://github.com/pytorch/pytorch/pull/156053
+Approved by: https://github.com/jingsh
+ghstack dependencies: #155982, #155996 (bobrenjc93)
+    - Remove non-header-only dep from c10_headers target (#155858)
+
+It depends on /c10/util:base which is not header-only.
+
+Differential Revision: [D76552750](https://our.internmc.facebook.com/intern/diff/D76552750/)
+
+**NOTE FOR REVIEWERS**: This PR has internal Meta-specific changes or comments, please review them on [Phabricator](https://our.internmc.facebook.com/intern/diff/D76552750/)!
+Pull Request resolved: https://github.com/pytorch/pytorch/pull/155858
+Approved by: https://github.com/ezyang (Scott Wolchok)
+    - Fix if condition for CUDA 12.9 Win build (#156108)
+
+follow-up for https://github.com/pytorch/pytorch/pull/155799/files
+Currently the last if condition will be executed for CUDA 12.9, overriding previous CUDA_ARCH_LIST. We should exclude 12.9 from the last if condition to fix this.
+
+Pull Request resolved: https://github.com/pytorch/pytorch/pull/156108
+Approved by: https://github.com/atalman (Ting Lu)
+    - Revert "Implement guard collectives (#155558)"
+
+This reverts commit 5a5a05a6a3be376130848e235df73b752eef0230.
+
+Reverted https://github.com/pytorch/pytorch/pull/155558 on behalf of https://github.com/malfet due to Hmm, may be I'm looking at the wrong metric, but https://hud.pytorch.org/hud/pytorch/pytorch/c92f1075aaf3649f6368af2a3df9b5167f941b3f/1?per_page=50&name_filter=inductor_torchbench_cpu_smoke&mergeEphemeralLF=true shows that test started to pass after PR were reverted ([comment](https://github.com/pytorch/pytorch/pull/155558#issuecomment-2978337152)) (PyTorch MergeBot)
+    - Revert "[Cutlass] Fix buffer missing issues (#155897)"
+
+This reverts commit 9bd42c15707a4b410ee005d5916e882a7db432bb.
+
+Reverted https://github.com/pytorch/pytorch/pull/155897 on behalf of https://github.com/atalman due to failing internal tests ([comment](https://github.com/pytorch/pytorch/pull/155897#issuecomment-2978391416)) (PyTorch MergeBot)
+    - [nativert] Move OpKernel to PyTorch core (#156011)
+
+Summary:
+Moves OpKernel base class to PyTorch core. It is an abstract interface representing a kernel, which is responsible for executing a single Node in the graph.
+
+Torch Native Runtime RFC: pytorch/rfcs#72
+
+Test Plan:
+buck2 run mode/dev-nosan caffe2/test/cpp/nativert:op_kernel_test
+
+Rollback Plan:
+
+Differential Revision: D76525939
+
+Pull Request resolved: https://github.com/pytorch/pytorch/pull/156011
+Approved by: https://github.com/zhxchen17 (Yiming Zhou)
+    - [BE][4/X] Phase out usage of `use_max_autotune()` (#155850)
+
+See #155847 for context
+
+Pull Request resolved: https://github.com/pytorch/pytorch/pull/155850
+Approved by: https://github.com/masnesral (Nicolas Macchioni)
+    - [MPSInductor] Improve `_default` dtype inference (#156121)
+
+By just adding 'mps' as one of the backend options and fixing reduction op to actually return tuple of CSEVariable's rather than tuple of strings
+
+Test plan: CI
+
+Pull Request resolved: https://github.com/pytorch/pytorch/pull/156121
+Approved by: https://github.com/dcci (Nikita Shulga)
+    - [SymmMem] Add NVSHMEM GET support to Triton (#155890)
+
+Adds NVSHMEM GET operation support for Triton kernels:
+
+- Add `getmem_block` core.extern wrapper for nvshmemx_getmem_block
+- Add basic `test_triton_get` for 2-rank GET operation
+- Add `test_triton_get_ring` for ring topology GET across arbitrary ranks
+
+**Tests:**
+`$ TORCH_SYMMMEM=NVSHMEM python test/distributed/test_nvshmem.py`
+
+`TORCH_SYMMMEM=NVSHMEM python test/distributed/test_nvshmem.py -k test_triton_get`
+
+```python
+@skipIfRocm
+@requires_triton()
+def test_triton_get(self) -> None:
+   @triton.jit
+   def get_kernel(dst_ptr, src_ptr, numel: tl.constexpr, peer: tl.constexpr):
+       nvshmem.getmem_block(dst_ptr, src_ptr, numel, peer)
+
+   # ... setup code ...
+
+   val = 7
+   inp = symm_mem.empty(numel, dtype=dtype, device=self.device).fill_(
+       val if rank == 0 else -1
+   )
+   out = symm_mem.empty(numel, dtype=dtype, device=self.device).fill_(-1)
+
+   peer = 1 - rank
+   if rank == 1:
+       # Rank 1 gets data from rank 0
+       get_kernel[(1, 1, 1)](dst_ptr, src_ptr, numel=numel, peer=peer, extern_libs=nvshmem_lib)
+
+   dist.barrier()
+   print(f"[Rank {rank}] inp buffer: {inp}")
+   print(f"[Rank {rank}] out buffer: {out}")
+   print(f"[Rank {rank}] got data from peer {peer}")
+```
+
+```
+
+[Rank 0] inp buffer: tensor([7, 7, 7, 7, 7, 7, 7, 7], device='cuda:0', dtype=torch.int8)
+[Rank 1] inp buffer: tensor([-1, -1, -1, -1, -1, -1, -1, -1], device='cuda:1', dtype=torch.int8)
+...
+[Rank 1] out buffer: tensor([7, 7, 7, 7, 7, 7, 7, 7], device='cuda:1', dtype=torch.int8)
+...
+[Rank 1] got data from peer 0
+
+----------------------------------------------------------------------
+Ran 2 tests in 17.046s
+
+OK
+```
+
+```python
+@skipIfRocm
+@requires_triton()
+def test_triton_get_ring(self) -> None:
+   @triton.jit
+   def get_kernel(dst_ptr, src_ptr, numel: tl.constexpr, peer: tl.constexpr):
+       nvshmem.getmem_block(dst_ptr, src_ptr, numel, peer)
+
+   # ... setup code ...
+
+   # Ring topology: each rank gets data from the rank to its left
+   peer = (rank - 1) % world_size
+
+   # All ranks execute the get operation
+   get_kernel[(1, 1, 1)](dst_ptr, src_ptr, numel=numel, peer=peer, extern_libs=nvshmem_lib)
+
+   dist.barrier()
+   print(f"[Rank {rank}] inp buffer: {inp}")
+   print(f"[Rank {rank}] out buffer: {out}")
+   print(f"[Rank {rank}] got data from peer {peer}")
+
+```
+
+```
+Output (8 GPUs):
+
+[Rank 0] inp buffer: tensor([0, 0, 0, 0, 0, 0, 0, 0], device='cuda:0', dtype=torch.int8)
+[Rank 2] inp buffer: tensor([2, 2, 2, 2, 2, 2, 2, 2], device='cuda:2', dtype=torch.int8)
+[Rank 5] inp buffer: tensor([5, 5, 5, 5, 5, 5, 5, 5], device='cuda:5', dtype=torch.int8)
+[Rank 6] inp buffer: tensor([6, 6, 6, 6, 6, 6, 6, 6], device='cuda:6', dtype=torch.int8)
+[Rank 3] inp buffer: tensor([3, 3, 3, 3, 3, 3, 3, 3], device='cuda:3', dtype=torch.int8)
+[Rank 1] inp buffer: tensor([1, 1, 1, 1, 1, 1, 1, 1], device='cuda:1', dtype=torch.int8)
+[Rank 2] out buffer: tensor([1, 1, 1, 1, 1, 1, 1, 1], device='cuda:2', dtype=torch.int8)
+[Rank 5] out buffer: tensor([4, 4, 4, 4, 4, 4, 4, 4], device='cuda:5', dtype=torch.int8)
+[Rank 0] out buffer: tensor([7, 7, 7, 7, 7, 7, 7, 7], device='cuda:0', dtype=torch.int8)
+[Rank 2] got data from peer 1
+[Rank 5] got data from peer 4
+[Rank 0] got data from peer 7
+[Rank 7] inp buffer: tensor([7, 7, 7, 7, 7, 7, 7, 7], device='cuda:7', dtype=torch.int8)
+[Rank 6] out buffer: tensor([5, 5, 5, 5, 5, 5, 5, 5], device='cuda:6', dtype=torch.int8)
+[Rank 3] out buffer: tensor([2, 2, 2, 2, 2, 2, 2, 2], device='cuda:3', dtype=torch.int8)
+[Rank 6] got data from peer 5
+[Rank 3] got data from peer 2
+[Rank 1] out buffer: tensor([0, 0, 0, 0, 0, 0, 0, 0], device='cuda:1', dtype=torch.int8)
+[Rank 1] got data from peer 0
+[Rank 4] inp buffer: tensor([4, 4, 4, 4, 4, 4, 4, 4], device='cuda:4', dtype=torch.int8)
+[Rank 7] out buffer: tensor([6, 6, 6, 6, 6, 6, 6, 6], device='cuda:7', dtype=torch.int8)
+[Rank 7] got data from peer 6
+[Rank 4] out buffer: tensor([3, 3, 3, 3, 3, 3, 3, 3], device='cuda:4', dtype=torch.int8)
+[Rank 4] got data from peer 3
+
+----------------------------------------------------------------------
+Ran 1 test in 41.045s
+
+OK
+```
+
+Pull Request resolved: https://github.com/pytorch/pytorch/pull/155890
+Approved by: https://github.com/kwen2501, https://github.com/mandroid6 (codingwithsurya)
+    - Remove unused Azure pipeline trigger script (#156134)
+
+## Summary
+- delete `.circleci/scripts/trigger_azure_pipeline.py`
+
+## Testing
+- `python3 -m pip install flake8`
+- `python3 -m flake8 .circleci/scripts`
+
+------
+https://chatgpt.com/codex/tasks/task_e_6850a55f530c83279036800308fb6871
+Pull Request resolved: https://github.com/pytorch/pytorch/pull/156134
+Approved by: https://github.com/izaitsevfb (Nikita Shulga)
+    - Add FSDP2 logging (#155826)
+
+Fixes #ISSUE_NUMBER
+
+Pull Request resolved: https://github.com/pytorch/pytorch/pull/155826
+Approved by: https://github.com/weifengpy (mori360)
+    - Add warning for incorrected grad results at world size 1 (#154928)
+
+Add warning for the issue discussed at https://github.com/pytorch/pytorch/issues/144045
+
+Pull Request resolved: https://github.com/pytorch/pytorch/pull/154928
+Approved by: https://github.com/weifengpy (yifanmao)
+    - [AOTInductor] Add class declarations to torch._C._aoti interface file (#155128)
+
+Pull Request resolved: https://github.com/pytorch/pytorch/pull/155128
+Approved by: https://github.com/desertfire
+ghstack dependencies: #155149 (Benjamin Glass)
+    - [PGO] include ints/floats in suggested whitelist  (#155980)
+
+Made the mistake of dropping these
+
+Pull Request resolved: https://github.com/pytorch/pytorch/pull/155980
+Approved by: https://github.com/bobrenjc93 (Pian Pawakapan)
+    - [ONNX] Implements converter for higher order ops scan (#154513)
+
+Fixes #151327
+
+Pull Request resolved: https://github.com/pytorch/pytorch/pull/154513
+Approved by: https://github.com/justinchuby
+
+Co-authored-by: Justin Chu <justinchuby@users.noreply.github.com> (xadupre)
+    - [dynamo] support tracing weakref callback (#155761)
+
+Pull Request resolved: https://github.com/pytorch/pytorch/pull/155761
+Approved by: https://github.com/StrongerXi, https://github.com/jansel (William Wen)
+    - [dynamo] fix KeyError in LOAD_FAST_CHECK (#155763)
+
+Pull Request resolved: https://github.com/pytorch/pytorch/pull/155763
+Approved by: https://github.com/StrongerXi, https://github.com/jansel
+ghstack dependencies: #155761 (William Wen)
+
+更新时间：2025-06-17 18:24:18
+事件类型：PushEvent
+提交信息：
+    - [PT2][partitioners] Add aten.split to view_ops list [relanding #155424] (#155943)
+
+Pull Request resolved: https://github.com/pytorch/pytorch/pull/155943
+Approved by: https://github.com/ShatianWang (Xuan Zhang)
+    - Fix #155018 (convert distributed rst to markdown) (#155528)
+
+Used [rst2myst tool](https://rst-to-myst.readthedocs.io/en/latest/)
+
+Fixes #155018
+
+Docs comparison (check out the 'new' whenever docs build)
+
+1. distributed.checkpoint ([old](https://docs.pytorch.org/docs/main/distributed.checkpoint.html) vs. [new](https://docs-preview.pytorch.org/pytorch/pytorch/155528/distributed.checkpoint.html))
+2. distributed.elastic ([old](https://docs.pytorch.org/docs/main/distributed.elastic.html) vs. [new](https://docs-preview.pytorch.org/pytorch/pytorch/155528/distributed.elastic.html))
+3. distributed.fsdp.fully_shard ([old](https://docs.pytorch.org/docs/main/distributed.fsdp.fully_shard.html) vs. [new](https://docs-preview.pytorch.org/pytorch/pytorch/155528/distributed.fsdp.fully_shard.html))
+4. distributed.optim ([old](https://docs.pytorch.org/docs/main/distributed.optim.html) vs. [new](https://docs-preview.pytorch.org/pytorch/pytorch/155528/distributed.optim.html))
+5. distributed.pipelining ([old](https://docs.pytorch.org/docs/main/distributed.pipelining.html) vs. [new](https://docs-preview.pytorch.org/pytorch/pytorch/155528/distributed.pipelining.html))
+
+Pull Request resolved: https://github.com/pytorch/pytorch/pull/155528
+Approved by: https://github.com/wz337, https://github.com/svekars (Justin Silver)
+    - Add size_hint_or_throw (#155615)
+
+## Summary
+`TypeError("Cannot convert symbols to int")` is coming up more recently since more unbacked symints are making its way into Inductor. See https://github.com/pytorch/pytorch/issues/155484
+- One way to deal with this is to add `size_hint_or_throw` to throw if we try to pull a hint from an unbacked expr.
+- Then, repurpose `size_hint` to accommodate unbacked symints by setting a default fallback or adding an appropriate fallback for each callsite.
+
+This PR adds `size_hint_or_throw` which will throw if unbacked symints exist
+- use `size_hint_or_throw` -- usually when the callee can try/catch the exception or guards against unbacked symints
+
+------
+with Codex
+https://chatgpt.com/codex/tasks/task_e_684869dfc740832882c88d05534cc8f9
+
+Pull Request resolved: https://github.com/pytorch/pytorch/pull/155615
+Approved by: https://github.com/ezyang, https://github.com/laithsakka, https://github.com/jingsh
+
+Co-authored-by: Aaron Gokaslan <aaronGokaslan@gmail.com> (Colin Peppler)
+    - [ez] fix grammar error in comment (#156053)
+
+Pull Request resolved: https://github.com/pytorch/pytorch/pull/156053
+Approved by: https://github.com/jingsh
+ghstack dependencies: #155982, #155996 (bobrenjc93)
+    - Remove non-header-only dep from c10_headers target (#155858)
+
+It depends on /c10/util:base which is not header-only.
+
+Differential Revision: [D76552750](https://our.internmc.facebook.com/intern/diff/D76552750/)
+
+**NOTE FOR REVIEWERS**: This PR has internal Meta-specific changes or comments, please review them on [Phabricator](https://our.internmc.facebook.com/intern/diff/D76552750/)!
+Pull Request resolved: https://github.com/pytorch/pytorch/pull/155858
+Approved by: https://github.com/ezyang (Scott Wolchok)
+    - Fix if condition for CUDA 12.9 Win build (#156108)
+
+follow-up for https://github.com/pytorch/pytorch/pull/155799/files
+Currently the last if condition will be executed for CUDA 12.9, overriding previous CUDA_ARCH_LIST. We should exclude 12.9 from the last if condition to fix this.
+
+Pull Request resolved: https://github.com/pytorch/pytorch/pull/156108
+Approved by: https://github.com/atalman (Ting Lu)
+    - Revert "Implement guard collectives (#155558)"
+
+This reverts commit 5a5a05a6a3be376130848e235df73b752eef0230.
+
+Reverted https://github.com/pytorch/pytorch/pull/155558 on behalf of https://github.com/malfet due to Hmm, may be I'm looking at the wrong metric, but https://hud.pytorch.org/hud/pytorch/pytorch/c92f1075aaf3649f6368af2a3df9b5167f941b3f/1?per_page=50&name_filter=inductor_torchbench_cpu_smoke&mergeEphemeralLF=true shows that test started to pass after PR were reverted ([comment](https://github.com/pytorch/pytorch/pull/155558#issuecomment-2978337152)) (PyTorch MergeBot)
+    - Revert "[Cutlass] Fix buffer missing issues (#155897)"
+
+This reverts commit 9bd42c15707a4b410ee005d5916e882a7db432bb.
+
+Reverted https://github.com/pytorch/pytorch/pull/155897 on behalf of https://github.com/atalman due to failing internal tests ([comment](https://github.com/pytorch/pytorch/pull/155897#issuecomment-2978391416)) (PyTorch MergeBot)
+    - [nativert] Move OpKernel to PyTorch core (#156011)
+
+Summary:
+Moves OpKernel base class to PyTorch core. It is an abstract interface representing a kernel, which is responsible for executing a single Node in the graph.
+
+Torch Native Runtime RFC: pytorch/rfcs#72
+
+Test Plan:
+buck2 run mode/dev-nosan caffe2/test/cpp/nativert:op_kernel_test
+
+Rollback Plan:
+
+Differential Revision: D76525939
+
+Pull Request resolved: https://github.com/pytorch/pytorch/pull/156011
+Approved by: https://github.com/zhxchen17 (Yiming Zhou)
+    - [BE][4/X] Phase out usage of `use_max_autotune()` (#155850)
+
+See #155847 for context
+
+Pull Request resolved: https://github.com/pytorch/pytorch/pull/155850
+Approved by: https://github.com/masnesral (Nicolas Macchioni)
+    - [MPSInductor] Improve `_default` dtype inference (#156121)
+
+By just adding 'mps' as one of the backend options and fixing reduction op to actually return tuple of CSEVariable's rather than tuple of strings
+
+Test plan: CI
+
+Pull Request resolved: https://github.com/pytorch/pytorch/pull/156121
+Approved by: https://github.com/dcci (Nikita Shulga)
+    - [SymmMem] Add NVSHMEM GET support to Triton (#155890)
+
+Adds NVSHMEM GET operation support for Triton kernels:
+
+- Add `getmem_block` core.extern wrapper for nvshmemx_getmem_block
+- Add basic `test_triton_get` for 2-rank GET operation
+- Add `test_triton_get_ring` for ring topology GET across arbitrary ranks
+
+**Tests:**
+`$ TORCH_SYMMMEM=NVSHMEM python test/distributed/test_nvshmem.py`
+
+`TORCH_SYMMMEM=NVSHMEM python test/distributed/test_nvshmem.py -k test_triton_get`
+
+```python
+@skipIfRocm
+@requires_triton()
+def test_triton_get(self) -> None:
+   @triton.jit
+   def get_kernel(dst_ptr, src_ptr, numel: tl.constexpr, peer: tl.constexpr):
+       nvshmem.getmem_block(dst_ptr, src_ptr, numel, peer)
+
+   # ... setup code ...
+
+   val = 7
+   inp = symm_mem.empty(numel, dtype=dtype, device=self.device).fill_(
+       val if rank == 0 else -1
+   )
+   out = symm_mem.empty(numel, dtype=dtype, device=self.device).fill_(-1)
+
+   peer = 1 - rank
+   if rank == 1:
+       # Rank 1 gets data from rank 0
+       get_kernel[(1, 1, 1)](dst_ptr, src_ptr, numel=numel, peer=peer, extern_libs=nvshmem_lib)
+
+   dist.barrier()
+   print(f"[Rank {rank}] inp buffer: {inp}")
+   print(f"[Rank {rank}] out buffer: {out}")
+   print(f"[Rank {rank}] got data from peer {peer}")
+```
+
+```
+
+[Rank 0] inp buffer: tensor([7, 7, 7, 7, 7, 7, 7, 7], device='cuda:0', dtype=torch.int8)
+[Rank 1] inp buffer: tensor([-1, -1, -1, -1, -1, -1, -1, -1], device='cuda:1', dtype=torch.int8)
+...
+[Rank 1] out buffer: tensor([7, 7, 7, 7, 7, 7, 7, 7], device='cuda:1', dtype=torch.int8)
+...
+[Rank 1] got data from peer 0
+
+----------------------------------------------------------------------
+Ran 2 tests in 17.046s
+
+OK
+```
+
+```python
+@skipIfRocm
+@requires_triton()
+def test_triton_get_ring(self) -> None:
+   @triton.jit
+   def get_kernel(dst_ptr, src_ptr, numel: tl.constexpr, peer: tl.constexpr):
+       nvshmem.getmem_block(dst_ptr, src_ptr, numel, peer)
+
+   # ... setup code ...
+
+   # Ring topology: each rank gets data from the rank to its left
+   peer = (rank - 1) % world_size
+
+   # All ranks execute the get operation
+   get_kernel[(1, 1, 1)](dst_ptr, src_ptr, numel=numel, peer=peer, extern_libs=nvshmem_lib)
+
+   dist.barrier()
+   print(f"[Rank {rank}] inp buffer: {inp}")
+   print(f"[Rank {rank}] out buffer: {out}")
+   print(f"[Rank {rank}] got data from peer {peer}")
+
+```
+
+```
+Output (8 GPUs):
+
+[Rank 0] inp buffer: tensor([0, 0, 0, 0, 0, 0, 0, 0], device='cuda:0', dtype=torch.int8)
+[Rank 2] inp buffer: tensor([2, 2, 2, 2, 2, 2, 2, 2], device='cuda:2', dtype=torch.int8)
+[Rank 5] inp buffer: tensor([5, 5, 5, 5, 5, 5, 5, 5], device='cuda:5', dtype=torch.int8)
+[Rank 6] inp buffer: tensor([6, 6, 6, 6, 6, 6, 6, 6], device='cuda:6', dtype=torch.int8)
+[Rank 3] inp buffer: tensor([3, 3, 3, 3, 3, 3, 3, 3], device='cuda:3', dtype=torch.int8)
+[Rank 1] inp buffer: tensor([1, 1, 1, 1, 1, 1, 1, 1], device='cuda:1', dtype=torch.int8)
+[Rank 2] out buffer: tensor([1, 1, 1, 1, 1, 1, 1, 1], device='cuda:2', dtype=torch.int8)
+[Rank 5] out buffer: tensor([4, 4, 4, 4, 4, 4, 4, 4], device='cuda:5', dtype=torch.int8)
+[Rank 0] out buffer: tensor([7, 7, 7, 7, 7, 7, 7, 7], device='cuda:0', dtype=torch.int8)
+[Rank 2] got data from peer 1
+[Rank 5] got data from peer 4
+[Rank 0] got data from peer 7
+[Rank 7] inp buffer: tensor([7, 7, 7, 7, 7, 7, 7, 7], device='cuda:7', dtype=torch.int8)
+[Rank 6] out buffer: tensor([5, 5, 5, 5, 5, 5, 5, 5], device='cuda:6', dtype=torch.int8)
+[Rank 3] out buffer: tensor([2, 2, 2, 2, 2, 2, 2, 2], device='cuda:3', dtype=torch.int8)
+[Rank 6] got data from peer 5
+[Rank 3] got data from peer 2
+[Rank 1] out buffer: tensor([0, 0, 0, 0, 0, 0, 0, 0], device='cuda:1', dtype=torch.int8)
+[Rank 1] got data from peer 0
+[Rank 4] inp buffer: tensor([4, 4, 4, 4, 4, 4, 4, 4], device='cuda:4', dtype=torch.int8)
+[Rank 7] out buffer: tensor([6, 6, 6, 6, 6, 6, 6, 6], device='cuda:7', dtype=torch.int8)
+[Rank 7] got data from peer 6
+[Rank 4] out buffer: tensor([3, 3, 3, 3, 3, 3, 3, 3], device='cuda:4', dtype=torch.int8)
+[Rank 4] got data from peer 3
+
+----------------------------------------------------------------------
+Ran 1 test in 41.045s
+
+OK
+```
+
+Pull Request resolved: https://github.com/pytorch/pytorch/pull/155890
+Approved by: https://github.com/kwen2501, https://github.com/mandroid6 (codingwithsurya)
+    - Remove unused Azure pipeline trigger script (#156134)
+
+## Summary
+- delete `.circleci/scripts/trigger_azure_pipeline.py`
+
+## Testing
+- `python3 -m pip install flake8`
+- `python3 -m flake8 .circleci/scripts`
+
+------
+https://chatgpt.com/codex/tasks/task_e_6850a55f530c83279036800308fb6871
+Pull Request resolved: https://github.com/pytorch/pytorch/pull/156134
+Approved by: https://github.com/izaitsevfb (Nikita Shulga)
+    - Add FSDP2 logging (#155826)
+
+Fixes #ISSUE_NUMBER
+
+Pull Request resolved: https://github.com/pytorch/pytorch/pull/155826
+Approved by: https://github.com/weifengpy (mori360)
+    - Add warning for incorrected grad results at world size 1 (#154928)
+
+Add warning for the issue discussed at https://github.com/pytorch/pytorch/issues/144045
+
+Pull Request resolved: https://github.com/pytorch/pytorch/pull/154928
+Approved by: https://github.com/weifengpy (yifanmao)
+    - [AOTInductor] Add class declarations to torch._C._aoti interface file (#155128)
+
+Pull Request resolved: https://github.com/pytorch/pytorch/pull/155128
+Approved by: https://github.com/desertfire
+ghstack dependencies: #155149 (Benjamin Glass)
+    - [PGO] include ints/floats in suggested whitelist  (#155980)
+
+Made the mistake of dropping these
+
+Pull Request resolved: https://github.com/pytorch/pytorch/pull/155980
+Approved by: https://github.com/bobrenjc93 (Pian Pawakapan)
+    - [ONNX] Implements converter for higher order ops scan (#154513)
+
+Fixes #151327
+
+Pull Request resolved: https://github.com/pytorch/pytorch/pull/154513
+Approved by: https://github.com/justinchuby
+
+Co-authored-by: Justin Chu <justinchuby@users.noreply.github.com> (xadupre)
+    - [dynamo] support tracing weakref callback (#155761)
+
+Pull Request resolved: https://github.com/pytorch/pytorch/pull/155761
+Approved by: https://github.com/StrongerXi, https://github.com/jansel (William Wen)
+    - [dynamo] fix KeyError in LOAD_FAST_CHECK (#155763)
+
+Pull Request resolved: https://github.com/pytorch/pytorch/pull/155763
+Approved by: https://github.com/StrongerXi, https://github.com/jansel
+ghstack dependencies: #155761 (William Wen)
+
+更新时间：2025-06-17 18:24:17
+事件类型：PushEvent
+提交信息：
+    - [PT2][partitioners] Add aten.split to view_ops list [relanding #155424] (#155943)
+
+Pull Request resolved: https://github.com/pytorch/pytorch/pull/155943
+Approved by: https://github.com/ShatianWang (Xuan Zhang)
+    - Fix #155018 (convert distributed rst to markdown) (#155528)
+
+Used [rst2myst tool](https://rst-to-myst.readthedocs.io/en/latest/)
+
+Fixes #155018
+
+Docs comparison (check out the 'new' whenever docs build)
+
+1. distributed.checkpoint ([old](https://docs.pytorch.org/docs/main/distributed.checkpoint.html) vs. [new](https://docs-preview.pytorch.org/pytorch/pytorch/155528/distributed.checkpoint.html))
+2. distributed.elastic ([old](https://docs.pytorch.org/docs/main/distributed.elastic.html) vs. [new](https://docs-preview.pytorch.org/pytorch/pytorch/155528/distributed.elastic.html))
+3. distributed.fsdp.fully_shard ([old](https://docs.pytorch.org/docs/main/distributed.fsdp.fully_shard.html) vs. [new](https://docs-preview.pytorch.org/pytorch/pytorch/155528/distributed.fsdp.fully_shard.html))
+4. distributed.optim ([old](https://docs.pytorch.org/docs/main/distributed.optim.html) vs. [new](https://docs-preview.pytorch.org/pytorch/pytorch/155528/distributed.optim.html))
+5. distributed.pipelining ([old](https://docs.pytorch.org/docs/main/distributed.pipelining.html) vs. [new](https://docs-preview.pytorch.org/pytorch/pytorch/155528/distributed.pipelining.html))
+
+Pull Request resolved: https://github.com/pytorch/pytorch/pull/155528
+Approved by: https://github.com/wz337, https://github.com/svekars (Justin Silver)
+    - Add size_hint_or_throw (#155615)
+
+## Summary
+`TypeError("Cannot convert symbols to int")` is coming up more recently since more unbacked symints are making its way into Inductor. See https://github.com/pytorch/pytorch/issues/155484
+- One way to deal with this is to add `size_hint_or_throw` to throw if we try to pull a hint from an unbacked expr.
+- Then, repurpose `size_hint` to accommodate unbacked symints by setting a default fallback or adding an appropriate fallback for each callsite.
+
+This PR adds `size_hint_or_throw` which will throw if unbacked symints exist
+- use `size_hint_or_throw` -- usually when the callee can try/catch the exception or guards against unbacked symints
+
+------
+with Codex
+https://chatgpt.com/codex/tasks/task_e_684869dfc740832882c88d05534cc8f9
+
+Pull Request resolved: https://github.com/pytorch/pytorch/pull/155615
+Approved by: https://github.com/ezyang, https://github.com/laithsakka, https://github.com/jingsh
+
+Co-authored-by: Aaron Gokaslan <aaronGokaslan@gmail.com> (Colin Peppler)
+    - [ez] fix grammar error in comment (#156053)
+
+Pull Request resolved: https://github.com/pytorch/pytorch/pull/156053
+Approved by: https://github.com/jingsh
+ghstack dependencies: #155982, #155996 (bobrenjc93)
+    - Remove non-header-only dep from c10_headers target (#155858)
+
+It depends on /c10/util:base which is not header-only.
+
+Differential Revision: [D76552750](https://our.internmc.facebook.com/intern/diff/D76552750/)
+
+**NOTE FOR REVIEWERS**: This PR has internal Meta-specific changes or comments, please review them on [Phabricator](https://our.internmc.facebook.com/intern/diff/D76552750/)!
+Pull Request resolved: https://github.com/pytorch/pytorch/pull/155858
+Approved by: https://github.com/ezyang (Scott Wolchok)
+    - Fix if condition for CUDA 12.9 Win build (#156108)
+
+follow-up for https://github.com/pytorch/pytorch/pull/155799/files
+Currently the last if condition will be executed for CUDA 12.9, overriding previous CUDA_ARCH_LIST. We should exclude 12.9 from the last if condition to fix this.
+
+Pull Request resolved: https://github.com/pytorch/pytorch/pull/156108
+Approved by: https://github.com/atalman (Ting Lu)
+    - Revert "Implement guard collectives (#155558)"
+
+This reverts commit 5a5a05a6a3be376130848e235df73b752eef0230.
+
+Reverted https://github.com/pytorch/pytorch/pull/155558 on behalf of https://github.com/malfet due to Hmm, may be I'm looking at the wrong metric, but https://hud.pytorch.org/hud/pytorch/pytorch/c92f1075aaf3649f6368af2a3df9b5167f941b3f/1?per_page=50&name_filter=inductor_torchbench_cpu_smoke&mergeEphemeralLF=true shows that test started to pass after PR were reverted ([comment](https://github.com/pytorch/pytorch/pull/155558#issuecomment-2978337152)) (PyTorch MergeBot)
+    - Revert "[Cutlass] Fix buffer missing issues (#155897)"
+
+This reverts commit 9bd42c15707a4b410ee005d5916e882a7db432bb.
+
+Reverted https://github.com/pytorch/pytorch/pull/155897 on behalf of https://github.com/atalman due to failing internal tests ([comment](https://github.com/pytorch/pytorch/pull/155897#issuecomment-2978391416)) (PyTorch MergeBot)
+    - [nativert] Move OpKernel to PyTorch core (#156011)
+
+Summary:
+Moves OpKernel base class to PyTorch core. It is an abstract interface representing a kernel, which is responsible for executing a single Node in the graph.
+
+Torch Native Runtime RFC: pytorch/rfcs#72
+
+Test Plan:
+buck2 run mode/dev-nosan caffe2/test/cpp/nativert:op_kernel_test
+
+Rollback Plan:
+
+Differential Revision: D76525939
+
+Pull Request resolved: https://github.com/pytorch/pytorch/pull/156011
+Approved by: https://github.com/zhxchen17 (Yiming Zhou)
+    - [BE][4/X] Phase out usage of `use_max_autotune()` (#155850)
+
+See #155847 for context
+
+Pull Request resolved: https://github.com/pytorch/pytorch/pull/155850
+Approved by: https://github.com/masnesral (Nicolas Macchioni)
+    - [MPSInductor] Improve `_default` dtype inference (#156121)
+
+By just adding 'mps' as one of the backend options and fixing reduction op to actually return tuple of CSEVariable's rather than tuple of strings
+
+Test plan: CI
+
+Pull Request resolved: https://github.com/pytorch/pytorch/pull/156121
+Approved by: https://github.com/dcci (Nikita Shulga)
+    - [SymmMem] Add NVSHMEM GET support to Triton (#155890)
+
+Adds NVSHMEM GET operation support for Triton kernels:
+
+- Add `getmem_block` core.extern wrapper for nvshmemx_getmem_block
+- Add basic `test_triton_get` for 2-rank GET operation
+- Add `test_triton_get_ring` for ring topology GET across arbitrary ranks
+
+**Tests:**
+`$ TORCH_SYMMMEM=NVSHMEM python test/distributed/test_nvshmem.py`
+
+`TORCH_SYMMMEM=NVSHMEM python test/distributed/test_nvshmem.py -k test_triton_get`
+
+```python
+@skipIfRocm
+@requires_triton()
+def test_triton_get(self) -> None:
+   @triton.jit
+   def get_kernel(dst_ptr, src_ptr, numel: tl.constexpr, peer: tl.constexpr):
+       nvshmem.getmem_block(dst_ptr, src_ptr, numel, peer)
+
+   # ... setup code ...
+
+   val = 7
+   inp = symm_mem.empty(numel, dtype=dtype, device=self.device).fill_(
+       val if rank == 0 else -1
+   )
+   out = symm_mem.empty(numel, dtype=dtype, device=self.device).fill_(-1)
+
+   peer = 1 - rank
+   if rank == 1:
+       # Rank 1 gets data from rank 0
+       get_kernel[(1, 1, 1)](dst_ptr, src_ptr, numel=numel, peer=peer, extern_libs=nvshmem_lib)
+
+   dist.barrier()
+   print(f"[Rank {rank}] inp buffer: {inp}")
+   print(f"[Rank {rank}] out buffer: {out}")
+   print(f"[Rank {rank}] got data from peer {peer}")
+```
+
+```
+
+[Rank 0] inp buffer: tensor([7, 7, 7, 7, 7, 7, 7, 7], device='cuda:0', dtype=torch.int8)
+[Rank 1] inp buffer: tensor([-1, -1, -1, -1, -1, -1, -1, -1], device='cuda:1', dtype=torch.int8)
+...
+[Rank 1] out buffer: tensor([7, 7, 7, 7, 7, 7, 7, 7], device='cuda:1', dtype=torch.int8)
+...
+[Rank 1] got data from peer 0
+
+----------------------------------------------------------------------
+Ran 2 tests in 17.046s
+
+OK
+```
+
+```python
+@skipIfRocm
+@requires_triton()
+def test_triton_get_ring(self) -> None:
+   @triton.jit
+   def get_kernel(dst_ptr, src_ptr, numel: tl.constexpr, peer: tl.constexpr):
+       nvshmem.getmem_block(dst_ptr, src_ptr, numel, peer)
+
+   # ... setup code ...
+
+   # Ring topology: each rank gets data from the rank to its left
+   peer = (rank - 1) % world_size
+
+   # All ranks execute the get operation
+   get_kernel[(1, 1, 1)](dst_ptr, src_ptr, numel=numel, peer=peer, extern_libs=nvshmem_lib)
+
+   dist.barrier()
+   print(f"[Rank {rank}] inp buffer: {inp}")
+   print(f"[Rank {rank}] out buffer: {out}")
+   print(f"[Rank {rank}] got data from peer {peer}")
+
+```
+
+```
+Output (8 GPUs):
+
+[Rank 0] inp buffer: tensor([0, 0, 0, 0, 0, 0, 0, 0], device='cuda:0', dtype=torch.int8)
+[Rank 2] inp buffer: tensor([2, 2, 2, 2, 2, 2, 2, 2], device='cuda:2', dtype=torch.int8)
+[Rank 5] inp buffer: tensor([5, 5, 5, 5, 5, 5, 5, 5], device='cuda:5', dtype=torch.int8)
+[Rank 6] inp buffer: tensor([6, 6, 6, 6, 6, 6, 6, 6], device='cuda:6', dtype=torch.int8)
+[Rank 3] inp buffer: tensor([3, 3, 3, 3, 3, 3, 3, 3], device='cuda:3', dtype=torch.int8)
+[Rank 1] inp buffer: tensor([1, 1, 1, 1, 1, 1, 1, 1], device='cuda:1', dtype=torch.int8)
+[Rank 2] out buffer: tensor([1, 1, 1, 1, 1, 1, 1, 1], device='cuda:2', dtype=torch.int8)
+[Rank 5] out buffer: tensor([4, 4, 4, 4, 4, 4, 4, 4], device='cuda:5', dtype=torch.int8)
+[Rank 0] out buffer: tensor([7, 7, 7, 7, 7, 7, 7, 7], device='cuda:0', dtype=torch.int8)
+[Rank 2] got data from peer 1
+[Rank 5] got data from peer 4
+[Rank 0] got data from peer 7
+[Rank 7] inp buffer: tensor([7, 7, 7, 7, 7, 7, 7, 7], device='cuda:7', dtype=torch.int8)
+[Rank 6] out buffer: tensor([5, 5, 5, 5, 5, 5, 5, 5], device='cuda:6', dtype=torch.int8)
+[Rank 3] out buffer: tensor([2, 2, 2, 2, 2, 2, 2, 2], device='cuda:3', dtype=torch.int8)
+[Rank 6] got data from peer 5
+[Rank 3] got data from peer 2
+[Rank 1] out buffer: tensor([0, 0, 0, 0, 0, 0, 0, 0], device='cuda:1', dtype=torch.int8)
+[Rank 1] got data from peer 0
+[Rank 4] inp buffer: tensor([4, 4, 4, 4, 4, 4, 4, 4], device='cuda:4', dtype=torch.int8)
+[Rank 7] out buffer: tensor([6, 6, 6, 6, 6, 6, 6, 6], device='cuda:7', dtype=torch.int8)
+[Rank 7] got data from peer 6
+[Rank 4] out buffer: tensor([3, 3, 3, 3, 3, 3, 3, 3], device='cuda:4', dtype=torch.int8)
+[Rank 4] got data from peer 3
+
+----------------------------------------------------------------------
+Ran 1 test in 41.045s
+
+OK
+```
+
+Pull Request resolved: https://github.com/pytorch/pytorch/pull/155890
+Approved by: https://github.com/kwen2501, https://github.com/mandroid6 (codingwithsurya)
+    - Remove unused Azure pipeline trigger script (#156134)
+
+## Summary
+- delete `.circleci/scripts/trigger_azure_pipeline.py`
+
+## Testing
+- `python3 -m pip install flake8`
+- `python3 -m flake8 .circleci/scripts`
+
+------
+https://chatgpt.com/codex/tasks/task_e_6850a55f530c83279036800308fb6871
+Pull Request resolved: https://github.com/pytorch/pytorch/pull/156134
+Approved by: https://github.com/izaitsevfb (Nikita Shulga)
+    - Add FSDP2 logging (#155826)
+
+Fixes #ISSUE_NUMBER
+
+Pull Request resolved: https://github.com/pytorch/pytorch/pull/155826
+Approved by: https://github.com/weifengpy (mori360)
+    - Add warning for incorrected grad results at world size 1 (#154928)
+
+Add warning for the issue discussed at https://github.com/pytorch/pytorch/issues/144045
+
+Pull Request resolved: https://github.com/pytorch/pytorch/pull/154928
+Approved by: https://github.com/weifengpy (yifanmao)
+    - [AOTInductor] Add class declarations to torch._C._aoti interface file (#155128)
+
+Pull Request resolved: https://github.com/pytorch/pytorch/pull/155128
+Approved by: https://github.com/desertfire
+ghstack dependencies: #155149 (Benjamin Glass)
+    - [PGO] include ints/floats in suggested whitelist  (#155980)
+
+Made the mistake of dropping these
+
+Pull Request resolved: https://github.com/pytorch/pytorch/pull/155980
+Approved by: https://github.com/bobrenjc93 (Pian Pawakapan)
+    - [ONNX] Implements converter for higher order ops scan (#154513)
+
+Fixes #151327
+
+Pull Request resolved: https://github.com/pytorch/pytorch/pull/154513
+Approved by: https://github.com/justinchuby
+
+Co-authored-by: Justin Chu <justinchuby@users.noreply.github.com> (xadupre)
+    - [dynamo] support tracing weakref callback (#155761)
+
+Pull Request resolved: https://github.com/pytorch/pytorch/pull/155761
+Approved by: https://github.com/StrongerXi, https://github.com/jansel (William Wen)
+    - [dynamo] fix KeyError in LOAD_FAST_CHECK (#155763)
+
+Pull Request resolved: https://github.com/pytorch/pytorch/pull/155763
+Approved by: https://github.com/StrongerXi, https://github.com/jansel
+ghstack dependencies: #155761 (William Wen)
+
+更新时间：2025-06-17 18:24:16
+事件类型：PushEvent
+提交信息：
+    - [PT2][partitioners] Add aten.split to view_ops list [relanding #155424] (#155943)
+
+Pull Request resolved: https://github.com/pytorch/pytorch/pull/155943
+Approved by: https://github.com/ShatianWang (Xuan Zhang)
+    - Fix #155018 (convert distributed rst to markdown) (#155528)
+
+Used [rst2myst tool](https://rst-to-myst.readthedocs.io/en/latest/)
+
+Fixes #155018
+
+Docs comparison (check out the 'new' whenever docs build)
+
+1. distributed.checkpoint ([old](https://docs.pytorch.org/docs/main/distributed.checkpoint.html) vs. [new](https://docs-preview.pytorch.org/pytorch/pytorch/155528/distributed.checkpoint.html))
+2. distributed.elastic ([old](https://docs.pytorch.org/docs/main/distributed.elastic.html) vs. [new](https://docs-preview.pytorch.org/pytorch/pytorch/155528/distributed.elastic.html))
+3. distributed.fsdp.fully_shard ([old](https://docs.pytorch.org/docs/main/distributed.fsdp.fully_shard.html) vs. [new](https://docs-preview.pytorch.org/pytorch/pytorch/155528/distributed.fsdp.fully_shard.html))
+4. distributed.optim ([old](https://docs.pytorch.org/docs/main/distributed.optim.html) vs. [new](https://docs-preview.pytorch.org/pytorch/pytorch/155528/distributed.optim.html))
+5. distributed.pipelining ([old](https://docs.pytorch.org/docs/main/distributed.pipelining.html) vs. [new](https://docs-preview.pytorch.org/pytorch/pytorch/155528/distributed.pipelining.html))
+
+Pull Request resolved: https://github.com/pytorch/pytorch/pull/155528
+Approved by: https://github.com/wz337, https://github.com/svekars (Justin Silver)
+    - Add size_hint_or_throw (#155615)
+
+## Summary
+`TypeError("Cannot convert symbols to int")` is coming up more recently since more unbacked symints are making its way into Inductor. See https://github.com/pytorch/pytorch/issues/155484
+- One way to deal with this is to add `size_hint_or_throw` to throw if we try to pull a hint from an unbacked expr.
+- Then, repurpose `size_hint` to accommodate unbacked symints by setting a default fallback or adding an appropriate fallback for each callsite.
+
+This PR adds `size_hint_or_throw` which will throw if unbacked symints exist
+- use `size_hint_or_throw` -- usually when the callee can try/catch the exception or guards against unbacked symints
+
+------
+with Codex
+https://chatgpt.com/codex/tasks/task_e_684869dfc740832882c88d05534cc8f9
+
+Pull Request resolved: https://github.com/pytorch/pytorch/pull/155615
+Approved by: https://github.com/ezyang, https://github.com/laithsakka, https://github.com/jingsh
+
+Co-authored-by: Aaron Gokaslan <aaronGokaslan@gmail.com> (Colin Peppler)
+    - [ez] fix grammar error in comment (#156053)
+
+Pull Request resolved: https://github.com/pytorch/pytorch/pull/156053
+Approved by: https://github.com/jingsh
+ghstack dependencies: #155982, #155996 (bobrenjc93)
+    - Remove non-header-only dep from c10_headers target (#155858)
+
+It depends on /c10/util:base which is not header-only.
+
+Differential Revision: [D76552750](https://our.internmc.facebook.com/intern/diff/D76552750/)
+
+**NOTE FOR REVIEWERS**: This PR has internal Meta-specific changes or comments, please review them on [Phabricator](https://our.internmc.facebook.com/intern/diff/D76552750/)!
+Pull Request resolved: https://github.com/pytorch/pytorch/pull/155858
+Approved by: https://github.com/ezyang (Scott Wolchok)
+    - Fix if condition for CUDA 12.9 Win build (#156108)
+
+follow-up for https://github.com/pytorch/pytorch/pull/155799/files
+Currently the last if condition will be executed for CUDA 12.9, overriding previous CUDA_ARCH_LIST. We should exclude 12.9 from the last if condition to fix this.
+
+Pull Request resolved: https://github.com/pytorch/pytorch/pull/156108
+Approved by: https://github.com/atalman (Ting Lu)
+    - Revert "Implement guard collectives (#155558)"
+
+This reverts commit 5a5a05a6a3be376130848e235df73b752eef0230.
+
+Reverted https://github.com/pytorch/pytorch/pull/155558 on behalf of https://github.com/malfet due to Hmm, may be I'm looking at the wrong metric, but https://hud.pytorch.org/hud/pytorch/pytorch/c92f1075aaf3649f6368af2a3df9b5167f941b3f/1?per_page=50&name_filter=inductor_torchbench_cpu_smoke&mergeEphemeralLF=true shows that test started to pass after PR were reverted ([comment](https://github.com/pytorch/pytorch/pull/155558#issuecomment-2978337152)) (PyTorch MergeBot)
+    - Revert "[Cutlass] Fix buffer missing issues (#155897)"
+
+This reverts commit 9bd42c15707a4b410ee005d5916e882a7db432bb.
+
+Reverted https://github.com/pytorch/pytorch/pull/155897 on behalf of https://github.com/atalman due to failing internal tests ([comment](https://github.com/pytorch/pytorch/pull/155897#issuecomment-2978391416)) (PyTorch MergeBot)
+    - [nativert] Move OpKernel to PyTorch core (#156011)
+
+Summary:
+Moves OpKernel base class to PyTorch core. It is an abstract interface representing a kernel, which is responsible for executing a single Node in the graph.
+
+Torch Native Runtime RFC: pytorch/rfcs#72
+
+Test Plan:
+buck2 run mode/dev-nosan caffe2/test/cpp/nativert:op_kernel_test
+
+Rollback Plan:
+
+Differential Revision: D76525939
+
+Pull Request resolved: https://github.com/pytorch/pytorch/pull/156011
+Approved by: https://github.com/zhxchen17 (Yiming Zhou)
+    - [BE][4/X] Phase out usage of `use_max_autotune()` (#155850)
+
+See #155847 for context
+
+Pull Request resolved: https://github.com/pytorch/pytorch/pull/155850
+Approved by: https://github.com/masnesral (Nicolas Macchioni)
+    - [MPSInductor] Improve `_default` dtype inference (#156121)
+
+By just adding 'mps' as one of the backend options and fixing reduction op to actually return tuple of CSEVariable's rather than tuple of strings
+
+Test plan: CI
+
+Pull Request resolved: https://github.com/pytorch/pytorch/pull/156121
+Approved by: https://github.com/dcci (Nikita Shulga)
+    - [SymmMem] Add NVSHMEM GET support to Triton (#155890)
+
+Adds NVSHMEM GET operation support for Triton kernels:
+
+- Add `getmem_block` core.extern wrapper for nvshmemx_getmem_block
+- Add basic `test_triton_get` for 2-rank GET operation
+- Add `test_triton_get_ring` for ring topology GET across arbitrary ranks
+
+**Tests:**
+`$ TORCH_SYMMMEM=NVSHMEM python test/distributed/test_nvshmem.py`
+
+`TORCH_SYMMMEM=NVSHMEM python test/distributed/test_nvshmem.py -k test_triton_get`
+
+```python
+@skipIfRocm
+@requires_triton()
+def test_triton_get(self) -> None:
+   @triton.jit
+   def get_kernel(dst_ptr, src_ptr, numel: tl.constexpr, peer: tl.constexpr):
+       nvshmem.getmem_block(dst_ptr, src_ptr, numel, peer)
+
+   # ... setup code ...
+
+   val = 7
+   inp = symm_mem.empty(numel, dtype=dtype, device=self.device).fill_(
+       val if rank == 0 else -1
+   )
+   out = symm_mem.empty(numel, dtype=dtype, device=self.device).fill_(-1)
+
+   peer = 1 - rank
+   if rank == 1:
+       # Rank 1 gets data from rank 0
+       get_kernel[(1, 1, 1)](dst_ptr, src_ptr, numel=numel, peer=peer, extern_libs=nvshmem_lib)
+
+   dist.barrier()
+   print(f"[Rank {rank}] inp buffer: {inp}")
+   print(f"[Rank {rank}] out buffer: {out}")
+   print(f"[Rank {rank}] got data from peer {peer}")
+```
+
+```
+
+[Rank 0] inp buffer: tensor([7, 7, 7, 7, 7, 7, 7, 7], device='cuda:0', dtype=torch.int8)
+[Rank 1] inp buffer: tensor([-1, -1, -1, -1, -1, -1, -1, -1], device='cuda:1', dtype=torch.int8)
+...
+[Rank 1] out buffer: tensor([7, 7, 7, 7, 7, 7, 7, 7], device='cuda:1', dtype=torch.int8)
+...
+[Rank 1] got data from peer 0
+
+----------------------------------------------------------------------
+Ran 2 tests in 17.046s
+
+OK
+```
+
+```python
+@skipIfRocm
+@requires_triton()
+def test_triton_get_ring(self) -> None:
+   @triton.jit
+   def get_kernel(dst_ptr, src_ptr, numel: tl.constexpr, peer: tl.constexpr):
+       nvshmem.getmem_block(dst_ptr, src_ptr, numel, peer)
+
+   # ... setup code ...
+
+   # Ring topology: each rank gets data from the rank to its left
+   peer = (rank - 1) % world_size
+
+   # All ranks execute the get operation
+   get_kernel[(1, 1, 1)](dst_ptr, src_ptr, numel=numel, peer=peer, extern_libs=nvshmem_lib)
+
+   dist.barrier()
+   print(f"[Rank {rank}] inp buffer: {inp}")
+   print(f"[Rank {rank}] out buffer: {out}")
+   print(f"[Rank {rank}] got data from peer {peer}")
+
+```
+
+```
+Output (8 GPUs):
+
+[Rank 0] inp buffer: tensor([0, 0, 0, 0, 0, 0, 0, 0], device='cuda:0', dtype=torch.int8)
+[Rank 2] inp buffer: tensor([2, 2, 2, 2, 2, 2, 2, 2], device='cuda:2', dtype=torch.int8)
+[Rank 5] inp buffer: tensor([5, 5, 5, 5, 5, 5, 5, 5], device='cuda:5', dtype=torch.int8)
+[Rank 6] inp buffer: tensor([6, 6, 6, 6, 6, 6, 6, 6], device='cuda:6', dtype=torch.int8)
+[Rank 3] inp buffer: tensor([3, 3, 3, 3, 3, 3, 3, 3], device='cuda:3', dtype=torch.int8)
+[Rank 1] inp buffer: tensor([1, 1, 1, 1, 1, 1, 1, 1], device='cuda:1', dtype=torch.int8)
+[Rank 2] out buffer: tensor([1, 1, 1, 1, 1, 1, 1, 1], device='cuda:2', dtype=torch.int8)
+[Rank 5] out buffer: tensor([4, 4, 4, 4, 4, 4, 4, 4], device='cuda:5', dtype=torch.int8)
+[Rank 0] out buffer: tensor([7, 7, 7, 7, 7, 7, 7, 7], device='cuda:0', dtype=torch.int8)
+[Rank 2] got data from peer 1
+[Rank 5] got data from peer 4
+[Rank 0] got data from peer 7
+[Rank 7] inp buffer: tensor([7, 7, 7, 7, 7, 7, 7, 7], device='cuda:7', dtype=torch.int8)
+[Rank 6] out buffer: tensor([5, 5, 5, 5, 5, 5, 5, 5], device='cuda:6', dtype=torch.int8)
+[Rank 3] out buffer: tensor([2, 2, 2, 2, 2, 2, 2, 2], device='cuda:3', dtype=torch.int8)
+[Rank 6] got data from peer 5
+[Rank 3] got data from peer 2
+[Rank 1] out buffer: tensor([0, 0, 0, 0, 0, 0, 0, 0], device='cuda:1', dtype=torch.int8)
+[Rank 1] got data from peer 0
+[Rank 4] inp buffer: tensor([4, 4, 4, 4, 4, 4, 4, 4], device='cuda:4', dtype=torch.int8)
+[Rank 7] out buffer: tensor([6, 6, 6, 6, 6, 6, 6, 6], device='cuda:7', dtype=torch.int8)
+[Rank 7] got data from peer 6
+[Rank 4] out buffer: tensor([3, 3, 3, 3, 3, 3, 3, 3], device='cuda:4', dtype=torch.int8)
+[Rank 4] got data from peer 3
+
+----------------------------------------------------------------------
+Ran 1 test in 41.045s
+
+OK
+```
+
+Pull Request resolved: https://github.com/pytorch/pytorch/pull/155890
+Approved by: https://github.com/kwen2501, https://github.com/mandroid6 (codingwithsurya)
+    - Remove unused Azure pipeline trigger script (#156134)
+
+## Summary
+- delete `.circleci/scripts/trigger_azure_pipeline.py`
+
+## Testing
+- `python3 -m pip install flake8`
+- `python3 -m flake8 .circleci/scripts`
+
+------
+https://chatgpt.com/codex/tasks/task_e_6850a55f530c83279036800308fb6871
+Pull Request resolved: https://github.com/pytorch/pytorch/pull/156134
+Approved by: https://github.com/izaitsevfb (Nikita Shulga)
+    - Add FSDP2 logging (#155826)
+
+Fixes #ISSUE_NUMBER
+
+Pull Request resolved: https://github.com/pytorch/pytorch/pull/155826
+Approved by: https://github.com/weifengpy (mori360)
+    - Add warning for incorrected grad results at world size 1 (#154928)
+
+Add warning for the issue discussed at https://github.com/pytorch/pytorch/issues/144045
+
+Pull Request resolved: https://github.com/pytorch/pytorch/pull/154928
+Approved by: https://github.com/weifengpy (yifanmao)
+    - [AOTInductor] Add class declarations to torch._C._aoti interface file (#155128)
+
+Pull Request resolved: https://github.com/pytorch/pytorch/pull/155128
+Approved by: https://github.com/desertfire
+ghstack dependencies: #155149 (Benjamin Glass)
+    - [PGO] include ints/floats in suggested whitelist  (#155980)
+
+Made the mistake of dropping these
+
+Pull Request resolved: https://github.com/pytorch/pytorch/pull/155980
+Approved by: https://github.com/bobrenjc93 (Pian Pawakapan)
+    - [ONNX] Implements converter for higher order ops scan (#154513)
+
+Fixes #151327
+
+Pull Request resolved: https://github.com/pytorch/pytorch/pull/154513
+Approved by: https://github.com/justinchuby
+
+Co-authored-by: Justin Chu <justinchuby@users.noreply.github.com> (xadupre)
+    - [dynamo] support tracing weakref callback (#155761)
+
+Pull Request resolved: https://github.com/pytorch/pytorch/pull/155761
+Approved by: https://github.com/StrongerXi, https://github.com/jansel (William Wen)
+    - [dynamo] fix KeyError in LOAD_FAST_CHECK (#155763)
+
+Pull Request resolved: https://github.com/pytorch/pytorch/pull/155763
+Approved by: https://github.com/StrongerXi, https://github.com/jansel
+ghstack dependencies: #155761 (William Wen)
+
+更新时间：2025-06-17 18:24:16
+事件类型：PushEvent
+提交信息：
+    - [PT2][partitioners] Add aten.split to view_ops list [relanding #155424] (#155943)
+
+Pull Request resolved: https://github.com/pytorch/pytorch/pull/155943
+Approved by: https://github.com/ShatianWang (Xuan Zhang)
+    - Fix #155018 (convert distributed rst to markdown) (#155528)
+
+Used [rst2myst tool](https://rst-to-myst.readthedocs.io/en/latest/)
+
+Fixes #155018
+
+Docs comparison (check out the 'new' whenever docs build)
+
+1. distributed.checkpoint ([old](https://docs.pytorch.org/docs/main/distributed.checkpoint.html) vs. [new](https://docs-preview.pytorch.org/pytorch/pytorch/155528/distributed.checkpoint.html))
+2. distributed.elastic ([old](https://docs.pytorch.org/docs/main/distributed.elastic.html) vs. [new](https://docs-preview.pytorch.org/pytorch/pytorch/155528/distributed.elastic.html))
+3. distributed.fsdp.fully_shard ([old](https://docs.pytorch.org/docs/main/distributed.fsdp.fully_shard.html) vs. [new](https://docs-preview.pytorch.org/pytorch/pytorch/155528/distributed.fsdp.fully_shard.html))
+4. distributed.optim ([old](https://docs.pytorch.org/docs/main/distributed.optim.html) vs. [new](https://docs-preview.pytorch.org/pytorch/pytorch/155528/distributed.optim.html))
+5. distributed.pipelining ([old](https://docs.pytorch.org/docs/main/distributed.pipelining.html) vs. [new](https://docs-preview.pytorch.org/pytorch/pytorch/155528/distributed.pipelining.html))
+
+Pull Request resolved: https://github.com/pytorch/pytorch/pull/155528
+Approved by: https://github.com/wz337, https://github.com/svekars (Justin Silver)
+    - Add size_hint_or_throw (#155615)
+
+## Summary
+`TypeError("Cannot convert symbols to int")` is coming up more recently since more unbacked symints are making its way into Inductor. See https://github.com/pytorch/pytorch/issues/155484
+- One way to deal with this is to add `size_hint_or_throw` to throw if we try to pull a hint from an unbacked expr.
+- Then, repurpose `size_hint` to accommodate unbacked symints by setting a default fallback or adding an appropriate fallback for each callsite.
+
+This PR adds `size_hint_or_throw` which will throw if unbacked symints exist
+- use `size_hint_or_throw` -- usually when the callee can try/catch the exception or guards against unbacked symints
+
+------
+with Codex
+https://chatgpt.com/codex/tasks/task_e_684869dfc740832882c88d05534cc8f9
+
+Pull Request resolved: https://github.com/pytorch/pytorch/pull/155615
+Approved by: https://github.com/ezyang, https://github.com/laithsakka, https://github.com/jingsh
+
+Co-authored-by: Aaron Gokaslan <aaronGokaslan@gmail.com> (Colin Peppler)
+    - [ez] fix grammar error in comment (#156053)
+
+Pull Request resolved: https://github.com/pytorch/pytorch/pull/156053
+Approved by: https://github.com/jingsh
+ghstack dependencies: #155982, #155996 (bobrenjc93)
+    - Remove non-header-only dep from c10_headers target (#155858)
+
+It depends on /c10/util:base which is not header-only.
+
+Differential Revision: [D76552750](https://our.internmc.facebook.com/intern/diff/D76552750/)
+
+**NOTE FOR REVIEWERS**: This PR has internal Meta-specific changes or comments, please review them on [Phabricator](https://our.internmc.facebook.com/intern/diff/D76552750/)!
+Pull Request resolved: https://github.com/pytorch/pytorch/pull/155858
+Approved by: https://github.com/ezyang (Scott Wolchok)
+    - Fix if condition for CUDA 12.9 Win build (#156108)
+
+follow-up for https://github.com/pytorch/pytorch/pull/155799/files
+Currently the last if condition will be executed for CUDA 12.9, overriding previous CUDA_ARCH_LIST. We should exclude 12.9 from the last if condition to fix this.
+
+Pull Request resolved: https://github.com/pytorch/pytorch/pull/156108
+Approved by: https://github.com/atalman (Ting Lu)
+    - Revert "Implement guard collectives (#155558)"
+
+This reverts commit 5a5a05a6a3be376130848e235df73b752eef0230.
+
+Reverted https://github.com/pytorch/pytorch/pull/155558 on behalf of https://github.com/malfet due to Hmm, may be I'm looking at the wrong metric, but https://hud.pytorch.org/hud/pytorch/pytorch/c92f1075aaf3649f6368af2a3df9b5167f941b3f/1?per_page=50&name_filter=inductor_torchbench_cpu_smoke&mergeEphemeralLF=true shows that test started to pass after PR were reverted ([comment](https://github.com/pytorch/pytorch/pull/155558#issuecomment-2978337152)) (PyTorch MergeBot)
+    - Revert "[Cutlass] Fix buffer missing issues (#155897)"
+
+This reverts commit 9bd42c15707a4b410ee005d5916e882a7db432bb.
+
+Reverted https://github.com/pytorch/pytorch/pull/155897 on behalf of https://github.com/atalman due to failing internal tests ([comment](https://github.com/pytorch/pytorch/pull/155897#issuecomment-2978391416)) (PyTorch MergeBot)
+    - [nativert] Move OpKernel to PyTorch core (#156011)
+
+Summary:
+Moves OpKernel base class to PyTorch core. It is an abstract interface representing a kernel, which is responsible for executing a single Node in the graph.
+
+Torch Native Runtime RFC: pytorch/rfcs#72
+
+Test Plan:
+buck2 run mode/dev-nosan caffe2/test/cpp/nativert:op_kernel_test
+
+Rollback Plan:
+
+Differential Revision: D76525939
+
+Pull Request resolved: https://github.com/pytorch/pytorch/pull/156011
+Approved by: https://github.com/zhxchen17 (Yiming Zhou)
+    - [BE][4/X] Phase out usage of `use_max_autotune()` (#155850)
+
+See #155847 for context
+
+Pull Request resolved: https://github.com/pytorch/pytorch/pull/155850
+Approved by: https://github.com/masnesral (Nicolas Macchioni)
+    - [MPSInductor] Improve `_default` dtype inference (#156121)
+
+By just adding 'mps' as one of the backend options and fixing reduction op to actually return tuple of CSEVariable's rather than tuple of strings
+
+Test plan: CI
+
+Pull Request resolved: https://github.com/pytorch/pytorch/pull/156121
+Approved by: https://github.com/dcci (Nikita Shulga)
+    - [SymmMem] Add NVSHMEM GET support to Triton (#155890)
+
+Adds NVSHMEM GET operation support for Triton kernels:
+
+- Add `getmem_block` core.extern wrapper for nvshmemx_getmem_block
+- Add basic `test_triton_get` for 2-rank GET operation
+- Add `test_triton_get_ring` for ring topology GET across arbitrary ranks
+
+**Tests:**
+`$ TORCH_SYMMMEM=NVSHMEM python test/distributed/test_nvshmem.py`
+
+`TORCH_SYMMMEM=NVSHMEM python test/distributed/test_nvshmem.py -k test_triton_get`
+
+```python
+@skipIfRocm
+@requires_triton()
+def test_triton_get(self) -> None:
+   @triton.jit
+   def get_kernel(dst_ptr, src_ptr, numel: tl.constexpr, peer: tl.constexpr):
+       nvshmem.getmem_block(dst_ptr, src_ptr, numel, peer)
+
+   # ... setup code ...
+
+   val = 7
+   inp = symm_mem.empty(numel, dtype=dtype, device=self.device).fill_(
+       val if rank == 0 else -1
+   )
+   out = symm_mem.empty(numel, dtype=dtype, device=self.device).fill_(-1)
+
+   peer = 1 - rank
+   if rank == 1:
+       # Rank 1 gets data from rank 0
+       get_kernel[(1, 1, 1)](dst_ptr, src_ptr, numel=numel, peer=peer, extern_libs=nvshmem_lib)
+
+   dist.barrier()
+   print(f"[Rank {rank}] inp buffer: {inp}")
+   print(f"[Rank {rank}] out buffer: {out}")
+   print(f"[Rank {rank}] got data from peer {peer}")
+```
+
+```
+
+[Rank 0] inp buffer: tensor([7, 7, 7, 7, 7, 7, 7, 7], device='cuda:0', dtype=torch.int8)
+[Rank 1] inp buffer: tensor([-1, -1, -1, -1, -1, -1, -1, -1], device='cuda:1', dtype=torch.int8)
+...
+[Rank 1] out buffer: tensor([7, 7, 7, 7, 7, 7, 7, 7], device='cuda:1', dtype=torch.int8)
+...
+[Rank 1] got data from peer 0
+
+----------------------------------------------------------------------
+Ran 2 tests in 17.046s
+
+OK
+```
+
+```python
+@skipIfRocm
+@requires_triton()
+def test_triton_get_ring(self) -> None:
+   @triton.jit
+   def get_kernel(dst_ptr, src_ptr, numel: tl.constexpr, peer: tl.constexpr):
+       nvshmem.getmem_block(dst_ptr, src_ptr, numel, peer)
+
+   # ... setup code ...
+
+   # Ring topology: each rank gets data from the rank to its left
+   peer = (rank - 1) % world_size
+
+   # All ranks execute the get operation
+   get_kernel[(1, 1, 1)](dst_ptr, src_ptr, numel=numel, peer=peer, extern_libs=nvshmem_lib)
+
+   dist.barrier()
+   print(f"[Rank {rank}] inp buffer: {inp}")
+   print(f"[Rank {rank}] out buffer: {out}")
+   print(f"[Rank {rank}] got data from peer {peer}")
+
+```
+
+```
+Output (8 GPUs):
+
+[Rank 0] inp buffer: tensor([0, 0, 0, 0, 0, 0, 0, 0], device='cuda:0', dtype=torch.int8)
+[Rank 2] inp buffer: tensor([2, 2, 2, 2, 2, 2, 2, 2], device='cuda:2', dtype=torch.int8)
+[Rank 5] inp buffer: tensor([5, 5, 5, 5, 5, 5, 5, 5], device='cuda:5', dtype=torch.int8)
+[Rank 6] inp buffer: tensor([6, 6, 6, 6, 6, 6, 6, 6], device='cuda:6', dtype=torch.int8)
+[Rank 3] inp buffer: tensor([3, 3, 3, 3, 3, 3, 3, 3], device='cuda:3', dtype=torch.int8)
+[Rank 1] inp buffer: tensor([1, 1, 1, 1, 1, 1, 1, 1], device='cuda:1', dtype=torch.int8)
+[Rank 2] out buffer: tensor([1, 1, 1, 1, 1, 1, 1, 1], device='cuda:2', dtype=torch.int8)
+[Rank 5] out buffer: tensor([4, 4, 4, 4, 4, 4, 4, 4], device='cuda:5', dtype=torch.int8)
+[Rank 0] out buffer: tensor([7, 7, 7, 7, 7, 7, 7, 7], device='cuda:0', dtype=torch.int8)
+[Rank 2] got data from peer 1
+[Rank 5] got data from peer 4
+[Rank 0] got data from peer 7
+[Rank 7] inp buffer: tensor([7, 7, 7, 7, 7, 7, 7, 7], device='cuda:7', dtype=torch.int8)
+[Rank 6] out buffer: tensor([5, 5, 5, 5, 5, 5, 5, 5], device='cuda:6', dtype=torch.int8)
+[Rank 3] out buffer: tensor([2, 2, 2, 2, 2, 2, 2, 2], device='cuda:3', dtype=torch.int8)
+[Rank 6] got data from peer 5
+[Rank 3] got data from peer 2
+[Rank 1] out buffer: tensor([0, 0, 0, 0, 0, 0, 0, 0], device='cuda:1', dtype=torch.int8)
+[Rank 1] got data from peer 0
+[Rank 4] inp buffer: tensor([4, 4, 4, 4, 4, 4, 4, 4], device='cuda:4', dtype=torch.int8)
+[Rank 7] out buffer: tensor([6, 6, 6, 6, 6, 6, 6, 6], device='cuda:7', dtype=torch.int8)
+[Rank 7] got data from peer 6
+[Rank 4] out buffer: tensor([3, 3, 3, 3, 3, 3, 3, 3], device='cuda:4', dtype=torch.int8)
+[Rank 4] got data from peer 3
+
+----------------------------------------------------------------------
+Ran 1 test in 41.045s
+
+OK
+```
+
+Pull Request resolved: https://github.com/pytorch/pytorch/pull/155890
+Approved by: https://github.com/kwen2501, https://github.com/mandroid6 (codingwithsurya)
+    - Remove unused Azure pipeline trigger script (#156134)
+
+## Summary
+- delete `.circleci/scripts/trigger_azure_pipeline.py`
+
+## Testing
+- `python3 -m pip install flake8`
+- `python3 -m flake8 .circleci/scripts`
+
+------
+https://chatgpt.com/codex/tasks/task_e_6850a55f530c83279036800308fb6871
+Pull Request resolved: https://github.com/pytorch/pytorch/pull/156134
+Approved by: https://github.com/izaitsevfb (Nikita Shulga)
+    - Add FSDP2 logging (#155826)
+
+Fixes #ISSUE_NUMBER
+
+Pull Request resolved: https://github.com/pytorch/pytorch/pull/155826
+Approved by: https://github.com/weifengpy (mori360)
+    - Add warning for incorrected grad results at world size 1 (#154928)
+
+Add warning for the issue discussed at https://github.com/pytorch/pytorch/issues/144045
+
+Pull Request resolved: https://github.com/pytorch/pytorch/pull/154928
+Approved by: https://github.com/weifengpy (yifanmao)
+    - [AOTInductor] Add class declarations to torch._C._aoti interface file (#155128)
+
+Pull Request resolved: https://github.com/pytorch/pytorch/pull/155128
+Approved by: https://github.com/desertfire
+ghstack dependencies: #155149 (Benjamin Glass)
+    - [PGO] include ints/floats in suggested whitelist  (#155980)
+
+Made the mistake of dropping these
+
+Pull Request resolved: https://github.com/pytorch/pytorch/pull/155980
+Approved by: https://github.com/bobrenjc93 (Pian Pawakapan)
+    - [ONNX] Implements converter for higher order ops scan (#154513)
+
+Fixes #151327
+
+Pull Request resolved: https://github.com/pytorch/pytorch/pull/154513
+Approved by: https://github.com/justinchuby
+
+Co-authored-by: Justin Chu <justinchuby@users.noreply.github.com> (xadupre)
+    - [dynamo] support tracing weakref callback (#155761)
+
+Pull Request resolved: https://github.com/pytorch/pytorch/pull/155761
+Approved by: https://github.com/StrongerXi, https://github.com/jansel (William Wen)
+    - [dynamo] fix KeyError in LOAD_FAST_CHECK (#155763)
+
+Pull Request resolved: https://github.com/pytorch/pytorch/pull/155763
+Approved by: https://github.com/StrongerXi, https://github.com/jansel
+ghstack dependencies: #155761 (William Wen)
+
+更新时间：2025-06-17 18:24:14
+事件类型：PushEvent
+提交信息：
+    - [PT2][partitioners] Add aten.split to view_ops list [relanding #155424] (#155943)
+
+Pull Request resolved: https://github.com/pytorch/pytorch/pull/155943
+Approved by: https://github.com/ShatianWang (Xuan Zhang)
+    - Fix #155018 (convert distributed rst to markdown) (#155528)
+
+Used [rst2myst tool](https://rst-to-myst.readthedocs.io/en/latest/)
+
+Fixes #155018
+
+Docs comparison (check out the 'new' whenever docs build)
+
+1. distributed.checkpoint ([old](https://docs.pytorch.org/docs/main/distributed.checkpoint.html) vs. [new](https://docs-preview.pytorch.org/pytorch/pytorch/155528/distributed.checkpoint.html))
+2. distributed.elastic ([old](https://docs.pytorch.org/docs/main/distributed.elastic.html) vs. [new](https://docs-preview.pytorch.org/pytorch/pytorch/155528/distributed.elastic.html))
+3. distributed.fsdp.fully_shard ([old](https://docs.pytorch.org/docs/main/distributed.fsdp.fully_shard.html) vs. [new](https://docs-preview.pytorch.org/pytorch/pytorch/155528/distributed.fsdp.fully_shard.html))
+4. distributed.optim ([old](https://docs.pytorch.org/docs/main/distributed.optim.html) vs. [new](https://docs-preview.pytorch.org/pytorch/pytorch/155528/distributed.optim.html))
+5. distributed.pipelining ([old](https://docs.pytorch.org/docs/main/distributed.pipelining.html) vs. [new](https://docs-preview.pytorch.org/pytorch/pytorch/155528/distributed.pipelining.html))
+
+Pull Request resolved: https://github.com/pytorch/pytorch/pull/155528
+Approved by: https://github.com/wz337, https://github.com/svekars (Justin Silver)
+    - Add size_hint_or_throw (#155615)
+
+## Summary
+`TypeError("Cannot convert symbols to int")` is coming up more recently since more unbacked symints are making its way into Inductor. See https://github.com/pytorch/pytorch/issues/155484
+- One way to deal with this is to add `size_hint_or_throw` to throw if we try to pull a hint from an unbacked expr.
+- Then, repurpose `size_hint` to accommodate unbacked symints by setting a default fallback or adding an appropriate fallback for each callsite.
+
+This PR adds `size_hint_or_throw` which will throw if unbacked symints exist
+- use `size_hint_or_throw` -- usually when the callee can try/catch the exception or guards against unbacked symints
+
+------
+with Codex
+https://chatgpt.com/codex/tasks/task_e_684869dfc740832882c88d05534cc8f9
+
+Pull Request resolved: https://github.com/pytorch/pytorch/pull/155615
+Approved by: https://github.com/ezyang, https://github.com/laithsakka, https://github.com/jingsh
+
+Co-authored-by: Aaron Gokaslan <aaronGokaslan@gmail.com> (Colin Peppler)
+    - [ez] fix grammar error in comment (#156053)
+
+Pull Request resolved: https://github.com/pytorch/pytorch/pull/156053
+Approved by: https://github.com/jingsh
+ghstack dependencies: #155982, #155996 (bobrenjc93)
+    - Remove non-header-only dep from c10_headers target (#155858)
+
+It depends on /c10/util:base which is not header-only.
+
+Differential Revision: [D76552750](https://our.internmc.facebook.com/intern/diff/D76552750/)
+
+**NOTE FOR REVIEWERS**: This PR has internal Meta-specific changes or comments, please review them on [Phabricator](https://our.internmc.facebook.com/intern/diff/D76552750/)!
+Pull Request resolved: https://github.com/pytorch/pytorch/pull/155858
+Approved by: https://github.com/ezyang (Scott Wolchok)
+    - Fix if condition for CUDA 12.9 Win build (#156108)
+
+follow-up for https://github.com/pytorch/pytorch/pull/155799/files
+Currently the last if condition will be executed for CUDA 12.9, overriding previous CUDA_ARCH_LIST. We should exclude 12.9 from the last if condition to fix this.
+
+Pull Request resolved: https://github.com/pytorch/pytorch/pull/156108
+Approved by: https://github.com/atalman (Ting Lu)
+    - Revert "Implement guard collectives (#155558)"
+
+This reverts commit 5a5a05a6a3be376130848e235df73b752eef0230.
+
+Reverted https://github.com/pytorch/pytorch/pull/155558 on behalf of https://github.com/malfet due to Hmm, may be I'm looking at the wrong metric, but https://hud.pytorch.org/hud/pytorch/pytorch/c92f1075aaf3649f6368af2a3df9b5167f941b3f/1?per_page=50&name_filter=inductor_torchbench_cpu_smoke&mergeEphemeralLF=true shows that test started to pass after PR were reverted ([comment](https://github.com/pytorch/pytorch/pull/155558#issuecomment-2978337152)) (PyTorch MergeBot)
+    - Revert "[Cutlass] Fix buffer missing issues (#155897)"
+
+This reverts commit 9bd42c15707a4b410ee005d5916e882a7db432bb.
+
+Reverted https://github.com/pytorch/pytorch/pull/155897 on behalf of https://github.com/atalman due to failing internal tests ([comment](https://github.com/pytorch/pytorch/pull/155897#issuecomment-2978391416)) (PyTorch MergeBot)
+    - [nativert] Move OpKernel to PyTorch core (#156011)
+
+Summary:
+Moves OpKernel base class to PyTorch core. It is an abstract interface representing a kernel, which is responsible for executing a single Node in the graph.
+
+Torch Native Runtime RFC: pytorch/rfcs#72
+
+Test Plan:
+buck2 run mode/dev-nosan caffe2/test/cpp/nativert:op_kernel_test
+
+Rollback Plan:
+
+Differential Revision: D76525939
+
+Pull Request resolved: https://github.com/pytorch/pytorch/pull/156011
+Approved by: https://github.com/zhxchen17 (Yiming Zhou)
+    - [BE][4/X] Phase out usage of `use_max_autotune()` (#155850)
+
+See #155847 for context
+
+Pull Request resolved: https://github.com/pytorch/pytorch/pull/155850
+Approved by: https://github.com/masnesral (Nicolas Macchioni)
+    - [MPSInductor] Improve `_default` dtype inference (#156121)
+
+By just adding 'mps' as one of the backend options and fixing reduction op to actually return tuple of CSEVariable's rather than tuple of strings
+
+Test plan: CI
+
+Pull Request resolved: https://github.com/pytorch/pytorch/pull/156121
+Approved by: https://github.com/dcci (Nikita Shulga)
+    - [SymmMem] Add NVSHMEM GET support to Triton (#155890)
+
+Adds NVSHMEM GET operation support for Triton kernels:
+
+- Add `getmem_block` core.extern wrapper for nvshmemx_getmem_block
+- Add basic `test_triton_get` for 2-rank GET operation
+- Add `test_triton_get_ring` for ring topology GET across arbitrary ranks
+
+**Tests:**
+`$ TORCH_SYMMMEM=NVSHMEM python test/distributed/test_nvshmem.py`
+
+`TORCH_SYMMMEM=NVSHMEM python test/distributed/test_nvshmem.py -k test_triton_get`
+
+```python
+@skipIfRocm
+@requires_triton()
+def test_triton_get(self) -> None:
+   @triton.jit
+   def get_kernel(dst_ptr, src_ptr, numel: tl.constexpr, peer: tl.constexpr):
+       nvshmem.getmem_block(dst_ptr, src_ptr, numel, peer)
+
+   # ... setup code ...
+
+   val = 7
+   inp = symm_mem.empty(numel, dtype=dtype, device=self.device).fill_(
+       val if rank == 0 else -1
+   )
+   out = symm_mem.empty(numel, dtype=dtype, device=self.device).fill_(-1)
+
+   peer = 1 - rank
+   if rank == 1:
+       # Rank 1 gets data from rank 0
+       get_kernel[(1, 1, 1)](dst_ptr, src_ptr, numel=numel, peer=peer, extern_libs=nvshmem_lib)
+
+   dist.barrier()
+   print(f"[Rank {rank}] inp buffer: {inp}")
+   print(f"[Rank {rank}] out buffer: {out}")
+   print(f"[Rank {rank}] got data from peer {peer}")
+```
+
+```
+
+[Rank 0] inp buffer: tensor([7, 7, 7, 7, 7, 7, 7, 7], device='cuda:0', dtype=torch.int8)
+[Rank 1] inp buffer: tensor([-1, -1, -1, -1, -1, -1, -1, -1], device='cuda:1', dtype=torch.int8)
+...
+[Rank 1] out buffer: tensor([7, 7, 7, 7, 7, 7, 7, 7], device='cuda:1', dtype=torch.int8)
+...
+[Rank 1] got data from peer 0
+
+----------------------------------------------------------------------
+Ran 2 tests in 17.046s
+
+OK
+```
+
+```python
+@skipIfRocm
+@requires_triton()
+def test_triton_get_ring(self) -> None:
+   @triton.jit
+   def get_kernel(dst_ptr, src_ptr, numel: tl.constexpr, peer: tl.constexpr):
+       nvshmem.getmem_block(dst_ptr, src_ptr, numel, peer)
+
+   # ... setup code ...
+
+   # Ring topology: each rank gets data from the rank to its left
+   peer = (rank - 1) % world_size
+
+   # All ranks execute the get operation
+   get_kernel[(1, 1, 1)](dst_ptr, src_ptr, numel=numel, peer=peer, extern_libs=nvshmem_lib)
+
+   dist.barrier()
+   print(f"[Rank {rank}] inp buffer: {inp}")
+   print(f"[Rank {rank}] out buffer: {out}")
+   print(f"[Rank {rank}] got data from peer {peer}")
+
+```
+
+```
+Output (8 GPUs):
+
+[Rank 0] inp buffer: tensor([0, 0, 0, 0, 0, 0, 0, 0], device='cuda:0', dtype=torch.int8)
+[Rank 2] inp buffer: tensor([2, 2, 2, 2, 2, 2, 2, 2], device='cuda:2', dtype=torch.int8)
+[Rank 5] inp buffer: tensor([5, 5, 5, 5, 5, 5, 5, 5], device='cuda:5', dtype=torch.int8)
+[Rank 6] inp buffer: tensor([6, 6, 6, 6, 6, 6, 6, 6], device='cuda:6', dtype=torch.int8)
+[Rank 3] inp buffer: tensor([3, 3, 3, 3, 3, 3, 3, 3], device='cuda:3', dtype=torch.int8)
+[Rank 1] inp buffer: tensor([1, 1, 1, 1, 1, 1, 1, 1], device='cuda:1', dtype=torch.int8)
+[Rank 2] out buffer: tensor([1, 1, 1, 1, 1, 1, 1, 1], device='cuda:2', dtype=torch.int8)
+[Rank 5] out buffer: tensor([4, 4, 4, 4, 4, 4, 4, 4], device='cuda:5', dtype=torch.int8)
+[Rank 0] out buffer: tensor([7, 7, 7, 7, 7, 7, 7, 7], device='cuda:0', dtype=torch.int8)
+[Rank 2] got data from peer 1
+[Rank 5] got data from peer 4
+[Rank 0] got data from peer 7
+[Rank 7] inp buffer: tensor([7, 7, 7, 7, 7, 7, 7, 7], device='cuda:7', dtype=torch.int8)
+[Rank 6] out buffer: tensor([5, 5, 5, 5, 5, 5, 5, 5], device='cuda:6', dtype=torch.int8)
+[Rank 3] out buffer: tensor([2, 2, 2, 2, 2, 2, 2, 2], device='cuda:3', dtype=torch.int8)
+[Rank 6] got data from peer 5
+[Rank 3] got data from peer 2
+[Rank 1] out buffer: tensor([0, 0, 0, 0, 0, 0, 0, 0], device='cuda:1', dtype=torch.int8)
+[Rank 1] got data from peer 0
+[Rank 4] inp buffer: tensor([4, 4, 4, 4, 4, 4, 4, 4], device='cuda:4', dtype=torch.int8)
+[Rank 7] out buffer: tensor([6, 6, 6, 6, 6, 6, 6, 6], device='cuda:7', dtype=torch.int8)
+[Rank 7] got data from peer 6
+[Rank 4] out buffer: tensor([3, 3, 3, 3, 3, 3, 3, 3], device='cuda:4', dtype=torch.int8)
+[Rank 4] got data from peer 3
+
+----------------------------------------------------------------------
+Ran 1 test in 41.045s
+
+OK
+```
+
+Pull Request resolved: https://github.com/pytorch/pytorch/pull/155890
+Approved by: https://github.com/kwen2501, https://github.com/mandroid6 (codingwithsurya)
+    - Remove unused Azure pipeline trigger script (#156134)
+
+## Summary
+- delete `.circleci/scripts/trigger_azure_pipeline.py`
+
+## Testing
+- `python3 -m pip install flake8`
+- `python3 -m flake8 .circleci/scripts`
+
+------
+https://chatgpt.com/codex/tasks/task_e_6850a55f530c83279036800308fb6871
+Pull Request resolved: https://github.com/pytorch/pytorch/pull/156134
+Approved by: https://github.com/izaitsevfb (Nikita Shulga)
+    - Add FSDP2 logging (#155826)
+
+Fixes #ISSUE_NUMBER
+
+Pull Request resolved: https://github.com/pytorch/pytorch/pull/155826
+Approved by: https://github.com/weifengpy (mori360)
+    - Add warning for incorrected grad results at world size 1 (#154928)
+
+Add warning for the issue discussed at https://github.com/pytorch/pytorch/issues/144045
+
+Pull Request resolved: https://github.com/pytorch/pytorch/pull/154928
+Approved by: https://github.com/weifengpy (yifanmao)
+    - [AOTInductor] Add class declarations to torch._C._aoti interface file (#155128)
+
+Pull Request resolved: https://github.com/pytorch/pytorch/pull/155128
+Approved by: https://github.com/desertfire
+ghstack dependencies: #155149 (Benjamin Glass)
+    - [PGO] include ints/floats in suggested whitelist  (#155980)
+
+Made the mistake of dropping these
+
+Pull Request resolved: https://github.com/pytorch/pytorch/pull/155980
+Approved by: https://github.com/bobrenjc93 (Pian Pawakapan)
+    - [ONNX] Implements converter for higher order ops scan (#154513)
+
+Fixes #151327
+
+Pull Request resolved: https://github.com/pytorch/pytorch/pull/154513
+Approved by: https://github.com/justinchuby
+
+Co-authored-by: Justin Chu <justinchuby@users.noreply.github.com> (xadupre)
+    - [dynamo] support tracing weakref callback (#155761)
+
+Pull Request resolved: https://github.com/pytorch/pytorch/pull/155761
+Approved by: https://github.com/StrongerXi, https://github.com/jansel (William Wen)
+    - [dynamo] fix KeyError in LOAD_FAST_CHECK (#155763)
+
+Pull Request resolved: https://github.com/pytorch/pytorch/pull/155763
+Approved by: https://github.com/StrongerXi, https://github.com/jansel
+ghstack dependencies: #155761 (William Wen)
+
+更新时间：2025-06-17 18:24:14
+事件类型：PushEvent
+提交信息：
+    - [PT2][partitioners] Add aten.split to view_ops list [relanding #155424] (#155943)
+
+Pull Request resolved: https://github.com/pytorch/pytorch/pull/155943
+Approved by: https://github.com/ShatianWang (Xuan Zhang)
+    - Fix #155018 (convert distributed rst to markdown) (#155528)
+
+Used [rst2myst tool](https://rst-to-myst.readthedocs.io/en/latest/)
+
+Fixes #155018
+
+Docs comparison (check out the 'new' whenever docs build)
+
+1. distributed.checkpoint ([old](https://docs.pytorch.org/docs/main/distributed.checkpoint.html) vs. [new](https://docs-preview.pytorch.org/pytorch/pytorch/155528/distributed.checkpoint.html))
+2. distributed.elastic ([old](https://docs.pytorch.org/docs/main/distributed.elastic.html) vs. [new](https://docs-preview.pytorch.org/pytorch/pytorch/155528/distributed.elastic.html))
+3. distributed.fsdp.fully_shard ([old](https://docs.pytorch.org/docs/main/distributed.fsdp.fully_shard.html) vs. [new](https://docs-preview.pytorch.org/pytorch/pytorch/155528/distributed.fsdp.fully_shard.html))
+4. distributed.optim ([old](https://docs.pytorch.org/docs/main/distributed.optim.html) vs. [new](https://docs-preview.pytorch.org/pytorch/pytorch/155528/distributed.optim.html))
+5. distributed.pipelining ([old](https://docs.pytorch.org/docs/main/distributed.pipelining.html) vs. [new](https://docs-preview.pytorch.org/pytorch/pytorch/155528/distributed.pipelining.html))
+
+Pull Request resolved: https://github.com/pytorch/pytorch/pull/155528
+Approved by: https://github.com/wz337, https://github.com/svekars (Justin Silver)
+    - Add size_hint_or_throw (#155615)
+
+## Summary
+`TypeError("Cannot convert symbols to int")` is coming up more recently since more unbacked symints are making its way into Inductor. See https://github.com/pytorch/pytorch/issues/155484
+- One way to deal with this is to add `size_hint_or_throw` to throw if we try to pull a hint from an unbacked expr.
+- Then, repurpose `size_hint` to accommodate unbacked symints by setting a default fallback or adding an appropriate fallback for each callsite.
+
+This PR adds `size_hint_or_throw` which will throw if unbacked symints exist
+- use `size_hint_or_throw` -- usually when the callee can try/catch the exception or guards against unbacked symints
+
+------
+with Codex
+https://chatgpt.com/codex/tasks/task_e_684869dfc740832882c88d05534cc8f9
+
+Pull Request resolved: https://github.com/pytorch/pytorch/pull/155615
+Approved by: https://github.com/ezyang, https://github.com/laithsakka, https://github.com/jingsh
+
+Co-authored-by: Aaron Gokaslan <aaronGokaslan@gmail.com> (Colin Peppler)
+    - [ez] fix grammar error in comment (#156053)
+
+Pull Request resolved: https://github.com/pytorch/pytorch/pull/156053
+Approved by: https://github.com/jingsh
+ghstack dependencies: #155982, #155996 (bobrenjc93)
+    - Remove non-header-only dep from c10_headers target (#155858)
+
+It depends on /c10/util:base which is not header-only.
+
+Differential Revision: [D76552750](https://our.internmc.facebook.com/intern/diff/D76552750/)
+
+**NOTE FOR REVIEWERS**: This PR has internal Meta-specific changes or comments, please review them on [Phabricator](https://our.internmc.facebook.com/intern/diff/D76552750/)!
+Pull Request resolved: https://github.com/pytorch/pytorch/pull/155858
+Approved by: https://github.com/ezyang (Scott Wolchok)
+    - Fix if condition for CUDA 12.9 Win build (#156108)
+
+follow-up for https://github.com/pytorch/pytorch/pull/155799/files
+Currently the last if condition will be executed for CUDA 12.9, overriding previous CUDA_ARCH_LIST. We should exclude 12.9 from the last if condition to fix this.
+
+Pull Request resolved: https://github.com/pytorch/pytorch/pull/156108
+Approved by: https://github.com/atalman (Ting Lu)
+    - Revert "Implement guard collectives (#155558)"
+
+This reverts commit 5a5a05a6a3be376130848e235df73b752eef0230.
+
+Reverted https://github.com/pytorch/pytorch/pull/155558 on behalf of https://github.com/malfet due to Hmm, may be I'm looking at the wrong metric, but https://hud.pytorch.org/hud/pytorch/pytorch/c92f1075aaf3649f6368af2a3df9b5167f941b3f/1?per_page=50&name_filter=inductor_torchbench_cpu_smoke&mergeEphemeralLF=true shows that test started to pass after PR were reverted ([comment](https://github.com/pytorch/pytorch/pull/155558#issuecomment-2978337152)) (PyTorch MergeBot)
+    - Revert "[Cutlass] Fix buffer missing issues (#155897)"
+
+This reverts commit 9bd42c15707a4b410ee005d5916e882a7db432bb.
+
+Reverted https://github.com/pytorch/pytorch/pull/155897 on behalf of https://github.com/atalman due to failing internal tests ([comment](https://github.com/pytorch/pytorch/pull/155897#issuecomment-2978391416)) (PyTorch MergeBot)
+    - [nativert] Move OpKernel to PyTorch core (#156011)
+
+Summary:
+Moves OpKernel base class to PyTorch core. It is an abstract interface representing a kernel, which is responsible for executing a single Node in the graph.
+
+Torch Native Runtime RFC: pytorch/rfcs#72
+
+Test Plan:
+buck2 run mode/dev-nosan caffe2/test/cpp/nativert:op_kernel_test
+
+Rollback Plan:
+
+Differential Revision: D76525939
+
+Pull Request resolved: https://github.com/pytorch/pytorch/pull/156011
+Approved by: https://github.com/zhxchen17 (Yiming Zhou)
+    - [BE][4/X] Phase out usage of `use_max_autotune()` (#155850)
+
+See #155847 for context
+
+Pull Request resolved: https://github.com/pytorch/pytorch/pull/155850
+Approved by: https://github.com/masnesral (Nicolas Macchioni)
+    - [MPSInductor] Improve `_default` dtype inference (#156121)
+
+By just adding 'mps' as one of the backend options and fixing reduction op to actually return tuple of CSEVariable's rather than tuple of strings
+
+Test plan: CI
+
+Pull Request resolved: https://github.com/pytorch/pytorch/pull/156121
+Approved by: https://github.com/dcci (Nikita Shulga)
+    - [SymmMem] Add NVSHMEM GET support to Triton (#155890)
+
+Adds NVSHMEM GET operation support for Triton kernels:
+
+- Add `getmem_block` core.extern wrapper for nvshmemx_getmem_block
+- Add basic `test_triton_get` for 2-rank GET operation
+- Add `test_triton_get_ring` for ring topology GET across arbitrary ranks
+
+**Tests:**
+`$ TORCH_SYMMMEM=NVSHMEM python test/distributed/test_nvshmem.py`
+
+`TORCH_SYMMMEM=NVSHMEM python test/distributed/test_nvshmem.py -k test_triton_get`
+
+```python
+@skipIfRocm
+@requires_triton()
+def test_triton_get(self) -> None:
+   @triton.jit
+   def get_kernel(dst_ptr, src_ptr, numel: tl.constexpr, peer: tl.constexpr):
+       nvshmem.getmem_block(dst_ptr, src_ptr, numel, peer)
+
+   # ... setup code ...
+
+   val = 7
+   inp = symm_mem.empty(numel, dtype=dtype, device=self.device).fill_(
+       val if rank == 0 else -1
+   )
+   out = symm_mem.empty(numel, dtype=dtype, device=self.device).fill_(-1)
+
+   peer = 1 - rank
+   if rank == 1:
+       # Rank 1 gets data from rank 0
+       get_kernel[(1, 1, 1)](dst_ptr, src_ptr, numel=numel, peer=peer, extern_libs=nvshmem_lib)
+
+   dist.barrier()
+   print(f"[Rank {rank}] inp buffer: {inp}")
+   print(f"[Rank {rank}] out buffer: {out}")
+   print(f"[Rank {rank}] got data from peer {peer}")
+```
+
+```
+
+[Rank 0] inp buffer: tensor([7, 7, 7, 7, 7, 7, 7, 7], device='cuda:0', dtype=torch.int8)
+[Rank 1] inp buffer: tensor([-1, -1, -1, -1, -1, -1, -1, -1], device='cuda:1', dtype=torch.int8)
+...
+[Rank 1] out buffer: tensor([7, 7, 7, 7, 7, 7, 7, 7], device='cuda:1', dtype=torch.int8)
+...
+[Rank 1] got data from peer 0
+
+----------------------------------------------------------------------
+Ran 2 tests in 17.046s
+
+OK
+```
+
+```python
+@skipIfRocm
+@requires_triton()
+def test_triton_get_ring(self) -> None:
+   @triton.jit
+   def get_kernel(dst_ptr, src_ptr, numel: tl.constexpr, peer: tl.constexpr):
+       nvshmem.getmem_block(dst_ptr, src_ptr, numel, peer)
+
+   # ... setup code ...
+
+   # Ring topology: each rank gets data from the rank to its left
+   peer = (rank - 1) % world_size
+
+   # All ranks execute the get operation
+   get_kernel[(1, 1, 1)](dst_ptr, src_ptr, numel=numel, peer=peer, extern_libs=nvshmem_lib)
+
+   dist.barrier()
+   print(f"[Rank {rank}] inp buffer: {inp}")
+   print(f"[Rank {rank}] out buffer: {out}")
+   print(f"[Rank {rank}] got data from peer {peer}")
+
+```
+
+```
+Output (8 GPUs):
+
+[Rank 0] inp buffer: tensor([0, 0, 0, 0, 0, 0, 0, 0], device='cuda:0', dtype=torch.int8)
+[Rank 2] inp buffer: tensor([2, 2, 2, 2, 2, 2, 2, 2], device='cuda:2', dtype=torch.int8)
+[Rank 5] inp buffer: tensor([5, 5, 5, 5, 5, 5, 5, 5], device='cuda:5', dtype=torch.int8)
+[Rank 6] inp buffer: tensor([6, 6, 6, 6, 6, 6, 6, 6], device='cuda:6', dtype=torch.int8)
+[Rank 3] inp buffer: tensor([3, 3, 3, 3, 3, 3, 3, 3], device='cuda:3', dtype=torch.int8)
+[Rank 1] inp buffer: tensor([1, 1, 1, 1, 1, 1, 1, 1], device='cuda:1', dtype=torch.int8)
+[Rank 2] out buffer: tensor([1, 1, 1, 1, 1, 1, 1, 1], device='cuda:2', dtype=torch.int8)
+[Rank 5] out buffer: tensor([4, 4, 4, 4, 4, 4, 4, 4], device='cuda:5', dtype=torch.int8)
+[Rank 0] out buffer: tensor([7, 7, 7, 7, 7, 7, 7, 7], device='cuda:0', dtype=torch.int8)
+[Rank 2] got data from peer 1
+[Rank 5] got data from peer 4
+[Rank 0] got data from peer 7
+[Rank 7] inp buffer: tensor([7, 7, 7, 7, 7, 7, 7, 7], device='cuda:7', dtype=torch.int8)
+[Rank 6] out buffer: tensor([5, 5, 5, 5, 5, 5, 5, 5], device='cuda:6', dtype=torch.int8)
+[Rank 3] out buffer: tensor([2, 2, 2, 2, 2, 2, 2, 2], device='cuda:3', dtype=torch.int8)
+[Rank 6] got data from peer 5
+[Rank 3] got data from peer 2
+[Rank 1] out buffer: tensor([0, 0, 0, 0, 0, 0, 0, 0], device='cuda:1', dtype=torch.int8)
+[Rank 1] got data from peer 0
+[Rank 4] inp buffer: tensor([4, 4, 4, 4, 4, 4, 4, 4], device='cuda:4', dtype=torch.int8)
+[Rank 7] out buffer: tensor([6, 6, 6, 6, 6, 6, 6, 6], device='cuda:7', dtype=torch.int8)
+[Rank 7] got data from peer 6
+[Rank 4] out buffer: tensor([3, 3, 3, 3, 3, 3, 3, 3], device='cuda:4', dtype=torch.int8)
+[Rank 4] got data from peer 3
+
+----------------------------------------------------------------------
+Ran 1 test in 41.045s
+
+OK
+```
+
+Pull Request resolved: https://github.com/pytorch/pytorch/pull/155890
+Approved by: https://github.com/kwen2501, https://github.com/mandroid6 (codingwithsurya)
+    - Remove unused Azure pipeline trigger script (#156134)
+
+## Summary
+- delete `.circleci/scripts/trigger_azure_pipeline.py`
+
+## Testing
+- `python3 -m pip install flake8`
+- `python3 -m flake8 .circleci/scripts`
+
+------
+https://chatgpt.com/codex/tasks/task_e_6850a55f530c83279036800308fb6871
+Pull Request resolved: https://github.com/pytorch/pytorch/pull/156134
+Approved by: https://github.com/izaitsevfb (Nikita Shulga)
+    - Add FSDP2 logging (#155826)
+
+Fixes #ISSUE_NUMBER
+
+Pull Request resolved: https://github.com/pytorch/pytorch/pull/155826
+Approved by: https://github.com/weifengpy (mori360)
+    - Add warning for incorrected grad results at world size 1 (#154928)
+
+Add warning for the issue discussed at https://github.com/pytorch/pytorch/issues/144045
+
+Pull Request resolved: https://github.com/pytorch/pytorch/pull/154928
+Approved by: https://github.com/weifengpy (yifanmao)
+    - [AOTInductor] Add class declarations to torch._C._aoti interface file (#155128)
+
+Pull Request resolved: https://github.com/pytorch/pytorch/pull/155128
+Approved by: https://github.com/desertfire
+ghstack dependencies: #155149 (Benjamin Glass)
+    - [PGO] include ints/floats in suggested whitelist  (#155980)
+
+Made the mistake of dropping these
+
+Pull Request resolved: https://github.com/pytorch/pytorch/pull/155980
+Approved by: https://github.com/bobrenjc93 (Pian Pawakapan)
+    - [ONNX] Implements converter for higher order ops scan (#154513)
+
+Fixes #151327
+
+Pull Request resolved: https://github.com/pytorch/pytorch/pull/154513
+Approved by: https://github.com/justinchuby
+
+Co-authored-by: Justin Chu <justinchuby@users.noreply.github.com> (xadupre)
+    - [dynamo] support tracing weakref callback (#155761)
+
+Pull Request resolved: https://github.com/pytorch/pytorch/pull/155761
+Approved by: https://github.com/StrongerXi, https://github.com/jansel (William Wen)
+    - [dynamo] fix KeyError in LOAD_FAST_CHECK (#155763)
+
+Pull Request resolved: https://github.com/pytorch/pytorch/pull/155763
+Approved by: https://github.com/StrongerXi, https://github.com/jansel
+ghstack dependencies: #155761 (William Wen)
+
+更新时间：2025-06-17 18:24:14
+事件类型：PushEvent
+提交信息：
+    - [PT2][partitioners] Add aten.split to view_ops list [relanding #155424] (#155943)
+
+Pull Request resolved: https://github.com/pytorch/pytorch/pull/155943
+Approved by: https://github.com/ShatianWang (Xuan Zhang)
+    - Fix #155018 (convert distributed rst to markdown) (#155528)
+
+Used [rst2myst tool](https://rst-to-myst.readthedocs.io/en/latest/)
+
+Fixes #155018
+
+Docs comparison (check out the 'new' whenever docs build)
+
+1. distributed.checkpoint ([old](https://docs.pytorch.org/docs/main/distributed.checkpoint.html) vs. [new](https://docs-preview.pytorch.org/pytorch/pytorch/155528/distributed.checkpoint.html))
+2. distributed.elastic ([old](https://docs.pytorch.org/docs/main/distributed.elastic.html) vs. [new](https://docs-preview.pytorch.org/pytorch/pytorch/155528/distributed.elastic.html))
+3. distributed.fsdp.fully_shard ([old](https://docs.pytorch.org/docs/main/distributed.fsdp.fully_shard.html) vs. [new](https://docs-preview.pytorch.org/pytorch/pytorch/155528/distributed.fsdp.fully_shard.html))
+4. distributed.optim ([old](https://docs.pytorch.org/docs/main/distributed.optim.html) vs. [new](https://docs-preview.pytorch.org/pytorch/pytorch/155528/distributed.optim.html))
+5. distributed.pipelining ([old](https://docs.pytorch.org/docs/main/distributed.pipelining.html) vs. [new](https://docs-preview.pytorch.org/pytorch/pytorch/155528/distributed.pipelining.html))
+
+Pull Request resolved: https://github.com/pytorch/pytorch/pull/155528
+Approved by: https://github.com/wz337, https://github.com/svekars (Justin Silver)
+    - Add size_hint_or_throw (#155615)
+
+## Summary
+`TypeError("Cannot convert symbols to int")` is coming up more recently since more unbacked symints are making its way into Inductor. See https://github.com/pytorch/pytorch/issues/155484
+- One way to deal with this is to add `size_hint_or_throw` to throw if we try to pull a hint from an unbacked expr.
+- Then, repurpose `size_hint` to accommodate unbacked symints by setting a default fallback or adding an appropriate fallback for each callsite.
+
+This PR adds `size_hint_or_throw` which will throw if unbacked symints exist
+- use `size_hint_or_throw` -- usually when the callee can try/catch the exception or guards against unbacked symints
+
+------
+with Codex
+https://chatgpt.com/codex/tasks/task_e_684869dfc740832882c88d05534cc8f9
+
+Pull Request resolved: https://github.com/pytorch/pytorch/pull/155615
+Approved by: https://github.com/ezyang, https://github.com/laithsakka, https://github.com/jingsh
+
+Co-authored-by: Aaron Gokaslan <aaronGokaslan@gmail.com> (Colin Peppler)
+    - [ez] fix grammar error in comment (#156053)
+
+Pull Request resolved: https://github.com/pytorch/pytorch/pull/156053
+Approved by: https://github.com/jingsh
+ghstack dependencies: #155982, #155996 (bobrenjc93)
+    - Remove non-header-only dep from c10_headers target (#155858)
+
+It depends on /c10/util:base which is not header-only.
+
+Differential Revision: [D76552750](https://our.internmc.facebook.com/intern/diff/D76552750/)
+
+**NOTE FOR REVIEWERS**: This PR has internal Meta-specific changes or comments, please review them on [Phabricator](https://our.internmc.facebook.com/intern/diff/D76552750/)!
+Pull Request resolved: https://github.com/pytorch/pytorch/pull/155858
+Approved by: https://github.com/ezyang (Scott Wolchok)
+    - Fix if condition for CUDA 12.9 Win build (#156108)
+
+follow-up for https://github.com/pytorch/pytorch/pull/155799/files
+Currently the last if condition will be executed for CUDA 12.9, overriding previous CUDA_ARCH_LIST. We should exclude 12.9 from the last if condition to fix this.
+
+Pull Request resolved: https://github.com/pytorch/pytorch/pull/156108
+Approved by: https://github.com/atalman (Ting Lu)
+    - Revert "Implement guard collectives (#155558)"
+
+This reverts commit 5a5a05a6a3be376130848e235df73b752eef0230.
+
+Reverted https://github.com/pytorch/pytorch/pull/155558 on behalf of https://github.com/malfet due to Hmm, may be I'm looking at the wrong metric, but https://hud.pytorch.org/hud/pytorch/pytorch/c92f1075aaf3649f6368af2a3df9b5167f941b3f/1?per_page=50&name_filter=inductor_torchbench_cpu_smoke&mergeEphemeralLF=true shows that test started to pass after PR were reverted ([comment](https://github.com/pytorch/pytorch/pull/155558#issuecomment-2978337152)) (PyTorch MergeBot)
+    - Revert "[Cutlass] Fix buffer missing issues (#155897)"
+
+This reverts commit 9bd42c15707a4b410ee005d5916e882a7db432bb.
+
+Reverted https://github.com/pytorch/pytorch/pull/155897 on behalf of https://github.com/atalman due to failing internal tests ([comment](https://github.com/pytorch/pytorch/pull/155897#issuecomment-2978391416)) (PyTorch MergeBot)
+    - [nativert] Move OpKernel to PyTorch core (#156011)
+
+Summary:
+Moves OpKernel base class to PyTorch core. It is an abstract interface representing a kernel, which is responsible for executing a single Node in the graph.
+
+Torch Native Runtime RFC: pytorch/rfcs#72
+
+Test Plan:
+buck2 run mode/dev-nosan caffe2/test/cpp/nativert:op_kernel_test
+
+Rollback Plan:
+
+Differential Revision: D76525939
+
+Pull Request resolved: https://github.com/pytorch/pytorch/pull/156011
+Approved by: https://github.com/zhxchen17 (Yiming Zhou)
+    - [BE][4/X] Phase out usage of `use_max_autotune()` (#155850)
+
+See #155847 for context
+
+Pull Request resolved: https://github.com/pytorch/pytorch/pull/155850
+Approved by: https://github.com/masnesral (Nicolas Macchioni)
+    - [MPSInductor] Improve `_default` dtype inference (#156121)
+
+By just adding 'mps' as one of the backend options and fixing reduction op to actually return tuple of CSEVariable's rather than tuple of strings
+
+Test plan: CI
+
+Pull Request resolved: https://github.com/pytorch/pytorch/pull/156121
+Approved by: https://github.com/dcci (Nikita Shulga)
+    - [SymmMem] Add NVSHMEM GET support to Triton (#155890)
+
+Adds NVSHMEM GET operation support for Triton kernels:
+
+- Add `getmem_block` core.extern wrapper for nvshmemx_getmem_block
+- Add basic `test_triton_get` for 2-rank GET operation
+- Add `test_triton_get_ring` for ring topology GET across arbitrary ranks
+
+**Tests:**
+`$ TORCH_SYMMMEM=NVSHMEM python test/distributed/test_nvshmem.py`
+
+`TORCH_SYMMMEM=NVSHMEM python test/distributed/test_nvshmem.py -k test_triton_get`
+
+```python
+@skipIfRocm
+@requires_triton()
+def test_triton_get(self) -> None:
+   @triton.jit
+   def get_kernel(dst_ptr, src_ptr, numel: tl.constexpr, peer: tl.constexpr):
+       nvshmem.getmem_block(dst_ptr, src_ptr, numel, peer)
+
+   # ... setup code ...
+
+   val = 7
+   inp = symm_mem.empty(numel, dtype=dtype, device=self.device).fill_(
+       val if rank == 0 else -1
+   )
+   out = symm_mem.empty(numel, dtype=dtype, device=self.device).fill_(-1)
+
+   peer = 1 - rank
+   if rank == 1:
+       # Rank 1 gets data from rank 0
+       get_kernel[(1, 1, 1)](dst_ptr, src_ptr, numel=numel, peer=peer, extern_libs=nvshmem_lib)
+
+   dist.barrier()
+   print(f"[Rank {rank}] inp buffer: {inp}")
+   print(f"[Rank {rank}] out buffer: {out}")
+   print(f"[Rank {rank}] got data from peer {peer}")
+```
+
+```
+
+[Rank 0] inp buffer: tensor([7, 7, 7, 7, 7, 7, 7, 7], device='cuda:0', dtype=torch.int8)
+[Rank 1] inp buffer: tensor([-1, -1, -1, -1, -1, -1, -1, -1], device='cuda:1', dtype=torch.int8)
+...
+[Rank 1] out buffer: tensor([7, 7, 7, 7, 7, 7, 7, 7], device='cuda:1', dtype=torch.int8)
+...
+[Rank 1] got data from peer 0
+
+----------------------------------------------------------------------
+Ran 2 tests in 17.046s
+
+OK
+```
+
+```python
+@skipIfRocm
+@requires_triton()
+def test_triton_get_ring(self) -> None:
+   @triton.jit
+   def get_kernel(dst_ptr, src_ptr, numel: tl.constexpr, peer: tl.constexpr):
+       nvshmem.getmem_block(dst_ptr, src_ptr, numel, peer)
+
+   # ... setup code ...
+
+   # Ring topology: each rank gets data from the rank to its left
+   peer = (rank - 1) % world_size
+
+   # All ranks execute the get operation
+   get_kernel[(1, 1, 1)](dst_ptr, src_ptr, numel=numel, peer=peer, extern_libs=nvshmem_lib)
+
+   dist.barrier()
+   print(f"[Rank {rank}] inp buffer: {inp}")
+   print(f"[Rank {rank}] out buffer: {out}")
+   print(f"[Rank {rank}] got data from peer {peer}")
+
+```
+
+```
+Output (8 GPUs):
+
+[Rank 0] inp buffer: tensor([0, 0, 0, 0, 0, 0, 0, 0], device='cuda:0', dtype=torch.int8)
+[Rank 2] inp buffer: tensor([2, 2, 2, 2, 2, 2, 2, 2], device='cuda:2', dtype=torch.int8)
+[Rank 5] inp buffer: tensor([5, 5, 5, 5, 5, 5, 5, 5], device='cuda:5', dtype=torch.int8)
+[Rank 6] inp buffer: tensor([6, 6, 6, 6, 6, 6, 6, 6], device='cuda:6', dtype=torch.int8)
+[Rank 3] inp buffer: tensor([3, 3, 3, 3, 3, 3, 3, 3], device='cuda:3', dtype=torch.int8)
+[Rank 1] inp buffer: tensor([1, 1, 1, 1, 1, 1, 1, 1], device='cuda:1', dtype=torch.int8)
+[Rank 2] out buffer: tensor([1, 1, 1, 1, 1, 1, 1, 1], device='cuda:2', dtype=torch.int8)
+[Rank 5] out buffer: tensor([4, 4, 4, 4, 4, 4, 4, 4], device='cuda:5', dtype=torch.int8)
+[Rank 0] out buffer: tensor([7, 7, 7, 7, 7, 7, 7, 7], device='cuda:0', dtype=torch.int8)
+[Rank 2] got data from peer 1
+[Rank 5] got data from peer 4
+[Rank 0] got data from peer 7
+[Rank 7] inp buffer: tensor([7, 7, 7, 7, 7, 7, 7, 7], device='cuda:7', dtype=torch.int8)
+[Rank 6] out buffer: tensor([5, 5, 5, 5, 5, 5, 5, 5], device='cuda:6', dtype=torch.int8)
+[Rank 3] out buffer: tensor([2, 2, 2, 2, 2, 2, 2, 2], device='cuda:3', dtype=torch.int8)
+[Rank 6] got data from peer 5
+[Rank 3] got data from peer 2
+[Rank 1] out buffer: tensor([0, 0, 0, 0, 0, 0, 0, 0], device='cuda:1', dtype=torch.int8)
+[Rank 1] got data from peer 0
+[Rank 4] inp buffer: tensor([4, 4, 4, 4, 4, 4, 4, 4], device='cuda:4', dtype=torch.int8)
+[Rank 7] out buffer: tensor([6, 6, 6, 6, 6, 6, 6, 6], device='cuda:7', dtype=torch.int8)
+[Rank 7] got data from peer 6
+[Rank 4] out buffer: tensor([3, 3, 3, 3, 3, 3, 3, 3], device='cuda:4', dtype=torch.int8)
+[Rank 4] got data from peer 3
+
+----------------------------------------------------------------------
+Ran 1 test in 41.045s
+
+OK
+```
+
+Pull Request resolved: https://github.com/pytorch/pytorch/pull/155890
+Approved by: https://github.com/kwen2501, https://github.com/mandroid6 (codingwithsurya)
+    - Remove unused Azure pipeline trigger script (#156134)
+
+## Summary
+- delete `.circleci/scripts/trigger_azure_pipeline.py`
+
+## Testing
+- `python3 -m pip install flake8`
+- `python3 -m flake8 .circleci/scripts`
+
+------
+https://chatgpt.com/codex/tasks/task_e_6850a55f530c83279036800308fb6871
+Pull Request resolved: https://github.com/pytorch/pytorch/pull/156134
+Approved by: https://github.com/izaitsevfb (Nikita Shulga)
+    - Add FSDP2 logging (#155826)
+
+Fixes #ISSUE_NUMBER
+
+Pull Request resolved: https://github.com/pytorch/pytorch/pull/155826
+Approved by: https://github.com/weifengpy (mori360)
+    - Add warning for incorrected grad results at world size 1 (#154928)
+
+Add warning for the issue discussed at https://github.com/pytorch/pytorch/issues/144045
+
+Pull Request resolved: https://github.com/pytorch/pytorch/pull/154928
+Approved by: https://github.com/weifengpy (yifanmao)
+    - [AOTInductor] Add class declarations to torch._C._aoti interface file (#155128)
+
+Pull Request resolved: https://github.com/pytorch/pytorch/pull/155128
+Approved by: https://github.com/desertfire
+ghstack dependencies: #155149 (Benjamin Glass)
+    - [PGO] include ints/floats in suggested whitelist  (#155980)
+
+Made the mistake of dropping these
+
+Pull Request resolved: https://github.com/pytorch/pytorch/pull/155980
+Approved by: https://github.com/bobrenjc93 (Pian Pawakapan)
+    - [ONNX] Implements converter for higher order ops scan (#154513)
+
+Fixes #151327
+
+Pull Request resolved: https://github.com/pytorch/pytorch/pull/154513
+Approved by: https://github.com/justinchuby
+
+Co-authored-by: Justin Chu <justinchuby@users.noreply.github.com> (xadupre)
+    - [dynamo] support tracing weakref callback (#155761)
+
+Pull Request resolved: https://github.com/pytorch/pytorch/pull/155761
+Approved by: https://github.com/StrongerXi, https://github.com/jansel (William Wen)
+    - [dynamo] fix KeyError in LOAD_FAST_CHECK (#155763)
+
+Pull Request resolved: https://github.com/pytorch/pytorch/pull/155763
+Approved by: https://github.com/StrongerXi, https://github.com/jansel
+ghstack dependencies: #155761 (William Wen)
+
+更新时间：2025-06-17 18:23:58
+事件类型：CreateEvent
+未知事件类型
+
+更新时间：2025-06-17 18:22:49
+事件类型：IssueCommentEvent
+未知事件类型
+
+更新时间：2025-06-17 18:21:07
+事件类型：CreateEvent
+未知事件类型
+
+更新时间：2025-06-17 18:20:57
+事件类型：IssueCommentEvent
+未知事件类型
+
+更新时间：2025-06-17 18:20:44
+事件类型：PullRequestReviewEvent
+未知事件类型
+
+更新时间：2025-06-17 18:20:31
+事件类型：DeleteEvent
+未知事件类型
+
+更新时间：2025-06-17 18:20:26
+事件类型：PullRequestEvent
+PR标题：ELU: compute ELU(0) with the cheaper definition
+提交者：swolchok
+
+更新时间：2025-06-17 18:20:25
+事件类型：PushEvent
+提交信息：
+    - ELU: compute ELU(0) with the cheaper definition (#155765)
+
+Both halves of the ELU definition yield 0 when evaluated at 0. Let's choose the half that doesn't require expm1. (I have no particular evidence that the input is often 0 in any case, but this seems like a free win.)
+
+Differential Revision: [D76481038](https://our.internmc.facebook.com/intern/diff/D76481038/)
+
+Pull Request resolved: https://github.com/pytorch/pytorch/pull/155765
+Approved by: https://github.com/ezyang (Scott Wolchok)
+
+更新时间：2025-06-17 18:19:29
+事件类型：CreateEvent
+未知事件类型
+
+更新时间：2025-06-17 18:18:25
+事件类型：PullRequestReviewCommentEvent
+未知事件类型
+
+更新时间：2025-06-17 18:18:26
+事件类型：PullRequestReviewEvent
+未知事件类型
+
+更新时间：2025-06-17 18:18:13
+事件类型：IssueCommentEvent
+未知事件类型
+
+更新时间：2025-06-17 18:17:50
+事件类型：IssueCommentEvent
+未知事件类型
+
+
+deepmind/alphafold
+--------------------------------------------------
+更新时间：2025-06-17 16:39:58
+事件类型：WatchEvent
+未知事件类型
+
+更新时间：2025-06-17 07:38:31
+事件类型：WatchEvent
+未知事件类型
+
+更新时间：2025-06-17 04:05:15
+事件类型：ForkEvent
+未知事件类型
+
+更新时间：2025-06-17 04:05:10
+事件类型：WatchEvent
+未知事件类型
+
+更新时间：2025-06-16 23:30:32
+事件类型：IssueCommentEvent
+未知事件类型
+
+更新时间：2025-06-16 23:30:29
+事件类型：PullRequestEvent
+PR标题：Visualization of the alphafold codebase
+提交者：ivanmilevtues
+
+更新时间：2025-06-16 23:26:58
+事件类型：ForkEvent
+未知事件类型
+
+更新时间：2025-06-16 19:43:03
+事件类型：WatchEvent
+未知事件类型
+
+更新时间：2025-06-16 19:42:51
+事件类型：ForkEvent
+未知事件类型
+
+更新时间：2025-06-16 06:52:55
+事件类型：ForkEvent
+未知事件类型
+
+更新时间：2025-06-13 15:27:29
+事件类型：WatchEvent
+未知事件类型
+
+更新时间：2025-06-13 03:41:47
+事件类型：WatchEvent
+未知事件类型
+
+更新时间：2025-06-12 19:38:08
+事件类型：ForkEvent
+未知事件类型
+
+更新时间：2025-06-12 18:02:45
+事件类型：WatchEvent
+未知事件类型
+
+更新时间：2025-06-12 17:14:14
+事件类型：ForkEvent
+未知事件类型
+
+更新时间：2025-06-12 17:12:11
+事件类型：WatchEvent
+未知事件类型
+
+更新时间：2025-06-12 15:07:53
+事件类型：WatchEvent
+未知事件类型
+
+更新时间：2025-06-12 13:47:21
+事件类型：WatchEvent
+未知事件类型
+
+更新时间：2025-06-12 10:17:12
+事件类型：WatchEvent
+未知事件类型
+
+更新时间：2025-06-11 15:59:22
+事件类型：WatchEvent
+未知事件类型
+
+更新时间：2025-06-11 04:55:55
+事件类型：ForkEvent
+未知事件类型
+
+更新时间：2025-06-10 21:52:33
+事件类型：IssueCommentEvent
+未知事件类型
+
+更新时间：2025-06-10 21:22:52
+事件类型：WatchEvent
+未知事件类型
+
+更新时间：2025-06-10 21:22:32
+事件类型：WatchEvent
+未知事件类型
+
+更新时间：2025-06-10 15:49:52
+事件类型：WatchEvent
+未知事件类型
+
+更新时间：2025-06-10 06:01:15
+事件类型：WatchEvent
+未知事件类型
+
+更新时间：2025-06-10 05:29:23
+事件类型：WatchEvent
+未知事件类型
+
+更新时间：2025-06-10 02:43:27
+事件类型：PullRequestEvent
+PR标题： asmak2
+提交者：asmakpal-stexco2
+
+更新时间：2025-06-10 02:03:02
+事件类型：PullRequestEvent
+PR标题： asmak
+提交者：asmakpal-stexco2
+
+更新时间：2025-06-10 01:58:59
+事件类型：IssueCommentEvent
+未知事件类型
+
+
+facebookresearch/llama
+--------------------------------------------------
+更新时间：2025-06-17 17:03:28
+事件类型：WatchEvent
+未知事件类型
+
+更新时间：2025-06-17 15:38:24
+事件类型：WatchEvent
+未知事件类型
+
+更新时间：2025-06-17 14:40:39
+事件类型：WatchEvent
+未知事件类型
+
+更新时间：2025-06-17 13:35:35
+事件类型：WatchEvent
+未知事件类型
+
+更新时间：2025-06-17 12:58:13
+事件类型：WatchEvent
+未知事件类型
+
+更新时间：2025-06-17 12:16:14
+事件类型：WatchEvent
+未知事件类型
+
+更新时间：2025-06-17 10:55:26
+事件类型：ForkEvent
+未知事件类型
+
+更新时间：2025-06-17 10:43:39
+事件类型：IssueCommentEvent
+未知事件类型
+
+更新时间：2025-06-17 10:17:06
+事件类型：WatchEvent
+未知事件类型
+
+更新时间：2025-06-17 06:46:05
+事件类型：WatchEvent
+未知事件类型
+
+更新时间：2025-06-17 03:03:35
+事件类型：WatchEvent
+未知事件类型
+
+更新时间：2025-06-17 01:17:37
+事件类型：IssueCommentEvent
+未知事件类型
+
+更新时间：2025-06-17 01:14:10
+事件类型：IssueCommentEvent
+未知事件类型
+
+更新时间：2025-06-17 01:11:40
+事件类型：IssueCommentEvent
+未知事件类型
+
+更新时间：2025-06-17 00:43:28
+事件类型：IssueCommentEvent
+未知事件类型
+
+更新时间：2025-06-17 00:38:47
+事件类型：IssueCommentEvent
+未知事件类型
+
+更新时间：2025-06-16 22:00:08
+事件类型：WatchEvent
+未知事件类型
+
+更新时间：2025-06-16 13:30:06
+事件类型：WatchEvent
+未知事件类型
+
+更新时间：2025-06-16 12:57:25
+事件类型：WatchEvent
+未知事件类型
+
+更新时间：2025-06-16 12:51:28
+事件类型：WatchEvent
+未知事件类型
+
+更新时间：2025-06-16 07:16:51
+事件类型：WatchEvent
+未知事件类型
+
+更新时间：2025-06-16 06:42:55
+事件类型：WatchEvent
+未知事件类型
+
+更新时间：2025-06-16 05:59:56
+事件类型：WatchEvent
+未知事件类型
+
+更新时间：2025-06-16 03:28:19
+事件类型：WatchEvent
+未知事件类型
+
+更新时间：2025-06-16 02:40:05
+事件类型：WatchEvent
+未知事件类型
+
+更新时间：2025-06-15 23:13:58
+事件类型：WatchEvent
+未知事件类型
+
+更新时间：2025-06-15 00:26:57
+事件类型：WatchEvent
+未知事件类型
+
+更新时间：2025-06-15 00:01:27
+事件类型：WatchEvent
+未知事件类型
+
+更新时间：2025-06-14 19:42:06
+事件类型：WatchEvent
+未知事件类型
+
+更新时间：2025-06-14 16:46:03
+事件类型：WatchEvent
+未知事件类型
+
+
+microsoft/DeepSpeed
+--------------------------------------------------
+更新时间：2025-06-17 16:34:28
+事件类型：WatchEvent
+未知事件类型
+
+更新时间：2025-06-17 15:26:46
+事件类型：WatchEvent
+未知事件类型
+
+更新时间：2025-06-17 15:24:12
+事件类型：IssueCommentEvent
+未知事件类型
+
+更新时间：2025-06-17 14:56:17
+事件类型：WatchEvent
+未知事件类型
+
+更新时间：2025-06-17 14:44:53
+事件类型：WatchEvent
+未知事件类型
+
+更新时间：2025-06-17 14:44:44
+事件类型：WatchEvent
+未知事件类型
+
+更新时间：2025-06-17 14:42:58
+事件类型：WatchEvent
+未知事件类型
+
+更新时间：2025-06-17 14:40:38
+事件类型：WatchEvent
+未知事件类型
+
+更新时间：2025-06-17 14:19:21
+事件类型：WatchEvent
+未知事件类型
+
+更新时间：2025-06-17 14:09:43
+事件类型：WatchEvent
+未知事件类型
+
+更新时间：2025-06-17 14:02:30
+事件类型：WatchEvent
+未知事件类型
+
+更新时间：2025-06-17 14:00:08
+事件类型：WatchEvent
+未知事件类型
+
+更新时间：2025-06-17 13:46:09
+事件类型：WatchEvent
+未知事件类型
+
+更新时间：2025-06-17 13:25:20
+事件类型：WatchEvent
+未知事件类型
+
+更新时间：2025-06-17 13:12:49
+事件类型：WatchEvent
+未知事件类型
+
+更新时间：2025-06-17 12:55:36
+事件类型：WatchEvent
+未知事件类型
+
+更新时间：2025-06-17 12:43:58
+事件类型：WatchEvent
+未知事件类型
+
+更新时间：2025-06-17 12:31:31
+事件类型：WatchEvent
+未知事件类型
+
+更新时间：2025-06-17 12:29:18
+事件类型：IssueCommentEvent
+未知事件类型
+
+更新时间：2025-06-17 12:29:18
+事件类型：IssuesEvent
+Issue标题：[BUG]Getting gradient of loss during inference
+提交者：LalchandPandia
+
+更新时间：2025-06-17 12:05:03
+事件类型：WatchEvent
+未知事件类型
+
+更新时间：2025-06-17 10:51:43
+事件类型：IssueCommentEvent
+未知事件类型
+
+更新时间：2025-06-17 10:38:02
+事件类型：WatchEvent
+未知事件类型
+
+更新时间：2025-06-17 10:31:35
+事件类型：WatchEvent
+未知事件类型
+
+更新时间：2025-06-17 10:24:45
+事件类型：WatchEvent
+未知事件类型
+
+更新时间：2025-06-17 10:19:16
+事件类型：WatchEvent
+未知事件类型
+
+更新时间：2025-06-17 10:03:55
+事件类型：WatchEvent
+未知事件类型
+
+更新时间：2025-06-17 09:44:08
+事件类型：WatchEvent
+未知事件类型
+
+更新时间：2025-06-17 09:19:35
+事件类型：WatchEvent
+未知事件类型
+
+更新时间：2025-06-17 09:13:55
+事件类型：WatchEvent
+未知事件类型
+
+
+EleutherAI/gpt-neo
+--------------------------------------------------
+更新时间：2025-06-16 19:18:55
+事件类型：WatchEvent
+未知事件类型
+
+更新时间：2025-06-14 23:53:41
+事件类型：ForkEvent
+未知事件类型
+
+更新时间：2025-06-13 20:53:51
+事件类型：WatchEvent
+未知事件类型
+
+更新时间：2025-06-10 17:34:55
+事件类型：WatchEvent
+未知事件类型
+
+更新时间：2025-06-08 03:56:47
+事件类型：WatchEvent
+未知事件类型
+
+更新时间：2025-06-05 18:00:07
+事件类型：WatchEvent
+未知事件类型
+
+更新时间：2025-06-03 02:12:08
+事件类型：WatchEvent
+未知事件类型
+
+更新时间：2025-06-02 17:54:14
+事件类型：WatchEvent
+未知事件类型
+
+更新时间：2025-05-31 02:16:53
+事件类型：WatchEvent
+未知事件类型
+
+更新时间：2025-05-23 13:56:19
+事件类型：WatchEvent
+未知事件类型
+
+更新时间：2025-05-22 22:45:15
+事件类型：WatchEvent
+未知事件类型
+
+
+google-research/bert
+--------------------------------------------------
+更新时间：2025-06-17 16:02:56
+事件类型：ForkEvent
+未知事件类型
+
+更新时间：2025-06-17 15:03:07
+事件类型：WatchEvent
+未知事件类型
+
+更新时间：2025-06-17 14:47:19
+事件类型：WatchEvent
+未知事件类型
+
+更新时间：2025-06-17 14:33:47
+事件类型：WatchEvent
+未知事件类型
+
+更新时间：2025-06-17 10:50:39
+事件类型：WatchEvent
+未知事件类型
+
+更新时间：2025-06-16 21:45:54
+事件类型：WatchEvent
+未知事件类型
+
+更新时间：2025-06-16 17:35:32
+事件类型：WatchEvent
+未知事件类型
+
+更新时间：2025-06-16 15:41:20
+事件类型：WatchEvent
+未知事件类型
+
+更新时间：2025-06-16 13:27:43
+事件类型：WatchEvent
+未知事件类型
+
+更新时间：2025-06-16 09:08:23
+事件类型：WatchEvent
+未知事件类型
+
+更新时间：2025-06-16 08:59:07
+事件类型：WatchEvent
+未知事件类型
+
+更新时间：2025-06-16 08:39:34
+事件类型：WatchEvent
+未知事件类型
+
+更新时间：2025-06-16 04:49:55
+事件类型：WatchEvent
+未知事件类型
+
+更新时间：2025-06-15 12:19:08
+事件类型：WatchEvent
+未知事件类型
+
+更新时间：2025-06-15 06:33:18
+事件类型：WatchEvent
+未知事件类型
+
+更新时间：2025-06-15 05:08:25
+事件类型：WatchEvent
+未知事件类型
+
+更新时间：2025-06-15 03:13:42
+事件类型：WatchEvent
+未知事件类型
+
+更新时间：2025-06-14 09:12:09
+事件类型：WatchEvent
+未知事件类型
+
+更新时间：2025-06-14 07:53:02
+事件类型：WatchEvent
+未知事件类型
+
+更新时间：2025-06-13 20:54:44
+事件类型：WatchEvent
+未知事件类型
+
+更新时间：2025-06-13 13:42:34
+事件类型：WatchEvent
+未知事件类型
+
+更新时间：2025-06-13 08:29:24
+事件类型：WatchEvent
+未知事件类型
+
+更新时间：2025-06-13 08:14:16
+事件类型：WatchEvent
+未知事件类型
+
+更新时间：2025-06-13 08:12:41
+事件类型：WatchEvent
+未知事件类型
+
+更新时间：2025-06-13 06:17:21
+事件类型：WatchEvent
+未知事件类型
+
+更新时间：2025-06-12 03:28:33
+事件类型：ForkEvent
+未知事件类型
+
+更新时间：2025-06-11 14:51:28
+事件类型：WatchEvent
+未知事件类型
+
+更新时间：2025-06-10 20:38:38
+事件类型：ForkEvent
+未知事件类型
+
+更新时间：2025-06-10 14:52:37
+事件类型：ForkEvent
+未知事件类型
+
+更新时间：2025-06-10 13:40:21
+事件类型：ForkEvent
+未知事件类型
+
+
+microsoft/DeepSpeedExamples
+--------------------------------------------------
+更新时间：2025-06-17 13:34:05
+事件类型：WatchEvent
+未知事件类型
+
+更新时间：2025-06-17 02:52:29
+事件类型：WatchEvent
+未知事件类型
+
+更新时间：2025-06-16 23:25:03
+事件类型：WatchEvent
+未知事件类型
+
+更新时间：2025-06-16 12:06:36
+事件类型：WatchEvent
+未知事件类型
+
+更新时间：2025-06-15 06:06:29
+事件类型：WatchEvent
+未知事件类型
+
+更新时间：2025-06-14 22:29:00
+事件类型：CreateEvent
+未知事件类型
+
+更新时间：2025-06-14 14:25:05
+事件类型：WatchEvent
+未知事件类型
+
+更新时间：2025-06-13 11:18:03
+事件类型：WatchEvent
+未知事件类型
+
+更新时间：2025-06-12 18:12:22
+事件类型：DeleteEvent
+未知事件类型
+
+更新时间：2025-06-12 18:12:19
+事件类型：DeleteEvent
+未知事件类型
+
+更新时间：2025-06-12 15:44:21
+事件类型：WatchEvent
+未知事件类型
+
+更新时间：2025-06-12 06:31:47
+事件类型：WatchEvent
+未知事件类型
+
+更新时间：2025-06-12 05:21:34
+事件类型：PushEvent
+提交信息：
+    - Update domino example (#976)
+
+* remove files
+
+Signed-off-by: Hongwei Chen <hongweichen@microsoft.com>
+
+* Update domino example
+
+Signed-off-by: Hongwei Chen <hongweichen@microsoft.com>
+
+* apply review suggestions
+
+Signed-off-by: Hongwei Chen <hongweichen@microsoft.com>
+
+---------
+
+Signed-off-by: Hongwei Chen <hongweichen@microsoft.com> (Hongwei Chen)
+
+更新时间：2025-06-12 05:21:33
+事件类型：PullRequestEvent
+PR标题：Update domino example
+提交者：hwchen2017
+
+更新时间：2025-06-12 03:46:31
+事件类型：PullRequestReviewEvent
+未知事件类型
+
+更新时间：2025-06-12 02:09:34
+事件类型：PullRequestReviewEvent
+未知事件类型
+
+更新时间：2025-06-12 02:09:10
+事件类型：IssueCommentEvent
+未知事件类型
+
+更新时间：2025-06-11 20:29:03
+事件类型：IssueCommentEvent
+未知事件类型
+
+更新时间：2025-06-11 15:31:26
+事件类型：WatchEvent
+未知事件类型
+
+更新时间：2025-06-11 15:16:33
+事件类型：WatchEvent
+未知事件类型
+
+更新时间：2025-06-10 17:58:57
+事件类型：PushEvent
+提交信息：
+    - apply review suggestions
+
+Signed-off-by: Hongwei Chen <hongweichen@microsoft.com> (Hongwei Chen)
+
+更新时间：2025-06-10 17:37:39
+事件类型：PushEvent
+提交信息：
+    - DeepNVMe update (#966)
+
+* Fast model checkpointing
+
+* Support both legacy and serialized formats
+
+* Add io_buffer_mb option
+
+* Bug fix
+
+* Force flush
+
+* More model options; Refactor common codes
+
+* --gpu option
+
+* --half and more flexible options
+
+* Add deepspeed.save_checkpoint()
+
+* Free ds memory
+
+* Improve repro
+
+* Double I/O buffer (#56)
+
+* Double I/O buffer (#60)
+
+* Add checkpoint comparison (#62)
+
+* Add checkpoint comparison
+
+* Corrected a typo
+
+Co-authored-by: Yang Li <yangli2@microsoft.com>
+
+* save_checkpoint perf monitoring
+
+* Disable checkpoint save on exit
+
+* Perf statistics for save_checkpoint (#64)
+
+* save_checkpoint perf monitoring
+
+* Disable checkpoint save on exit
+
+* add logs for a100-80
+
+* add torch* error log with half flag but without fused flag
+
+* log for error
+
+* local rank arg
+
+* Handle local_rank arg (#78)
+
+* save_checkpoint perf monitoring
+
+* Disable checkpoint save on exit
+
+* local rank arg
+
+* Single writer option
+
+* Single writer option (#79)
+
+* save_checkpoint perf monitoring
+
+* Disable checkpoint save on exit
+
+* local rank arg
+
+* Single writer option
+
+* Allow missing folder
+
+* DP writer refactor
+
+* Update for DS; Add GDS
+
+Signed-off-by: Olatunji Ruwase <olruwase@microsoft.com>
+
+* Integrate GDS into deepspeed_model_save
+
+* Rebase fast persist (#184)
+
+* Fast model checkpointing
+
+* Support both legacy and serialized formats
+
+* Add io_buffer_mb option
+
+* Bug fix
+
+* Force flush
+
+* More model options; Refactor common codes
+
+* --gpu option
+
+* --half and more flexible options
+
+* Add deepspeed.save_checkpoint()
+
+* Free ds memory
+
+* Improve repro
+
+* Double I/O buffer (#56)
+
+* Double I/O buffer (#60)
+
+* Add checkpoint comparison (#62)
+
+* Add checkpoint comparison
+
+* Corrected a typo
+
+Co-authored-by: Yang Li <yangli2@microsoft.com>
+
+* save_checkpoint perf monitoring
+
+* Disable checkpoint save on exit
+
+* Perf statistics for save_checkpoint (#64)
+
+* save_checkpoint perf monitoring
+
+* Disable checkpoint save on exit
+
+* add logs for a100-80
+
+* add torch* error log with half flag but without fused flag
+
+* log for error
+
+* local rank arg
+
+* Handle local_rank arg (#78)
+
+* save_checkpoint perf monitoring
+
+* Disable checkpoint save on exit
+
+* local rank arg
+
+* Single writer option
+
+* Single writer option (#79)
+
+* save_checkpoint perf monitoring
+
+* Disable checkpoint save on exit
+
+* local rank arg
+
+* Single writer option
+
+* Allow missing folder
+
+* DP writer refactor
+
+* Update for DS; Add GDS
+
+Signed-off-by: Olatunji Ruwase <olruwase@microsoft.com>
+
+* Integrate GDS into deepspeed_model_save
+
+---------
+
+Signed-off-by: Olatunji Ruwase <olruwase@microsoft.com>
+Co-authored-by: jerryyangli <jerryyangli@gmail.com>
+Co-authored-by: Yang Li <yangli2@microsoft.com>
+Co-authored-by: GuanhuaWang <guanhua@cs.berkeley.edu>
+
+* Move folder
+
+Signed-off-by: Olatunji Ruwase <olruwase@microsoft.com>
+
+* Remove folder
+
+Signed-off-by: Olatunji Ruwase <olruwase@microsoft.com>
+
+* More cleanup
+
+Signed-off-by: Olatunji Ruwase <olruwase@microsoft.com>
+
+* torch changes
+
+Signed-off-by: Olatunji Ruwase <olruwase@microsoft.com>
+
+* sglang+zero_inference
+
+* Remove file
+
+* Add offload configs
+
+* Add pin_memory
+
+* Cleanup scripts
+
+* SGLang README
+
+* Remove file
+
+---------
+
+Signed-off-by: Olatunji Ruwase <olruwase@microsoft.com>
+Co-authored-by: jerryyangli <jerryyangli@gmail.com>
+Co-authored-by: Yang Li <yangli2@microsoft.com>
+Co-authored-by: GuanhuaWang <guanhua@cs.berkeley.edu>
+Co-authored-by: Logan Adams <114770087+loadams@users.noreply.github.com>
+Co-authored-by: Hongwei Chen <33092912+hwchen2017@users.noreply.github.com>
+Co-authored-by: Zhipeng Wang <zhipeng.rainbowserie@gmail.com> (Olatunji Ruwase)
+    - Merge branch 'master' into hongwei_update_domino (Hongwei Chen)
+
+更新时间：2025-06-10 04:58:51
+事件类型：WatchEvent
+未知事件类型
+
+更新时间：2025-06-09 17:57:03
+事件类型：PushEvent
+提交信息：
+    - DeepNVMe update (#966)
+
+* Fast model checkpointing
+
+* Support both legacy and serialized formats
+
+* Add io_buffer_mb option
+
+* Bug fix
+
+* Force flush
+
+* More model options; Refactor common codes
+
+* --gpu option
+
+* --half and more flexible options
+
+* Add deepspeed.save_checkpoint()
+
+* Free ds memory
+
+* Improve repro
+
+* Double I/O buffer (#56)
+
+* Double I/O buffer (#60)
+
+* Add checkpoint comparison (#62)
+
+* Add checkpoint comparison
+
+* Corrected a typo
+
+Co-authored-by: Yang Li <yangli2@microsoft.com>
+
+* save_checkpoint perf monitoring
+
+* Disable checkpoint save on exit
+
+* Perf statistics for save_checkpoint (#64)
+
+* save_checkpoint perf monitoring
+
+* Disable checkpoint save on exit
+
+* add logs for a100-80
+
+* add torch* error log with half flag but without fused flag
+
+* log for error
+
+* local rank arg
+
+* Handle local_rank arg (#78)
+
+* save_checkpoint perf monitoring
+
+* Disable checkpoint save on exit
+
+* local rank arg
+
+* Single writer option
+
+* Single writer option (#79)
+
+* save_checkpoint perf monitoring
+
+* Disable checkpoint save on exit
+
+* local rank arg
+
+* Single writer option
+
+* Allow missing folder
+
+* DP writer refactor
+
+* Update for DS; Add GDS
+
+Signed-off-by: Olatunji Ruwase <olruwase@microsoft.com>
+
+* Integrate GDS into deepspeed_model_save
+
+* Rebase fast persist (#184)
+
+* Fast model checkpointing
+
+* Support both legacy and serialized formats
+
+* Add io_buffer_mb option
+
+* Bug fix
+
+* Force flush
+
+* More model options; Refactor common codes
+
+* --gpu option
+
+* --half and more flexible options
+
+* Add deepspeed.save_checkpoint()
+
+* Free ds memory
+
+* Improve repro
+
+* Double I/O buffer (#56)
+
+* Double I/O buffer (#60)
+
+* Add checkpoint comparison (#62)
+
+* Add checkpoint comparison
+
+* Corrected a typo
+
+Co-authored-by: Yang Li <yangli2@microsoft.com>
+
+* save_checkpoint perf monitoring
+
+* Disable checkpoint save on exit
+
+* Perf statistics for save_checkpoint (#64)
+
+* save_checkpoint perf monitoring
+
+* Disable checkpoint save on exit
+
+* add logs for a100-80
+
+* add torch* error log with half flag but without fused flag
+
+* log for error
+
+* local rank arg
+
+* Handle local_rank arg (#78)
+
+* save_checkpoint perf monitoring
+
+* Disable checkpoint save on exit
+
+* local rank arg
+
+* Single writer option
+
+* Single writer option (#79)
+
+* save_checkpoint perf monitoring
+
+* Disable checkpoint save on exit
+
+* local rank arg
+
+* Single writer option
+
+* Allow missing folder
+
+* DP writer refactor
+
+* Update for DS; Add GDS
+
+Signed-off-by: Olatunji Ruwase <olruwase@microsoft.com>
+
+* Integrate GDS into deepspeed_model_save
+
+---------
+
+Signed-off-by: Olatunji Ruwase <olruwase@microsoft.com>
+Co-authored-by: jerryyangli <jerryyangli@gmail.com>
+Co-authored-by: Yang Li <yangli2@microsoft.com>
+Co-authored-by: GuanhuaWang <guanhua@cs.berkeley.edu>
+
+* Move folder
+
+Signed-off-by: Olatunji Ruwase <olruwase@microsoft.com>
+
+* Remove folder
+
+Signed-off-by: Olatunji Ruwase <olruwase@microsoft.com>
+
+* More cleanup
+
+Signed-off-by: Olatunji Ruwase <olruwase@microsoft.com>
+
+* torch changes
+
+Signed-off-by: Olatunji Ruwase <olruwase@microsoft.com>
+
+* sglang+zero_inference
+
+* Remove file
+
+* Add offload configs
+
+* Add pin_memory
+
+* Cleanup scripts
+
+* SGLang README
+
+* Remove file
+
+---------
+
+Signed-off-by: Olatunji Ruwase <olruwase@microsoft.com>
+Co-authored-by: jerryyangli <jerryyangli@gmail.com>
+Co-authored-by: Yang Li <yangli2@microsoft.com>
+Co-authored-by: GuanhuaWang <guanhua@cs.berkeley.edu>
+Co-authored-by: Logan Adams <114770087+loadams@users.noreply.github.com>
+Co-authored-by: Hongwei Chen <33092912+hwchen2017@users.noreply.github.com>
+Co-authored-by: Zhipeng Wang <zhipeng.rainbowserie@gmail.com> (Olatunji Ruwase)
+
+更新时间：2025-06-09 17:57:03
+事件类型：PullRequestEvent
+PR标题：DeepNVMe update
+提交者：tjruwase
+
+更新时间：2025-06-09 17:32:48
+事件类型：PullRequestReviewCommentEvent
+未知事件类型
+
+更新时间：2025-06-09 17:32:49
+事件类型：PullRequestReviewEvent
+未知事件类型
+
+更新时间：2025-06-09 17:31:59
+事件类型：PullRequestReviewCommentEvent
+未知事件类型
+
+更新时间：2025-06-09 17:31:59
+事件类型：PullRequestReviewEvent
+未知事件类型
+
+更新时间：2025-06-09 17:21:02
+事件类型：IssueCommentEvent
+未知事件类型
+
+
+facebookresearch/llama-recipes
+--------------------------------------------------
+更新时间：2025-06-17 13:36:45
+事件类型：WatchEvent
+未知事件类型
+
+更新时间：2025-06-17 08:53:30
+事件类型：ForkEvent
+未知事件类型
+
+更新时间：2025-06-17 08:38:13
+事件类型：WatchEvent
+未知事件类型
+
+更新时间：2025-06-17 07:52:23
+事件类型：WatchEvent
+未知事件类型
+
+更新时间：2025-06-17 05:10:34
+事件类型：WatchEvent
+未知事件类型
+
+更新时间：2025-06-17 02:53:40
+事件类型：WatchEvent
+未知事件类型
+
+更新时间：2025-06-17 01:28:23
+事件类型：WatchEvent
+未知事件类型
+
+更新时间：2025-06-16 23:49:50
+事件类型：IssueCommentEvent
+未知事件类型
+
+更新时间：2025-06-16 23:49:07
+事件类型：PushEvent
+提交信息：
+    - addressed comments (Terence Zhang)
+    - addressed comments (Terence Zhang)
+
+更新时间：2025-06-16 19:57:19
+事件类型：WatchEvent
+未知事件类型
+
+更新时间：2025-06-16 19:46:27
+事件类型：WatchEvent
+未知事件类型
+
+更新时间：2025-06-16 19:23:44
+事件类型：IssueCommentEvent
+未知事件类型
+
+更新时间：2025-06-16 19:20:40
+事件类型：IssueCommentEvent
+未知事件类型
+
+更新时间：2025-06-16 18:31:06
+事件类型：WatchEvent
+未知事件类型
+
+更新时间：2025-06-16 15:08:07
+事件类型：WatchEvent
+未知事件类型
+
+更新时间：2025-06-16 14:23:37
+事件类型：WatchEvent
+未知事件类型
+
+更新时间：2025-06-16 12:01:49
+事件类型：WatchEvent
+未知事件类型
+
+更新时间：2025-06-16 07:27:08
+事件类型：WatchEvent
+未知事件类型
+
+更新时间：2025-06-16 04:11:04
+事件类型：WatchEvent
+未知事件类型
+
+更新时间：2025-06-16 00:30:30
+事件类型：ForkEvent
+未知事件类型
+
+更新时间：2025-06-15 22:11:41
+事件类型：WatchEvent
+未知事件类型
+
+更新时间：2025-06-15 15:30:50
+事件类型：WatchEvent
+未知事件类型
+
+更新时间：2025-06-15 10:49:53
+事件类型：WatchEvent
+未知事件类型
+
+更新时间：2025-06-15 09:31:07
+事件类型：WatchEvent
+未知事件类型
+
+更新时间：2025-06-15 05:31:58
+事件类型：WatchEvent
+未知事件类型
+
+更新时间：2025-06-15 02:33:02
+事件类型：ForkEvent
+未知事件类型
+
+更新时间：2025-06-14 22:02:57
+事件类型：WatchEvent
+未知事件类型
+
+更新时间：2025-06-14 21:51:16
+事件类型：WatchEvent
+未知事件类型
+
+更新时间：2025-06-14 19:16:57
+事件类型：IssuesEvent
+Issue标题：Tiktok
+提交者：Noname51-svg
+
+更新时间：2025-06-14 16:57:49
+事件类型：WatchEvent
+未知事件类型
+
+
+microsoft/DeepSpeed-MII
+--------------------------------------------------
+更新时间：2025-06-16 22:52:15
+事件类型：WatchEvent
+未知事件类型
+
+更新时间：2025-06-16 02:10:58
+事件类型：ForkEvent
+未知事件类型
+
+更新时间：2025-06-16 02:10:54
+事件类型：WatchEvent
+未知事件类型
+
+更新时间：2025-06-08 09:00:23
+事件类型：ForkEvent
+未知事件类型
+
+更新时间：2025-06-07 05:05:22
+事件类型：WatchEvent
+未知事件类型
+
+更新时间：2025-06-06 20:59:57
+事件类型：WatchEvent
+未知事件类型
+
+更新时间：2025-06-06 07:32:16
+事件类型：WatchEvent
+未知事件类型
+
+更新时间：2025-06-02 09:47:32
+事件类型：WatchEvent
+未知事件类型
+
+更新时间：2025-06-02 02:14:55
+事件类型：WatchEvent
+未知事件类型
+
+更新时间：2025-05-31 09:32:03
+事件类型：WatchEvent
+未知事件类型
+
+更新时间：2025-05-29 14:10:49
+事件类型：WatchEvent
+未知事件类型
+
+更新时间：2025-05-28 19:33:30
+事件类型：WatchEvent
+未知事件类型
+
+更新时间：2025-05-26 05:36:17
+事件类型：ForkEvent
+未知事件类型
+
+更新时间：2025-05-26 05:36:11
+事件类型：WatchEvent
+未知事件类型
+
+更新时间：2025-05-19 12:57:20
+事件类型：ForkEvent
+未知事件类型
+
+更新时间：2025-05-19 07:28:23
+事件类型：WatchEvent
+未知事件类型
+

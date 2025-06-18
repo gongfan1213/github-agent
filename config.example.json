@@ -1,0 +1,9 @@
+{
+    "github_token": "YOUR_GITHUB_TOKEN",
+    "notification_settings": {
+        "email": "YOUR_EMAIL",
+        "slack_webhook_url": "YOUR_SLACK_WEBHOOK_URL"
+    },
+    "subscriptions_file": "subscriptions.json",
+    "update_interval": 86400
+} 
