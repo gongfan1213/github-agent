@@ -9,6 +9,8 @@
 
 [参考](https://github.com/DjangoPeng/GitHubSentinel)
 
+[可视化](https://github.com/gongfan1213/github-agent/wiki)
+
 ## 📋 目录
 
 - [项目概述](#项目概述)
