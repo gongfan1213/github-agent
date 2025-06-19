@@ -5,11 +5,10 @@
 
 ![AI Agent](https://img.shields.io/badge/AI-Agent-purple)
 
-一个功能强大的**信息挖掘智能体**，支持 GitHub 仓库进展跟踪和 Hacker News 技术趋势分析。
+**信息挖掘智能体**，支持 GitHub 仓库进展跟踪和 Hacker News 技术趋势分析。
 
 [参考](https://github.com/DjangoPeng/GitHubSentinel)
 
-[可视化](https://github.com/gongfan1213/github-agent/wiki)
 
 ## 📋 目录
 
