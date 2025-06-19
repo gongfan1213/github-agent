@@ -1,0 +1,178 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <title>GitHub 智能体 可视化报告</title>
+    <script src="https://cdn.jsdelivr.net/npm/echarts@5.4.3/dist/echarts.min.js"></script>
+    <style>
+        body { font-family: 'Microsoft YaHei', Arial, sans-serif; margin: 40px; }
+        #result { margin-top: 30px; }
+        textarea { width: 100%; height: 120px; }
+        select, button { font-size: 16px; margin: 10px 0; }
+        #chart { width: 100%; height: 400px; margin-top: 30px; }
+    </style>
+</head>
+<body>
+    <h2>信息挖掘 智能体 LLM 智能报告可视化</h2>
+    <form id="reportForm">
+        <label>选择数据源：</label>
+        <select id="dataSource">
+            <option value="github">GitHub</option>
+            <option value="hackernews">Hacker News</option>
+        </select><br>
+        <div id="githubInput">
+            <label>输入 GitHub 仓库地址：</label><br>
+            <input id="repoUrl" type="text" style="width:60%" placeholder="如 https://github.com/mlabonne/llm-course.git" required><br>
+        </div>
+        <button type="submit">分析</button>
+    </form>
+    <div id="llmSummary" style="margin-top:20px;"></div>
+    <div id="hnSummary" style="margin-top:20px;display:none;"></div>
+    <div id="result"></div>
+    <div id="copyLinkContainer" style="margin-top:20px;"></div>
+    <div id="chart" style="margin-top:30px;"></div>
+    <div id="issueList" style="margin-top:30px;"></div>
+    <div id="prList" style="margin-top:30px;"></div>
+    <div id="contributorRank" style="margin-top:30px;"></div>
+    <script>
+        // 数据源切换
+        document.getElementById('dataSource').onchange = function() {
+            if(this.value === 'github') {
+                document.getElementById('githubInput').style.display = '';
+                document.getElementById('repoUrl').setAttribute('required', 'required');
+                document.getElementById('llmSummary').style.display = '';
+                document.getElementById('hnSummary').style.display = 'none';
+            } else {
+                document.getElementById('githubInput').style.display = 'none';
+                document.getElementById('repoUrl').removeAttribute('required');
+                document.getElementById('llmSummary').style.display = 'none';
+                document.getElementById('hnSummary').style.display = '';
+            }
+        }
+        // 复制功能
+        function copyToClipboard(text) {
+            navigator.clipboard.writeText(text);
+            alert('已复制到剪贴板: ' + text);
+        }
+        document.getElementById('reportForm').onsubmit = async function(e) {
+            e.preventDefault();
+            const dataSource = document.getElementById('dataSource').value;
+            document.getElementById('llmSummary').innerHTML = '';
+            document.getElementById('hnSummary').innerHTML = '';
+            document.getElementById('result').innerText = '';
+            document.getElementById('chart').innerHTML = '';
+            document.getElementById('copyLinkContainer').innerHTML = '';
+            document.getElementById('issueList').innerHTML = '';
+            document.getElementById('prList').innerHTML = '';
+            document.getElementById('contributorRank').innerHTML = '';
+            if(dataSource === 'github') {
+                const repoUrl = document.getElementById('repoUrl').value.trim();
+                const res = await fetch('/api/statistics', {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/json' },
+                    body: JSON.stringify({ repo_url: repoUrl })
+                });
+                const data = await res.json();
+                if(data.error) {
+                    document.getElementById('result').innerText = data.error;
+                    return;
+                }
+                if(data.llm_summary) {
+                    document.getElementById('llmSummary').innerHTML = `<div style='background:#f6f8fa;padding:12px 18px;border-radius:8px;font-size:15px;line-height:1.6;margin-bottom:10px;'><b>智能总结：</b><br>${data.llm_summary.replace(/\n/g,'<br>')}</div>`;
+                }
+                let html = `<b>仓库地址：</b>${repoUrl} <button onclick=\"copyToClipboard('${repoUrl}')\">复制</button><br>`;
+                html += `<b>2025年更新内容：</b> <a href='${data.commits_url}' target='_blank'>${data.commits_url}</a> <button onclick=\"copyToClipboard('${data.commits_url}')\">复制</button>`;
+                document.getElementById('copyLinkContainer').innerHTML = html;
+                if(data.issues && data.issues.length > 0) {
+                    let html = '<h4>Issue 列表</h4><ul>';
+                    data.issues.forEach(i => {
+                        html += `<li>${i.title || i.body || '无标题'} #${i.number} <button onclick=\"copyToClipboard('${i.title || i.body || '无标题'} #${i.number}')\">复制</button></li>`;
+                    });
+                    html += '</ul>';
+                    document.getElementById('issueList').innerHTML = html;
+                }
+                if(data.prs && data.prs.length > 0) {
+                    let html = '<h4>PR 列表</h4><ul>';
+                    data.prs.forEach(i => {
+                        html += `<li>${i.title || '无标题'} #${i.number} <button onclick=\"copyToClipboard('${i.title || '无标题'} #${i.number}')\">复制</button></li>`;
+                    });
+                    html += '</ul>';
+                    document.getElementById('prList').innerHTML = html;
+                }
+                if(data.contributors && data.contributors.length > 0) {
+                    let html = '<h4>贡献者排行榜</h4><ol>';
+                    data.contributors.forEach(c => {
+                        html += `<li>${c.login} (${c.contributions}次) <button onclick=\"copyToClipboard('${c.login}')\">复制主页</button></li>`;
+                    });
+                    html += '</ol>';
+                    document.getElementById('contributorRank').innerHTML = html;
+                }
+                const chartDom = document.getElementById('chart');
+                const myChart = echarts.init(chartDom);
+                const option = {
+                    title: { text: '2025年仓库活跃度统计' },
+                    tooltip: {},
+                    legend: { data: ['Issues', 'PRs', 'Commits'] },
+                    xAxis: { type: 'category', data: ['Issues', 'PRs', 'Commits'] },
+                    yAxis: { type: 'value' },
+                    series: [{
+                        name: '数量',
+                        data: [data.issues ? data.issues.length : 0, data.prs ? data.prs.length : 0, data.commits ? data.commits.length : 0],
+                        type: 'bar'
+                    }]
+                };
+                myChart.setOption(option);
+                document.getElementById('result').innerText = '分析完成！';
+            } else if(dataSource === 'hackernews') {
+                document.getElementById('hnSummary').innerHTML = '正在分析Hacker News...';
+                const res = await fetch('/api/hn_statistics');
+                const data = await res.json();
+                let html = '';
+                html += `<div style='background:#f6f8fa;padding:10px 16px;border-radius:8px;font-size:15px;line-height:1.6;margin-bottom:10px;'><b>热门话题趋势：</b><br>${data.llm_hot_topics.replace(/\n/g,'<br>')}</div>`;
+                html += `<div style='background:#f6f8fa;padding:10px 16px;border-radius:8px;font-size:15px;line-height:1.6;margin-bottom:10px;'><b>主要活跃用户及其特征：</b><br>${data.llm_active_users.replace(/\n/g,'<br>')}</div>`;
+                html += `<div style='background:#f6f8fa;padding:10px 16px;border-radius:8px;font-size:15px;line-height:1.6;margin-bottom:10px;'><b>评论与讨论亮点：</b><br>${data.llm_comments.replace(/\n/g,'<br>')}</div>`;
+                html += `<div style='background:#f6f8fa;padding:10px 16px;border-radius:8px;font-size:15px;line-height:1.6;margin-bottom:10px;'><b>异常与创新内容：</b><br>${data.llm_innovations.replace(/\n/g,'<br>')}</div>`;
+                // 新闻详细表格
+                if(data.news && data.news.length > 0) {
+                    html += '<h4>热门新闻详细数据</h4>';
+                    html += `<table border="1" cellpadding="6" style="border-collapse:collapse;font-size:14px;"><tr><th>标题</th><th>分数</th><th>作者</th><th>评论数</th><th>链接</th></tr>`;
+                    data.news.forEach(n => {
+                        html += `<tr>
+                            <td>${n.title}</td>
+                            <td>${n.score}</td>
+                            <td>${n.by}</td>
+                            <td>${n.descendants}</td>
+                            <td><a href='${n.link}' target='_blank'>跳转</a></td>
+                        </tr>`;
+                    });
+                    html += '</table>';
+                }
+                // 活跃用户排行榜
+                if(data.users && data.users.length > 0) {
+                    html += '<h4>活跃用户排行榜</h4><ol>';
+                    data.users.forEach(u => {
+                        html += `<li>${u.id || u}</li>`;
+                    });
+                    html += '</ol>';
+                }
+                // 简单趋势图表（以新闻分数为例）
+                const chartDom = document.getElementById('chart');
+                const myChart = echarts.init(chartDom);
+                const option = {
+                    title: { text: '近三条热门新闻分数' },
+                    tooltip: {},
+                    xAxis: { type: 'category', data: data.news.map((n,i)=>'新闻'+(i+1)) },
+                    yAxis: { type: 'value' },
+                    series: [{
+                        name: '新闻分数',
+                        data: data.news.map(n=>n.score||0),
+                        type: 'bar'
+                    }]
+                };
+                myChart.setOption(option);
+                document.getElementById('hnSummary').innerHTML = html;
+            }
+        }
+    </script>
+</body>
+</html>

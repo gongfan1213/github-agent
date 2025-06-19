@@ -1,31 +1,8 @@
 {
     "repositories": [
-<<<<<<< HEAD
         "openai/openai-python",
         "langchain-ai/langchain",
         "huggingface/transformers",
-        "microsoft/semantic-kernel",
-        "tensorflow/tensorflow",
-        "pytorch/pytorch",
-        "deepmind/alphafold",
-        "facebookresearch/llama",
-        "microsoft/DeepSpeed",
-        "EleutherAI/gpt-neo",
-        "google-research/bert",
-        "microsoft/DeepSpeedExamples",
-        "facebookresearch/llama-recipes",
-        "microsoft/DeepSpeed-MII",
-        "microsoft/DeepSpeed-Chat",
-        "facebookresearch/llama-2",
-        "microsoft/DeepSpeed-Inference",
-        "microsoft/DeepSpeed-Examples",
-        "microsoft/DeepSpeed-MII-Examples",
-        "microsoft/DeepSpeed-Chat-Examples"
+        "anthropics/claude"
     ]
 }
-=======
-        "owner/repo1",
-        "owner/repo2"
-    ]
-} 
->>>>>>> 8c45dafbfc62b94f62cc53c7c041c34e2d2d0173

@@ -1,95 +1,105 @@
-"""
-报告生成器模块
-功能：负责生成仓库更新报告
-- 处理仓库更新数据
-- 格式化报告内容
-- 生成可读性强的报告文本
-- 支持多种报告格式
-"""
-
-<<<<<<< HEAD
-from datetime import datetime
+import os
+from logger import LOG  # 导入日志模块
 
 class ReportGenerator:
-    def __init__(self):
-        """初始化报告生成器"""
-        pass
+    def __init__(self, llm, report_types):
+        self.llm = llm  # 初始化时接受一个LLM实例，用于后续生成报告
+        self.report_types = report_types
+        self.prompts = {}  # 存储所有预加载的提示信息
+        self._preload_prompts()
 
-    def generate_report(self, updates):
+    def _preload_prompts(self):
         """
-        生成仓库更新报告
-        
-        参数:
-            updates (dict): 仓库更新数据
-            
-        返回:
-            str: 格式化的报告文本
+        预加载所有可能的提示文件，并存储在字典中。
         """
-        if not updates:
-            return "没有新的更新"
-            
-        report = []
-        report.append("=" * 50)
-        report.append("GitHub 仓库更新报告")
-        report.append(f"生成时间：{datetime.now().strftime('%Y-%m-%d %H:%M:%S')}")
-        report.append("=" * 50 + "\n")
+        for report_type in self.report_types:  # 使用从配置中加载的报告类型
+            prompt_file = f"prompts/{report_type}_{self.llm.model}_prompt.txt"
+            if not os.path.exists(prompt_file):
+                LOG.error(f"提示文件不存在: {prompt_file}")
+                raise FileNotFoundError(f"提示文件未找到: {prompt_file}")
+            with open(prompt_file, "r", encoding='utf-8') as file:
+                self.prompts[report_type] = file.read()
+
+    def generate_github_report(self, markdown_file_path):
+        """
+        生成 GitHub 项目的报告，并保存为 {original_filename}_report.md。
+        """
+        with open(markdown_file_path, 'r') as file:
+            markdown_content = file.read()
+
+        system_prompt = self.prompts.get("github")
+        report = self.llm.generate_report(system_prompt, markdown_content)
         
-        for repo, events in updates.items():
-            report.append(repo)
-            report.append("-" * 50)
-            
-            for event in events:
-                event_type = event.get("type", "未知事件")
-                created_at = event.get("created_at", "")
-                if created_at:
-                    created_at = datetime.fromisoformat(created_at.replace("Z", "+00:00"))
-                    created_at = created_at.strftime("%Y-%m-%d %H:%M:%S")
-                
-                report.append(f"更新时间：{created_at}")
-                report.append(f"事件类型：{event_type}")
-                
-                # 处理不同类型的事件
-                if event_type == "PushEvent":
-                    commits = event.get("payload", {}).get("commits", [])
-                    if commits:
-                        report.append("提交信息：")
-                        for commit in commits:
-                            message = commit.get("message", "")
-                            author = commit.get("author", {}).get("name", "未知作者")
-                            report.append(f"    - {message} ({author})")
-                
-                elif event_type == "PullRequestEvent":
-                    pr = event.get("payload", {}).get("pull_request", {})
-                    if pr:
-                        title = pr.get("title", "")
-                        user = pr.get("user", {}).get("login", "未知用户")
-                        report.append(f"PR标题：{title}")
-                        report.append(f"提交者：{user}")
-                
-                elif event_type == "IssuesEvent":
-                    issue = event.get("payload", {}).get("issue", {})
-                    if issue:
-                        title = issue.get("title", "")
-                        user = issue.get("user", {}).get("login", "未知用户")
-                        report.append(f"Issue标题：{title}")
-                        report.append(f"提交者：{user}")
-                
-                else:
-                    report.append("未知事件类型")
-                
-                report.append("")  # 添加空行分隔不同事件
-            
-            report.append("")  # 添加空行分隔不同仓库
+        report_file_path = os.path.splitext(markdown_file_path)[0] + "_report.md"
+        with open(report_file_path, 'w+') as report_file:
+            report_file.write(report)
+
+        LOG.info(f"GitHub 项目报告已保存到 {report_file_path}")
+        return report, report_file_path
+
+    def generate_hn_topic_report(self, markdown_file_path):
+        """
+        生成 Hacker News 小时主题的报告，并保存为 {original_filename}_topic.md。
+        """
+        with open(markdown_file_path, 'r') as file:
+            markdown_content = file.read()
+
+        system_prompt = self.prompts.get("hacker_news_hours_topic")
+        report = self.llm.generate_report(system_prompt, markdown_content)
         
-        return "\n".join(report)
-=======
-class ReportGenerator:
-    def generate(self, updates):
-        # Implement report generation logic
-        report = ""
-        for repo, events in updates.items():
-            report += f"Repository: {repo}\n"
-            for event in events:
-                report += f"- {event['type']} at {event['created_at']}\n"
-        return report
->>>>>>> 8c45dafbfc62b94f62cc53c7c041c34e2d2d0173
+        report_file_path = os.path.splitext(markdown_file_path)[0] + "_topic.md"
+        with open(report_file_path, 'w+') as report_file:
+            report_file.write(report)
+
+        LOG.info(f"Hacker News 热点主题报告已保存到 {report_file_path}")
+        return report, report_file_path
+
+    def generate_hn_daily_report(self, directory_path):
+        """
+        生成 Hacker News 每日汇总的报告，并保存到 hacker_news/tech_trends/ 目录下。
+        这里的输入是一个目录路径，其中包含所有由 generate_hn_topic_report 生成的 *_topic.md 文件。
+        """
+        markdown_content = self._aggregate_topic_reports(directory_path)
+        system_prompt = self.prompts.get("hacker_news_daily_report")
+
+        base_name = os.path.basename(directory_path.rstrip('/'))
+        report_file_path = os.path.join("hacker_news/tech_trends/", f"{base_name}_trends.md")
+
+        # 确保 tech_trends 目录存在
+        os.makedirs(os.path.dirname(report_file_path), exist_ok=True)
+        
+        report = self.llm.generate_report(system_prompt, markdown_content)
+        
+        with open(report_file_path, 'w+') as report_file:
+            report_file.write(report)
+        
+        LOG.info(f"Hacker News 每日汇总报告已保存到 {report_file_path}")
+        return report, report_file_path
+
+
+    def _aggregate_topic_reports(self, directory_path):
+        """
+        聚合目录下所有以 '_topic.md' 结尾的 Markdown 文件内容，生成每日汇总报告的输入。
+        """
+        markdown_content = ""
+        for filename in os.listdir(directory_path):
+            if filename.endswith("_topic.md"):
+                with open(os.path.join(directory_path, filename), 'r') as file:
+                    markdown_content += file.read() + "\n"
+        return markdown_content
+
+
+if __name__ == '__main__':
+    from config import Config  # 导入配置管理类
+    from llm import LLM
+
+    config = Config()
+    llm = LLM(config)
+    report_generator = ReportGenerator(llm, config.report_types)
+
+    # hn_hours_file = "./hacker_news/2024-09-01/14.md"
+    hn_daily_dir = "./hacker_news/2024-09-01/"
+
+    # report, report_file_path = report_generator.generate_hn_topic_report(hn_hours_file)
+    report, report_file_path = report_generator.generate_hn_daily_report(hn_daily_dir)
+    LOG.debug(report)

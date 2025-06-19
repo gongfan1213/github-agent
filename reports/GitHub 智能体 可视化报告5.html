@@ -1,0 +1,196 @@
+<!DOCTYPE html>
+<!-- saved from url=(0022)http://127.0.0.1:8888/ -->
+<html lang="auto" class=""><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    
+    <title>GitHub 智能体 可视化报告</title>
+    <script src="./GitHub 智能体 可视化报告5_files/echarts.min.js.下载"></script>
+    <style>
+        body { font-family: 'Microsoft YaHei', Arial, sans-serif; margin: 40px; }
+        #result { margin-top: 30px; }
+        textarea { width: 100%; height: 120px; }
+        select, button { font-size: 16px; margin: 10px 0; }
+        #chart { width: 100%; height: 400px; margin-top: 30px; }
+    </style>
+<link type="text/css" rel="stylesheet" charset="UTF-8" href="./GitHub 智能体 可视化报告5_files/script.css"></head>
+<body>
+    <h2>信息挖掘 智能体 LLM 智能报告可视化</h2>
+    <form id="reportForm">
+        <label>选择数据源：</label>
+        <select id="dataSource">
+            <option value="github">GitHub</option>
+            <option value="hackernews">Hacker News</option>
+        </select><br>
+        <div id="githubInput" style="display: none;">
+            <label>输入 GitHub 仓库地址：</label><br>
+            <input id="repoUrl" type="text" style="width:60%" placeholder="如 https://github.com/mlabonne/llm-course.git"><br>
+        </div>
+        <button type="submit">分析</button>
+    </form>
+    <div id="llmSummary" style="margin-top: 20px; display: none;"></div>
+    <div id="hnSummary" style="margin-top: 20px;"><div style="background:#f6f8fa;padding:10px 16px;border-radius:8px;font-size:15px;line-height:1.6;margin-bottom:10px;"><b>热门话题趋势：</b><br>这三条新闻的热门话题趋势如下：<br><br>1. 人工智能软件发展：Andrej Karpathy在视频中探讨了人工智能软件在今天的发展和应用。该话题涉及人工智能在软件领域的趋势、挑战和前景，受到了25条评论的关注。<br><br>2. Docker应用：Unregistry是一个新的工具，允许直接将Docker镜像推送到服务器而无需使用注册表。这一方便优化了Docker部署的流程，引起了48条评论的讨论，显示了开发者对Docker工具和技术的兴趣和关注。<br><br>3. 半导体制造业投资：TI计划在美国投资超过60亿美元用于制造基础半导体。这一举措引发了对半导体产业现状、技术发展和政治经济影响等方面的讨论，吸引了5条评论的关注。<br><br>综上所述，这三条新闻从人工智能软件发展、Docker应用优化到半导体制造业投资等方面都反映了Hacker News用户对技术趋势和行业动态的关注和讨论。</div><div style="background:#f6f8fa;padding:10px 16px;border-radius:8px;font-size:15px;line-height:1.6;margin-bottom:10px;"><b>主要活跃用户及其特征：</b><br>sandslash、psviderski和TMWNN是Hacker News上的活跃用户。sandslash可能是一个关注技术趋势、新闻和创业内容的用户，有可能是一位技术专家或者创业者。psviderski可能对编程、数据科学或者人工智能等技术话题特别感兴趣，可能是一名软件工程师或者数据科学家。TMWNN可能是一个关注网络安全、加密货币或者隐私问题的用户，有可能是网络安全研究人员或者密码学专家。每位用户都有不同的专长和兴趣领域，在Hacker News上分享知识和参与讨论，活跃于技术社区。</div><div style="background:#f6f8fa;padding:10px 16px;border-radius:8px;font-size:15px;line-height:1.6;margin-bottom:10px;"><b>评论与讨论亮点：</b><br>第一条新闻讨论了安德烈·卡帕西（Andrej Karpathy）关于“AI时代软件”的演讲视频。评论者对卡帕西的见解表示赞赏，认为他是AI领域的专家，并在技术方面有着极高的造诣。一些评论者提到了卡帕西在斯坦福大学的工作，并对他的研究和项目表示兴趣。此外，还有讨论涉及到AI对软件开发的影响以及人工智能带来的挑战和机遇。<br><br>第二条新闻是关于Unregistry项目，该项目允许用户直接将Docker镜像推送到服务器，而无需经过中央镜像仓库。评论者对这一项目表示了极大的兴趣和期待，认为这种方法有助于简化部署流程，减少单点故障，并提高系统的可靠性和安全性。有评论者提到了自己的使用经验，并分享了与Unregistry相关的建议和想法。<br><br>第三条新闻报导了TI将在美国投资逾600亿美元用于制造基础半导体的计划。评论者对这一消息表示了关注和好奇，认为这对于美国半导体行业和科技产业的发展有着积极的影响。有评论者对TI的决定表示祝贺，并讨论了半导体制造在当今世界的重要性以及美国与其他国家之间的竞争状况。</div><div style="background:#f6f8fa;padding:10px 16px;border-radius:8px;font-size:15px;line-height:1.6;margin-bottom:10px;"><b>异常与创新内容：</b><br>新闻总结如下：<br><br>1. 新闻标题为"Andrej Karpathy: Software in the era of AI [video]"，得分为86分，由作者sandslash发布，收到25条评论。该新闻涉及到人工智能时代下的软件发展趋势，引起了较多用户关注。<br><br>2. 另一则新闻标题为"Show HN: Unregistry – “docker push” directly to servers without a registry"，得分高达196分，由作者psviderski发布，吸引了48条评论。该新闻介绍了一项新技术，让用户可以直接将Docker容器推送到服务器，而无需经过注册表，这一创新引起了广泛关注和讨论。<br><br>3. 第三则新闻讲述了TI计划投资超过60亿美元，在美国建厂生产基础半导体，得分为14分，由作者TMWNN发布，有5条评论。这则新闻反映了在美国制造基础半导体的投资规模之大，对半导体产业发展有着重要意义。<br><br>用户总结如下：<br><br>1. sandslash发布了关于人工智能时代下软件发展的新闻，引发了25条评论。<br>2. psviderski发布了关于无需通过注册表直接将Docker容器推送到服务器的创新技术，获得了196分，并吸引了48条评论。<br>3. TMWNN发布了有关TI计划在美国投资建厂生产基础半导体的消息，得分为14分，有5条评论。</div><h4>热门新闻详细数据</h4><table border="1" cellpadding="6" style="border-collapse:collapse;font-size:14px;"><tbody><tr><th>标题</th><th>分数</th><th>作者</th><th>评论数</th><th>链接</th></tr><tr>
+                            <td>Andrej Karpathy: Software in the era of AI [video]</td>
+                            <td>86</td>
+                            <td>sandslash</td>
+                            <td>25</td>
+                            <td><a href="https://www.youtube.com/watch?v=LCEmiRjPEtQ" target="_blank">跳转</a></td>
+                        </tr><tr>
+                            <td>Show HN: Unregistry – “docker push” directly to servers without a registry</td>
+                            <td>196</td>
+                            <td>psviderski</td>
+                            <td>48</td>
+                            <td><a href="https://github.com/psviderski/unregistry" target="_blank">跳转</a></td>
+                        </tr><tr>
+                            <td>TI to invest &gt;$60B to manufacture foundational semiconductors in the U.S.</td>
+                            <td>14</td>
+                            <td>TMWNN</td>
+                            <td>5</td>
+                            <td><a href="https://www.ti.com/about-ti/newsroom/news-releases/2025/texas-instruments-plans-to-invest-more-than--60-billion-to-manufacture-billions-of-foundational-semiconductors-in-the-us.html" target="_blank">跳转</a></td>
+                        </tr></tbody></table><h4>活跃用户排行榜</h4><ol><li>sandslash</li><li>psviderski</li><li>TMWNN</li></ol></div>
+    <div id="result"></div>
+    <div id="copyLinkContainer" style="margin-top:20px;"></div>
+    <div id="chart" style="margin-top: 30px; user-select: none; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); position: relative;" _echarts_instance_="ec_1750301108518"></div>
+    <div id="issueList" style="margin-top:30px;"></div>
+    <div id="prList" style="margin-top:30px;"></div>
+    <div id="contributorRank" style="margin-top:30px;"></div>
+    <script>
+        // 数据源切换
+        document.getElementById('dataSource').onchange = function() {
+            if(this.value === 'github') {
+                document.getElementById('githubInput').style.display = '';
+                document.getElementById('repoUrl').setAttribute('required', 'required');
+                document.getElementById('llmSummary').style.display = '';
+                document.getElementById('hnSummary').style.display = 'none';
+            } else {
+                document.getElementById('githubInput').style.display = 'none';
+                document.getElementById('repoUrl').removeAttribute('required');
+                document.getElementById('llmSummary').style.display = 'none';
+                document.getElementById('hnSummary').style.display = '';
+            }
+        }
+        // 复制功能
+        function copyToClipboard(text) {
+            navigator.clipboard.writeText(text);
+            alert('已复制到剪贴板: ' + text);
+        }
+        document.getElementById('reportForm').onsubmit = async function(e) {
+            e.preventDefault();
+            const dataSource = document.getElementById('dataSource').value;
+            document.getElementById('llmSummary').innerHTML = '';
+            document.getElementById('hnSummary').innerHTML = '';
+            document.getElementById('result').innerText = '';
+            document.getElementById('chart').innerHTML = '';
+            document.getElementById('copyLinkContainer').innerHTML = '';
+            document.getElementById('issueList').innerHTML = '';
+            document.getElementById('prList').innerHTML = '';
+            document.getElementById('contributorRank').innerHTML = '';
+            if(dataSource === 'github') {
+                const repoUrl = document.getElementById('repoUrl').value.trim();
+                const res = await fetch('/api/statistics', {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/json' },
+                    body: JSON.stringify({ repo_url: repoUrl })
+                });
+                const data = await res.json();
+                if(data.error) {
+                    document.getElementById('result').innerText = data.error;
+                    return;
+                }
+                if(data.llm_summary) {
+                    document.getElementById('llmSummary').innerHTML = `<div style='background:#f6f8fa;padding:12px 18px;border-radius:8px;font-size:15px;line-height:1.6;margin-bottom:10px;'><b>智能总结：</b><br>${data.llm_summary.replace(/\n/g,'<br>')}</div>`;
+                }
+                let html = `<b>仓库地址：</b>${repoUrl} <button onclick=\"copyToClipboard('${repoUrl}')\">复制</button><br>`;
+                html += `<b>2025年更新内容：</b> <a href='${data.commits_url}' target='_blank'>${data.commits_url}</a> <button onclick=\"copyToClipboard('${data.commits_url}')\">复制</button>`;
+                document.getElementById('copyLinkContainer').innerHTML = html;
+                if(data.issues && data.issues.length > 0) {
+                    let html = '<h4>Issue 列表</h4><ul>';
+                    data.issues.forEach(i => {
+                        html += `<li>${i.title || i.body || '无标题'} #${i.number} <button onclick=\"copyToClipboard('${i.title || i.body || '无标题'} #${i.number}')\">复制</button></li>`;
+                    });
+                    html += '</ul>';
+                    document.getElementById('issueList').innerHTML = html;
+                }
+                if(data.prs && data.prs.length > 0) {
+                    let html = '<h4>PR 列表</h4><ul>';
+                    data.prs.forEach(i => {
+                        html += `<li>${i.title || '无标题'} #${i.number} <button onclick=\"copyToClipboard('${i.title || '无标题'} #${i.number}')\">复制</button></li>`;
+                    });
+                    html += '</ul>';
+                    document.getElementById('prList').innerHTML = html;
+                }
+                if(data.contributors && data.contributors.length > 0) {
+                    let html = '<h4>贡献者排行榜</h4><ol>';
+                    data.contributors.forEach(c => {
+                        html += `<li>${c.login} (${c.contributions}次) <button onclick=\"copyToClipboard('${c.login}')\">复制主页</button></li>`;
+                    });
+                    html += '</ol>';
+                    document.getElementById('contributorRank').innerHTML = html;
+                }
+                const chartDom = document.getElementById('chart');
+                const myChart = echarts.init(chartDom);
+                const option = {
+                    title: { text: '2025年仓库活跃度统计' },
+                    tooltip: {},
+                    legend: { data: ['Issues', 'PRs', 'Commits'] },
+                    xAxis: { type: 'category', data: ['Issues', 'PRs', 'Commits'] },
+                    yAxis: { type: 'value' },
+                    series: [{
+                        name: '数量',
+                        data: [data.issues ? data.issues.length : 0, data.prs ? data.prs.length : 0, data.commits ? data.commits.length : 0],
+                        type: 'bar'
+                    }]
+                };
+                myChart.setOption(option);
+                document.getElementById('result').innerText = '分析完成！';
+            } else if(dataSource === 'hackernews') {
+                document.getElementById('hnSummary').innerHTML = '正在分析Hacker News...';
+                const res = await fetch('/api/hn_statistics');
+                const data = await res.json();
+                let html = '';
+                html += `<div style='background:#f6f8fa;padding:10px 16px;border-radius:8px;font-size:15px;line-height:1.6;margin-bottom:10px;'><b>热门话题趋势：</b><br>${data.llm_hot_topics.replace(/\n/g,'<br>')}</div>`;
+                html += `<div style='background:#f6f8fa;padding:10px 16px;border-radius:8px;font-size:15px;line-height:1.6;margin-bottom:10px;'><b>主要活跃用户及其特征：</b><br>${data.llm_active_users.replace(/\n/g,'<br>')}</div>`;
+                html += `<div style='background:#f6f8fa;padding:10px 16px;border-radius:8px;font-size:15px;line-height:1.6;margin-bottom:10px;'><b>评论与讨论亮点：</b><br>${data.llm_comments.replace(/\n/g,'<br>')}</div>`;
+                html += `<div style='background:#f6f8fa;padding:10px 16px;border-radius:8px;font-size:15px;line-height:1.6;margin-bottom:10px;'><b>异常与创新内容：</b><br>${data.llm_innovations.replace(/\n/g,'<br>')}</div>`;
+                // 新闻详细表格
+                if(data.news && data.news.length > 0) {
+                    html += '<h4>热门新闻详细数据</h4>';
+                    html += `<table border="1" cellpadding="6" style="border-collapse:collapse;font-size:14px;"><tr><th>标题</th><th>分数</th><th>作者</th><th>评论数</th><th>链接</th></tr>`;
+                    data.news.forEach(n => {
+                        html += `<tr>
+                            <td>${n.title}</td>
+                            <td>${n.score}</td>
+                            <td>${n.by}</td>
+                            <td>${n.descendants}</td>
+                            <td><a href='${n.link}' target='_blank'>跳转</a></td>
+                        </tr>`;
+                    });
+                    html += '</table>';
+                }
+                // 活跃用户排行榜
+                if(data.users && data.users.length > 0) {
+                    html += '<h4>活跃用户排行榜</h4><ol>';
+                    data.users.forEach(u => {
+                        html += `<li>${u.id || u}</li>`;
+                    });
+                    html += '</ol>';
+                }
+                // 简单趋势图表（以新闻分数为例）
+                const chartDom = document.getElementById('chart');
+                const myChart = echarts.init(chartDom);
+                const option = {
+                    title: { text: '近三条热门新闻分数' },
+                    tooltip: {},
+                    xAxis: { type: 'category', data: data.news.map((n,i)=>'新闻'+(i+1)) },
+                    yAxis: { type: 'value' },
+                    series: [{
+                        name: '新闻分数',
+                        data: data.news.map(n=>n.score||0),
+                        type: 'bar'
+                    }]
+                };
+                myChart.setOption(option);
+                document.getElementById('hnSummary').innerHTML = html;
+            }
+        }
+    </script><div id="goog-gt-tt" class="VIpgJd-yAWNEb-L7lbkb skiptranslate" style="border-radius: 12px; margin: 0 0 0 -23px; padding: 0; font-family: &#39;Google Sans&#39;, Arial, sans-serif;" data-id=""><div id="goog-gt-vt" class="VIpgJd-yAWNEb-hvhgNd"><div class=" VIpgJd-yAWNEb-hvhgNd-l4eHX-i3jM8c"><img src="./GitHub 智能体 可视化报告5_files/24px.svg" width="24" height="24" alt=""></div><div class=" VIpgJd-yAWNEb-hvhgNd-k77Iif-i3jM8c"><div class="VIpgJd-yAWNEb-hvhgNd-IuizWc" dir="ltr">原文</div><div id="goog-gt-original-text" class="VIpgJd-yAWNEb-nVMfcd-fmcmS VIpgJd-yAWNEb-hvhgNd-axAV1"></div></div><div class="VIpgJd-yAWNEb-hvhgNd-N7Eqid ltr"><div class="VIpgJd-yAWNEb-hvhgNd-N7Eqid-B7I4Od ltr" dir="ltr"><div class="VIpgJd-yAWNEb-hvhgNd-UTujCb">请对此翻译评分</div><div class="VIpgJd-yAWNEb-hvhgNd-eO9mKe">您的反馈将用于改进谷歌翻译</div></div><div class="VIpgJd-yAWNEb-hvhgNd-xgov5 ltr"><button id="goog-gt-thumbUpButton" type="button" class="VIpgJd-yAWNEb-hvhgNd-bgm6sf" title="翻译质量很棒" aria-label="翻译质量很棒" aria-pressed="false"><span id="goog-gt-thumbUpIcon"><svg width="24" height="24" viewBox="0 0 24 24" focusable="false" class="VIpgJd-yAWNEb-hvhgNd-THI6Vb NMm5M"><path d="M21 7h-6.31l.95-4.57.03-.32c0-.41-.17-.79-.44-1.06L14.17 0S7.08 6.85 7 7H2v13h16c.83 0 1.54-.5 1.84-1.22l3.02-7.05c.09-.23.14-.47.14-.73V9c0-1.1-.9-2-2-2zM7 18H4V9h3v9zm14-7l-3 7H9V8l4.34-4.34L12 9h9v2z"></path></svg></span><span id="goog-gt-thumbUpIconFilled"><svg width="24" height="24" viewBox="0 0 24 24" focusable="false" class="VIpgJd-yAWNEb-hvhgNd-THI6Vb NMm5M"><path d="M21 7h-6.31l.95-4.57.03-.32c0-.41-.17-.79-.44-1.06L14.17 0S7.08 6.85 7 7v13h11c.83 0 1.54-.5 1.84-1.22l3.02-7.05c.09-.23.14-.47.14-.73V9c0-1.1-.9-2-2-2zM5 7H1v13h4V7z"></path></svg></span></button><button id="goog-gt-thumbDownButton" type="button" class="VIpgJd-yAWNEb-hvhgNd-bgm6sf" title="翻译质量很差" aria-label="翻译质量很差" aria-pressed="false"><span id="goog-gt-thumbDownIcon"><svg width="24" height="24" viewBox="0 0 24 24" focusable="false" class="VIpgJd-yAWNEb-hvhgNd-THI6Vb NMm5M"><path d="M3 17h6.31l-.95 4.57-.03.32c0 .41.17.79.44 1.06L9.83 24s7.09-6.85 7.17-7h5V4H6c-.83 0-1.54.5-1.84 1.22l-3.02 7.05c-.09.23-.14.47-.14.73v2c0 1.1.9 2 2 2zM17 6h3v9h-3V6zM3 13l3-7h9v10l-4.34 4.34L12 15H3v-2z"></path></svg></span><span id="goog-gt-thumbDownIconFilled"><svg width="24" height="24" viewBox="0 0 24 24" focusable="false" class="VIpgJd-yAWNEb-hvhgNd-THI6Vb NMm5M"><path d="M3 17h6.31l-.95 4.57-.03.32c0 .41.17.79.44 1.06L9.83 24s7.09-6.85 7.17-7V4H6c-.83 0-1.54.5-1.84 1.22l-3.02 7.05c-.09.23-.14.47-.14.73v2c0 1.1.9 2 2 2zm16 0h4V4h-4v13z"></path></svg></span></button></div></div><div id="goog-gt-votingHiddenPane" class="VIpgJd-yAWNEb-hvhgNd-aXYTce"><form id="goog-gt-votingForm" action="http://translate.googleapis.com/translate_voting?client=te_lib" method="post" target="votingFrame" class="VIpgJd-yAWNEb-hvhgNd-aXYTce"><input type="text" name="sl" id="goog-gt-votingInputSrcLang"><input type="text" name="tl" id="goog-gt-votingInputTrgLang"><input type="text" name="query" id="goog-gt-votingInputSrcText"><input type="text" name="gtrans" id="goog-gt-votingInputTrgText"><input type="text" name="vote" id="goog-gt-votingInputVote"></form><iframe name="votingFrame" frameborder="0" src="./GitHub 智能体 可视化报告5_files/saved_resource.html"></iframe></div></div></div>
+
+</body></html>

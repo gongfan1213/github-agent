@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<!-- saved from url=(0022)http://127.0.0.1:8888/ -->
+<html lang="zh-CN"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    
+    <title>GitHub 智能体 可视化报告</title>
+    <script src="./GitHub 智能体 可视化报告_files/echarts.min.js.下载"></script>
+    <style>
+        body { font-family: 'Microsoft YaHei', Arial, sans-serif; margin: 40px; }
+        #result { margin-top: 30px; }
+        textarea { width: 100%; height: 120px; }
+        select, button { font-size: 16px; margin: 10px 0; }
+        #chart { width: 100%; height: 400px; margin-top: 30px; }
+    </style>
+</head>
+<body>
+    <h2>GitHub信息挖掘 智能体 LLM 智能报告可视化</h2>
+    <form id="reportForm">
+        <label>输入 GitHub 仓库地址：</label><br>
+        <input id="repoUrl" type="text" style="width:60%" placeholder="如 https://github.com/mlabonne/llm-course.git" required=""><br>
+        <button type="submit">分析仓库</button>
+    </form>
+    <div id="result">分析完成！</div>
+    <div id="copyLinkContainer" style="margin-top:20px;"><b>仓库地址：</b>https://github.com/mlabonne/llm-course.git <button onclick="copyToClipboard(&#39;https://github.com/mlabonne/llm-course.git&#39;)">复制</button><br><b>2025年更新内容：</b> <a href="https://github.com/mlabonne/llm-course/commits" target="_blank">https://github.com/mlabonne/llm-course/commits</a> <button onclick="copyToClipboard(&#39;https://github.com/mlabonne/llm-course/commits&#39;)">复制</button></div>
+    <div id="chart" style="margin-top: 30px; user-select: none; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); position: relative;" _echarts_instance_="ec_1750296483088"></div>
+    <div id="issueList" style="margin-top:30px;"><h4>Issue 列表</h4><ul><li>Where !!! #109 <button onclick="copyToClipboard(&#39;Where !!! #109&#39;)">复制</button></li><li>[Question] In the Introduction_to_Weight_Quantization article, the calculation in the `calculate_perplexity` section seems wrong #108 <button onclick="copyToClipboard(&#39;[Question] In the Introduction_to_Weight_Quantization article, the calculation in the `calculate_perplexity` section seems wrong #108&#39;)">复制</button></li><li>Recommandation resources for LLM training! #107 <button onclick="copyToClipboard(&#39;Recommandation resources for LLM training! #107&#39;)">复制</button></li><li>Where is it best to ask you a question #106 <button onclick="copyToClipboard(&#39;Where is it best to ask you a question #106&#39;)">复制</button></li><li>How do I use the huggingface assistant?  #81 <button onclick="copyToClipboard(&#39;How do I use the huggingface assistant?  #81&#39;)">复制</button></li><li>Fixing the Colab memory issue and llama.cpp/quantize script problem on CUDA #46 <button onclick="copyToClipboard(&#39;Fixing the Colab memory issue and llama.cpp/quantize script problem on CUDA #46&#39;)">复制</button></li><li>Fix typo #17 <button onclick="copyToClipboard(&#39;Fix typo #17&#39;)">复制</button></li></ul></div>
+    <div id="prList" style="margin-top:30px;"><h4>PR 列表</h4><ul><li>Fix/cuda build quantization #103 <button onclick="copyToClipboard(&#39;Fix/cuda build quantization #103&#39;)">复制</button></li><li>Add Crystalcareai to contributor list. #95 <button onclick="copyToClipboard(&#39;Add Crystalcareai to contributor list. #95&#39;)">复制</button></li><li>Add CAMEL cookbooks to RAG part #92 <button onclick="copyToClipboard(&#39;Add CAMEL cookbooks to RAG part #92&#39;)">复制</button></li><li>Update README.md #90 <button onclick="copyToClipboard(&#39;Update README.md #90&#39;)">复制</button></li><li>Update Advanced RAG techniques in README.md #83 <button onclick="copyToClipboard(&#39;Update Advanced RAG techniques in README.md #83&#39;)">复制</button></li><li>test #82 <button onclick="copyToClipboard(&#39;test #82&#39;)">复制</button></li><li>Changes made in Readme file #80 <button onclick="copyToClipboard(&#39;Changes made in Readme file #80&#39;)">复制</button></li><li>Fix img disappearing under toggled section #63 <button onclick="copyToClipboard(&#39;Fix img disappearing under toggled section #63&#39;)">复制</button></li><li>Added excellent 3Blue1Brown visual transformer explanation #60 <button onclick="copyToClipboard(&#39;Added excellent 3Blue1Brown visual transformer explanation #60&#39;)">复制</button></li><li>Fix link to 4-bit quantization blog post, change order of references … #59 <button onclick="copyToClipboard(&#39;Fix link to 4-bit quantization blog post, change order of references … #59&#39;)">复制</button></li><li>Fixing the Colab memory issue and llama.cpp/quantize script problem on CUDA #46 <button onclick="copyToClipboard(&#39;Fixing the Colab memory issue and llama.cpp/quantize script problem on CUDA #46&#39;)">复制</button></li><li>Test #45 <button onclick="copyToClipboard(&#39;Test #45&#39;)">复制</button></li><li>extend explanation for human evaluation #37 <button onclick="copyToClipboard(&#39;extend explanation for human evaluation #37&#39;)">复制</button></li><li>Update Fine-tune Llama 2 libraries #32 <button onclick="copyToClipboard(&#39;Update Fine-tune Llama 2 libraries #32&#39;)">复制</button></li><li>link to the medium article explaining causal and MLM #24 <button onclick="copyToClipboard(&#39;link to the medium article explaining causal and MLM #24&#39;)">复制</button></li><li>Request to add `tensorli` 😄  #23 <button onclick="copyToClipboard(&#39;Request to add `tensorli` 😄  #23&#39;)">复制</button></li><li>Fix typo #17 <button onclick="copyToClipboard(&#39;Fix typo #17&#39;)">复制</button></li></ul></div>
+    <div id="contributorRank" style="margin-top:30px;"><h4>贡献者排行榜</h4><ol><li>mlabonne (90次) <button onclick="copyToClipboard(&#39;mlabonne&#39;)">复制主页</button></li><li>pitmonticone (1次) <button onclick="copyToClipboard(&#39;pitmonticone&#39;)">复制主页</button></li></ol></div>
+    <script>
+        // 复制功能
+        function copyToClipboard(text) {
+            navigator.clipboard.writeText(text);
+            alert('已复制到剪贴板: ' + text);
+        }
+        // 解析报告内容，提取链接、issue、pr、贡献者等
+        function parseReport(result) {
+            const repoRegex = /(https?:\/\/github\.com\/[\w\-]+\/[\w\-]+\.git)/g;
+            const issueRegex = /- (.*?)#(\d+)/g;
+            const prRegex = /- (.*?)#(\d+)/g;
+            const contributorRegex = /贡献者：(.*?)\s*\((\d+)次\)/g;
+            return {
+                repos: [...result.matchAll(repoRegex)].map(m => m[1]),
+                issues: [...result.matchAll(issueRegex)].map(m => ({title: m[1], number: m[2]})),
+                prs: [...result.matchAll(prRegex)].map(m => ({title: m[1], number: m[2]})),
+                contributors: [...result.matchAll(contributorRegex)].map(m => ({name: m[1], count: m[2]}))
+            };
+        }
+        document.getElementById('reportForm').onsubmit = async function(e) {
+            e.preventDefault();
+            document.getElementById('result').innerText = '正在分析仓库...';
+            document.getElementById('chart').innerHTML = '';
+            document.getElementById('copyLinkContainer').innerHTML = '';
+            document.getElementById('issueList').innerHTML = '';
+            document.getElementById('prList').innerHTML = '';
+            document.getElementById('contributorRank').innerHTML = '';
+            const repoUrl = document.getElementById('repoUrl').value.trim();
+            // 调用后端 /api/statistics 获取结构化数据
+            const res = await fetch('/api/statistics', {
+                method: 'POST',
+                headers: { 'Content-Type': 'application/json' },
+                body: JSON.stringify({ repo_url: repoUrl })
+            });
+            const data = await res.json();
+            if(data.error) {
+                document.getElementById('result').innerText = data.error;
+                return;
+            }
+            // 展示仓库地址和一键复制
+            let html = `<b>仓库地址：</b>${repoUrl} <button onclick=\"copyToClipboard('${repoUrl}')\">复制</button><br>`;
+            html += `<b>2025年更新内容：</b> <a href='${data.commits_url}' target='_blank'>${data.commits_url}</a> <button onclick=\"copyToClipboard('${data.commits_url}')\">复制</button>`;
+            document.getElementById('copyLinkContainer').innerHTML = html;
+            // 展示 issues
+            if(data.issues && data.issues.length > 0) {
+                let html = '<h4>Issue 列表</h4><ul>';
+                data.issues.forEach(i => {
+                    html += `<li>${i.title || i.body || '无标题'} #${i.number} <button onclick=\"copyToClipboard('${i.title || i.body || '无标题'} #${i.number}')\">复制</button></li>`;
+                });
+                html += '</ul>';
+                document.getElementById('issueList').innerHTML = html;
+            }
+            // 展示 PRs
+            if(data.prs && data.prs.length > 0) {
+                let html = '<h4>PR 列表</h4><ul>';
+                data.prs.forEach(i => {
+                    html += `<li>${i.title || '无标题'} #${i.number} <button onclick=\"copyToClipboard('${i.title || '无标题'} #${i.number}')\">复制</button></li>`;
+                });
+                html += '</ul>';
+                document.getElementById('prList').innerHTML = html;
+            }
+            // 展示贡献者
+            if(data.contributors && data.contributors.length > 0) {
+                let html = '<h4>贡献者排行榜</h4><ol>';
+                data.contributors.forEach(c => {
+                    html += `<li>${c.login} (${c.contributions}次) <button onclick=\"copyToClipboard('${c.login}')\">复制主页</button></li>`;
+                });
+                html += '</ol>';
+                document.getElementById('contributorRank').innerHTML = html;
+            }
+            // 统计图表（以 issues/PRs 数量为例）
+            const chartDom = document.getElementById('chart');
+            const myChart = echarts.init(chartDom);
+            const option = {
+                title: { text: '2025年仓库活跃度统计' },
+                tooltip: {},
+                legend: { data: ['Issues', 'PRs', 'Commits'] },
+                xAxis: { type: 'category', data: ['Issues', 'PRs', 'Commits'] },
+                yAxis: { type: 'value' },
+                series: [{
+                    name: '数量',
+                    data: [data.issues ? data.issues.length : 0, data.prs ? data.prs.length : 0, data.commits ? data.commits.length : 0],
+                    type: 'bar'
+                }]
+            };
+            myChart.setOption(option);
+            document.getElementById('result').innerText = '分析完成！';
+        }
+    </script>
+
+</body></html>

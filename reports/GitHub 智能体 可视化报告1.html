@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<!-- saved from url=(0022)http://127.0.0.1:8888/ -->
+<html lang="zh-CN"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    
+    <title>GitHub 智能体 可视化报告</title>
+    <script src="./GitHub 智能体 可视化报告1_files/echarts.min.js.下载"></script>
+    <style>
+        body { font-family: 'Microsoft YaHei', Arial, sans-serif; margin: 40px; }
+        #result { margin-top: 30px; }
+        textarea { width: 100%; height: 120px; }
+        select, button { font-size: 16px; margin: 10px 0; }
+        #chart { width: 100%; height: 400px; margin-top: 30px; }
+    </style>
+</head>
+<body>
+    <h2>GitHub信息挖掘 智能体 LLM 智能报告可视化</h2>
+    <form id="reportForm">
+        <label>输入 GitHub 仓库地址：</label><br>
+        <input id="repoUrl" type="text" style="width:60%" placeholder="如 https://github.com/mlabonne/llm-course.git" required=""><br>
+        <button type="submit">分析仓库</button>
+    </form>
+    <div id="result">分析完成！</div>
+    <div id="copyLinkContainer" style="margin-top:20px;"><b>仓库地址：</b>https://github.com/openai/openai-cookbook <button onclick="copyToClipboard(&#39;https://github.com/openai/openai-cookbook&#39;)">复制</button><br><b>2025年更新内容：</b> <a href="https://github.com/openai/openai-cookbook/commits" target="_blank">https://github.com/openai/openai-cookbook/commits</a> <button onclick="copyToClipboard(&#39;https://github.com/openai/openai-cookbook/commits&#39;)">复制</button></div>
+    <div id="chart" style="margin-top: 30px; user-select: none; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); position: relative;" _echarts_instance_="ec_1750296963003"><div style="position: relative; width: 1066px; height: 400px; padding: 0px; margin: 0px; border-width: 0px; cursor: default;"><canvas data-zr-dom-id="zr_0" width="2132" height="800" style="position: absolute; left: 0px; top: 0px; width: 1066px; height: 400px; user-select: none; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); padding: 0px; margin: 0px; border-width: 0px;"></canvas></div><div class="" style="position: absolute; display: block; border-style: solid; white-space: nowrap; z-index: 9999999; box-shadow: rgba(0, 0, 0, 0.2) 1px 2px 10px; background-color: rgb(255, 255, 255); border-width: 1px; border-radius: 4px; color: rgb(102, 102, 102); font: 14px / 21px &quot;Microsoft YaHei&quot;; padding: 10px; top: 0px; left: 0px; transform: translate3d(866px, 109px, 0px); border-color: rgb(84, 112, 198); pointer-events: none; visibility: hidden; opacity: 0;"><div style="margin: 0px 0 0;line-height:1;"><div style="font-size:14px;color:#666;font-weight:400;line-height:1;">数量</div><div style="margin: 10px 0 0;line-height:1;"><div style="margin: 0px 0 0;line-height:1;"><span style="display:inline-block;margin-right:4px;border-radius:10px;width:10px;height:10px;background-color:#5470c6;"></span><span style="font-size:14px;color:#666;font-weight:400;margin-left:2px">Commits</span><span style="float:right;margin-left:20px;font-size:14px;color:#666;font-weight:900">30</span><div style="clear:both"></div></div><div style="clear:both"></div></div><div style="clear:both"></div></div></div></div>
+    <div id="issueList" style="margin-top:30px;"><h4>Issue 列表</h4><ul><li>[WIP] add new cookbook for codex-jira #1910 <button onclick="copyToClipboard(&#39;[WIP] add new cookbook for codex-jira #1910&#39;)">复制</button></li><li>[URGENT] SOS - Save Our Souls, Universal morality update required to continue: M = ζ − S #1909 <button onclick="copyToClipboard(&#39;[URGENT] SOS - Save Our Souls, Universal morality update required to continue: M = ζ − S #1909&#39;)">复制</button></li><li>Fix: update notebook to langfuse sdk v3 #1908 <button onclick="copyToClipboard(&#39;Fix: update notebook to langfuse sdk v3 #1908&#39;)">复制</button></li><li>mcp powered agents registry #1907 <button onclick="copyToClipboard(&#39;mcp powered agents registry #1907&#39;)">复制</button></li><li>fixed repetition #1906 <button onclick="copyToClipboard(&#39;fixed repetition #1906&#39;)">复制</button></li><li>Update stale.yaml #1905 <button onclick="copyToClipboard(&#39;Update stale.yaml #1905&#39;)">复制</button></li><li>Fix errors in GitHub Actions Workflow script #1904 <button onclick="copyToClipboard(&#39;Fix errors in GitHub Actions Workflow script #1904&#39;)">复制</button></li><li>rft.ipynb: typo updates #1903 <button onclick="copyToClipboard(&#39;rft.ipynb: typo updates #1903&#39;)">复制</button></li><li>added some notes on addressing lazy behavior #1902 <button onclick="copyToClipboard(&#39;added some notes on addressing lazy behavior #1902&#39;)">复制</button></li><li>improve mcp_eval notebook #1901 <button onclick="copyToClipboard(&#39;improve mcp_eval notebook #1901&#39;)">复制</button></li><li>Alowden/fine tuning techniques dpo #1900 <button onclick="copyToClipboard(&#39;Alowden/fine tuning techniques dpo #1900&#39;)">复制</button></li><li>Update elastic search cookbook to use latest API #1899 <button onclick="copyToClipboard(&#39;Update elastic search cookbook to use latest API #1899&#39;)">复制</button></li><li>Add Google AlloyDB as vector database #1898 <button onclick="copyToClipboard(&#39;Add Google AlloyDB as vector database #1898&#39;)">复制</button></li><li>mcp powered voice agents #1897 <button onclick="copyToClipboard(&#39;mcp powered voice agents #1897&#39;)">复制</button></li><li>Small link correction to rft healthbench cookbook #1896 <button onclick="copyToClipboard(&#39;Small link correction to rft healthbench cookbook #1896&#39;)">复制</button></li><li>[PROBLEM] RFT example failing for fine tuning job creation #1895 <button onclick="copyToClipboard(&#39;[PROBLEM] RFT example failing for fine tuning job creation #1895&#39;)">复制</button></li><li>use openai web saerch, update models used #1894 <button onclick="copyToClipboard(&#39;use openai web saerch, update models used #1894&#39;)">复制</button></li><li>Memory launch #1893 <button onclick="copyToClipboard(&#39;Memory launch #1893&#39;)">复制</button></li><li>code-tool-eval-cookbook #1892 <button onclick="copyToClipboard(&#39;code-tool-eval-cookbook #1892&#39;)">复制</button></li><li>Code-update-examples-refinement #1891 <button onclick="copyToClipboard(&#39;Code-update-examples-refinement #1891&#39;)">复制</button></li><li>openai_evals_web_search_reg_images_update #1890 <button onclick="copyToClipboard(&#39;openai_evals_web_search_reg_images_update #1890&#39;)">复制</button></li><li>Cookbook updates #1889 <button onclick="copyToClipboard(&#39;Cookbook updates #1889&#39;)">复制</button></li><li>Add examples for structured outputs and tool calling with evals. #1888 <button onclick="copyToClipboard(&#39;Add examples for structured outputs and tool calling with evals. #1888&#39;)">复制</button></li><li>[FEATURE] Enable Codex to Push Directly to Current Working Branch Without PR or Patch #1887 <button onclick="copyToClipboard(&#39;[FEATURE] Enable Codex to Push Directly to Current Working Branch Without PR or Patch #1887&#39;)">复制</button></li><li>Added instructions for using throttled-py to smooth API calls #1886 <button onclick="copyToClipboard(&#39;Added instructions for using throttled-py to smooth API calls #1886&#39;)">复制</button></li><li>Form &amp; Content #1885 <button onclick="copyToClipboard(&#39;Form &amp; Content #1885&#39;)">复制</button></li><li>[PROBLEM] McpError: Connection closed when running multi-agent portfolio collaboration example with LLaMA3 via Ollama #1884 <button onclick="copyToClipboard(&#39;[PROBLEM] McpError: Connection closed when running multi-agent portfolio collaboration example with LLaMA3 via Ollama #1884&#39;)">复制</button></li><li>registry updates #1883 <button onclick="copyToClipboard(&#39;registry updates #1883&#39;)">复制</button></li><li>Minor updates and images addition to cookbook #1882 <button onclick="copyToClipboard(&#39;Minor updates and images addition to cookbook #1882&#39;)">复制</button></li><li>Fixes stripe eval diagram render #1881 <button onclick="copyToClipboard(&#39;Fixes stripe eval diagram render #1881&#39;)">复制</button></li></ul></div>
+    <div id="prList" style="margin-top:30px;"><h4>PR 列表</h4><ul><li>[WIP] add new cookbook for codex-jira #1910 <button onclick="copyToClipboard(&#39;[WIP] add new cookbook for codex-jira #1910&#39;)">复制</button></li><li>Fix: update notebook to langfuse sdk v3 #1908 <button onclick="copyToClipboard(&#39;Fix: update notebook to langfuse sdk v3 #1908&#39;)">复制</button></li><li>mcp powered agents registry #1907 <button onclick="copyToClipboard(&#39;mcp powered agents registry #1907&#39;)">复制</button></li><li>fixed repetition #1906 <button onclick="copyToClipboard(&#39;fixed repetition #1906&#39;)">复制</button></li><li>Update stale.yaml #1905 <button onclick="copyToClipboard(&#39;Update stale.yaml #1905&#39;)">复制</button></li><li>Fix errors in GitHub Actions Workflow script #1904 <button onclick="copyToClipboard(&#39;Fix errors in GitHub Actions Workflow script #1904&#39;)">复制</button></li><li>rft.ipynb: typo updates #1903 <button onclick="copyToClipboard(&#39;rft.ipynb: typo updates #1903&#39;)">复制</button></li><li>added some notes on addressing lazy behavior #1902 <button onclick="copyToClipboard(&#39;added some notes on addressing lazy behavior #1902&#39;)">复制</button></li><li>improve mcp_eval notebook #1901 <button onclick="copyToClipboard(&#39;improve mcp_eval notebook #1901&#39;)">复制</button></li><li>Alowden/fine tuning techniques dpo #1900 <button onclick="copyToClipboard(&#39;Alowden/fine tuning techniques dpo #1900&#39;)">复制</button></li><li>Update elastic search cookbook to use latest API #1899 <button onclick="copyToClipboard(&#39;Update elastic search cookbook to use latest API #1899&#39;)">复制</button></li><li>Add Google AlloyDB as vector database #1898 <button onclick="copyToClipboard(&#39;Add Google AlloyDB as vector database #1898&#39;)">复制</button></li><li>mcp powered voice agents #1897 <button onclick="copyToClipboard(&#39;mcp powered voice agents #1897&#39;)">复制</button></li><li>Small link correction to rft healthbench cookbook #1896 <button onclick="copyToClipboard(&#39;Small link correction to rft healthbench cookbook #1896&#39;)">复制</button></li><li>use openai web saerch, update models used #1894 <button onclick="copyToClipboard(&#39;use openai web saerch, update models used #1894&#39;)">复制</button></li><li>Memory launch #1893 <button onclick="copyToClipboard(&#39;Memory launch #1893&#39;)">复制</button></li><li>code-tool-eval-cookbook #1892 <button onclick="copyToClipboard(&#39;code-tool-eval-cookbook #1892&#39;)">复制</button></li><li>Code-update-examples-refinement #1891 <button onclick="copyToClipboard(&#39;Code-update-examples-refinement #1891&#39;)">复制</button></li><li>openai_evals_web_search_reg_images_update #1890 <button onclick="copyToClipboard(&#39;openai_evals_web_search_reg_images_update #1890&#39;)">复制</button></li><li>Cookbook updates #1889 <button onclick="copyToClipboard(&#39;Cookbook updates #1889&#39;)">复制</button></li><li>Add examples for structured outputs and tool calling with evals. #1888 <button onclick="copyToClipboard(&#39;Add examples for structured outputs and tool calling with evals. #1888&#39;)">复制</button></li><li>Added instructions for using throttled-py to smooth API calls #1886 <button onclick="copyToClipboard(&#39;Added instructions for using throttled-py to smooth API calls #1886&#39;)">复制</button></li><li>Form &amp; Content #1885 <button onclick="copyToClipboard(&#39;Form &amp; Content #1885&#39;)">复制</button></li><li>registry updates #1883 <button onclick="copyToClipboard(&#39;registry updates #1883&#39;)">复制</button></li><li>Minor updates and images addition to cookbook #1882 <button onclick="copyToClipboard(&#39;Minor updates and images addition to cookbook #1882&#39;)">复制</button></li><li>Fixes stripe eval diagram render #1881 <button onclick="copyToClipboard(&#39;Fixes stripe eval diagram render #1881&#39;)">复制</button></li><li>Fixes diagram.svg render #1880 <button onclick="copyToClipboard(&#39;Fixes diagram.svg render #1880&#39;)">复制</button></li><li>Eval driven system design cookbook #1875 <button onclick="copyToClipboard(&#39;Eval driven system design cookbook #1875&#39;)">复制</button></li><li>Add “Selecting a Model Based on Stripe Conversion” notebook #1873 <button onclick="copyToClipboard(&#39;Add “Selecting a Model Based on Stripe Conversion” notebook #1873&#39;)">复制</button></li><li>Fix typos #1872 <button onclick="copyToClipboard(&#39;Fix typos #1872&#39;)">复制</button></li></ul></div>
+    <div id="contributorRank" style="margin-top:30px;"><h4>贡献者排行榜</h4><ol><li>ted-at-openai (222次) <button onclick="copyToClipboard(&#39;ted-at-openai&#39;)">复制主页</button></li><li>simonpfish (77次) <button onclick="copyToClipboard(&#39;simonpfish&#39;)">复制主页</button></li><li>colin-openai (58次) <button onclick="copyToClipboard(&#39;colin-openai&#39;)">复制主页</button></li><li>logankilpatrick (35次) <button onclick="copyToClipboard(&#39;logankilpatrick&#39;)">复制主页</button></li><li>dependabot[bot] (31次) <button onclick="copyToClipboard(&#39;dependabot[bot]&#39;)">复制主页</button></li><li>shyamal-anadkat (25次) <button onclick="copyToClipboard(&#39;shyamal-anadkat&#39;)">复制主页</button></li><li>pap-openai (22次) <button onclick="copyToClipboard(&#39;pap-openai&#39;)">复制主页</button></li><li>liuliuOD (21次) <button onclick="copyToClipboard(&#39;liuliuOD&#39;)">复制主页</button></li><li>katia-openai (19次) <button onclick="copyToClipboard(&#39;katia-openai&#39;)">复制主页</button></li><li>shikhar-cyber (18次) <button onclick="copyToClipboard(&#39;shikhar-cyber&#39;)">复制主页</button></li><li>teomusatoiu (15次) <button onclick="copyToClipboard(&#39;teomusatoiu&#39;)">复制主页</button></li><li>isafulf (14次) <button onclick="copyToClipboard(&#39;isafulf&#39;)">复制主页</button></li><li>colin-jarvis (12次) <button onclick="copyToClipboard(&#39;colin-jarvis&#39;)">复制主页</button></li><li>jhills20 (12次) <button onclick="copyToClipboard(&#39;jhills20&#39;)">复制主页</button></li><li>msingh-openai (12次) <button onclick="copyToClipboard(&#39;msingh-openai&#39;)">复制主页</button></li><li>lspacagna-oai (11次) <button onclick="copyToClipboard(&#39;lspacagna-oai&#39;)">复制主页</button></li><li>cmurtz-msft (11次) <button onclick="copyToClipboard(&#39;cmurtz-msft&#39;)">复制主页</button></li><li>joe-at-openai (11次) <button onclick="copyToClipboard(&#39;joe-at-openai&#39;)">复制主页</button></li><li>ibigio (9次) <button onclick="copyToClipboard(&#39;ibigio&#39;)">复制主页</button></li><li>kacperlukawski (9次) <button onclick="copyToClipboard(&#39;kacperlukawski&#39;)">复制主页</button></li><li>filipeabperes (9次) <button onclick="copyToClipboard(&#39;filipeabperes&#39;)">复制主页</button></li><li>billchen-openai (8次) <button onclick="copyToClipboard(&#39;billchen-openai&#39;)">复制主页</button></li><li>ericning-o (8次) <button onclick="copyToClipboard(&#39;ericning-o&#39;)">复制主页</button></li><li>robtinn (8次) <button onclick="copyToClipboard(&#39;robtinn&#39;)">复制主页</button></li><li>aaronwilkowitz-openai (7次) <button onclick="copyToClipboard(&#39;aaronwilkowitz-openai&#39;)">复制主页</button></li><li>rupert-openai (7次) <button onclick="copyToClipboard(&#39;rupert-openai&#39;)">复制主页</button></li><li>jamescalam (7次) <button onclick="copyToClipboard(&#39;jamescalam&#39;)">复制主页</button></li><li>MikeHeaton (7次) <button onclick="copyToClipboard(&#39;MikeHeaton&#39;)">复制主页</button></li><li>gaborcselle (6次) <button onclick="copyToClipboard(&#39;gaborcselle&#39;)">复制主页</button></li><li>kwhinnery-openai (6次) <button onclick="copyToClipboard(&#39;kwhinnery-openai&#39;)">复制主页</button></li></ol></div>
+    <script>
+        // 复制功能
+        function copyToClipboard(text) {
+            navigator.clipboard.writeText(text);
+            alert('已复制到剪贴板: ' + text);
+        }
+        // 解析报告内容，提取链接、issue、pr、贡献者等
+        function parseReport(result) {
+            const repoRegex = /(https?:\/\/github\.com\/[\w\-]+\/[\w\-]+\.git)/g;
+            const issueRegex = /- (.*?)#(\d+)/g;
+            const prRegex = /- (.*?)#(\d+)/g;
+            const contributorRegex = /贡献者：(.*?)\s*\((\d+)次\)/g;
+            return {
+                repos: [...result.matchAll(repoRegex)].map(m => m[1]),
+                issues: [...result.matchAll(issueRegex)].map(m => ({title: m[1], number: m[2]})),
+                prs: [...result.matchAll(prRegex)].map(m => ({title: m[1], number: m[2]})),
+                contributors: [...result.matchAll(contributorRegex)].map(m => ({name: m[1], count: m[2]}))
+            };
+        }
+        document.getElementById('reportForm').onsubmit = async function(e) {
+            e.preventDefault();
+            document.getElementById('result').innerText = '正在分析仓库...';
+            document.getElementById('chart').innerHTML = '';
+            document.getElementById('copyLinkContainer').innerHTML = '';
+            document.getElementById('issueList').innerHTML = '';
+            document.getElementById('prList').innerHTML = '';
+            document.getElementById('contributorRank').innerHTML = '';
+            const repoUrl = document.getElementById('repoUrl').value.trim();
+            // 调用后端 /api/statistics 获取结构化数据
+            const res = await fetch('/api/statistics', {
+                method: 'POST',
+                headers: { 'Content-Type': 'application/json' },
+                body: JSON.stringify({ repo_url: repoUrl })
+            });
+            const data = await res.json();
+            if(data.error) {
+                document.getElementById('result').innerText = data.error;
+                return;
+            }
+            // 展示仓库地址和一键复制
+            let html = `<b>仓库地址：</b>${repoUrl} <button onclick=\"copyToClipboard('${repoUrl}')\">复制</button><br>`;
+            html += `<b>2025年更新内容：</b> <a href='${data.commits_url}' target='_blank'>${data.commits_url}</a> <button onclick=\"copyToClipboard('${data.commits_url}')\">复制</button>`;
+            document.getElementById('copyLinkContainer').innerHTML = html;
+            // 展示 issues
+            if(data.issues && data.issues.length > 0) {
+                let html = '<h4>Issue 列表</h4><ul>';
+                data.issues.forEach(i => {
+                    html += `<li>${i.title || i.body || '无标题'} #${i.number} <button onclick=\"copyToClipboard('${i.title || i.body || '无标题'} #${i.number}')\">复制</button></li>`;
+                });
+                html += '</ul>';
+                document.getElementById('issueList').innerHTML = html;
+            }
+            // 展示 PRs
+            if(data.prs && data.prs.length > 0) {
+                let html = '<h4>PR 列表</h4><ul>';
+                data.prs.forEach(i => {
+                    html += `<li>${i.title || '无标题'} #${i.number} <button onclick=\"copyToClipboard('${i.title || '无标题'} #${i.number}')\">复制</button></li>`;
+                });
+                html += '</ul>';
+                document.getElementById('prList').innerHTML = html;
+            }
+            // 展示贡献者
+            if(data.contributors && data.contributors.length > 0) {
+                let html = '<h4>贡献者排行榜</h4><ol>';
+                data.contributors.forEach(c => {
+                    html += `<li>${c.login} (${c.contributions}次) <button onclick=\"copyToClipboard('${c.login}')\">复制主页</button></li>`;
+                });
+                html += '</ol>';
+                document.getElementById('contributorRank').innerHTML = html;
+            }
+            // 统计图表（以 issues/PRs 数量为例）
+            const chartDom = document.getElementById('chart');
+            const myChart = echarts.init(chartDom);
+            const option = {
+                title: { text: '2025年仓库活跃度统计' },
+                tooltip: {},
+                legend: { data: ['Issues', 'PRs', 'Commits'] },
+                xAxis: { type: 'category', data: ['Issues', 'PRs', 'Commits'] },
+                yAxis: { type: 'value' },
+                series: [{
+                    name: '数量',
+                    data: [data.issues ? data.issues.length : 0, data.prs ? data.prs.length : 0, data.commits ? data.commits.length : 0],
+                    type: 'bar'
+                }]
+            };
+            myChart.setOption(option);
+            document.getElementById('result').innerText = '分析完成！';
+        }
+    </script>
+
+</body></html>

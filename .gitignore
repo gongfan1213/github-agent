@@ -161,16 +161,15 @@ cython_debug/
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
 
-# 配置文件
+# User-defined
+daily_progress/*
+
+# Sensitive configuration files
 config.json
-subscriptions.json
-
-# IDE
-.idea/
-.vscode/
-*.swp
-*.swo
-
-# 系统
-.DS_Store
-Thumbs.db
+.env
+.env.local
+.env.production
+secrets.json
+*.key
+*.pem
+ 
