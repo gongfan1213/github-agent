@@ -1,12 +1,12 @@
-# GitHub 仓库更新监控工具
+# GitHub Hacker News智能体
 # v0.2
 
-<<<<<<< HEAD
+![image](https://github.com/user-attachments/assets/b785e2ee-e7c6-4d31-82a7-239bcc91266f)
+
+![image](https://github.com/user-attachments/assets/6cfaebe5-897a-495e-8227-cf8bc068b412)
 
 
-=======
-![image](https://github.com/user-attachments/assets/62aca522-042c-474a-9555-1468f44a402d)
->>>>>>> 8c45dafbfc62b94f62cc53c7c041c34e2d2d0173
+![image](https://github.com/user-attachments/assets/b3650038-ae3e-41b4-aff8-99dfdd3476cc)
 
 
 这是一个用于监控 GitHub 仓库更新的工具，支持邮件和 Slack 通知。
